@@ -1,0 +1,1486 @@
+ VECTOR REPRESENTATION OF QUERIES ACCORDING TO WEIGHING SCHEME W1:
+
+(Q1: {'similarity': 0.299, 'law': 0.294, 'must': 0.301, 'obey': 0.526, 'construct': 0.369, 'aeroelastic': 0.402, 'model': 0.184, 'heat': 0.141, 'high': 0.135, 'speed': 0.142, 'aircraft': 0.261})
+
+(Q2: {'structural': 0.46, 'aeroelastic': 0.563, 'problem': 0.184, 'associate': 0.382, 'flight': 0.29, 'high': 0.189, 'speed': 0.199, 'aircraft': 0.365})
+
+(Q3: {'problem': 0.159, 'heat': 0.171, 'conduction': 0.378, 'composite': 0.548, 'slab': 0.516, 'solve': 0.312, 'far': 0.373})
+
+(Q4: {'criterion': 0.247, 'develop': 0.128, 'show': 0.074, 'empirically': 0.427, 'validity': 0.263, 'flow': 0.043, 'solution': 0.081, 'chemically': 0.337, 'react': 0.356, 'gas': 0.144, 'mixture': 0.271, 'base': 0.118, 'simplify': 0.222, 'assumption': 0.167, 'instantaneous': 0.337, 'local': 0.164, 'chemical': 0.239, 'equilibrium': 0.186})
+
+(Q5: {'chemical': 0.477, 'kinetic': 0.547, 'system': 0.363, 'applicable': 0.387, 'hypersonic': 0.275, 'aerodynamic': 0.282, 'problem': 0.191})
+
+(Q6: {'theoretical': 0.221, 'experimental': 0.176, 'guide': 0.522, 'turbulent': 0.285, 'couette': 0.585, 'flow': 0.078, 'behaviour': 0.467})
+
+(Q7: {'possible': 0.236, 'relate': 0.323, 'available': 0.269, 'pressure': 0.129, 'distribution': 0.135, 'ogive': 0.446, 'forebody': 0.485, 'zero': 0.218, 'angle': 0.177, 'attack': 0.235, 'low': 0.179, 'surface': 0.136, 'equivalent': 0.338})
+
+(Q8: {'method': 0.116, 'dash': 0.467, 'exact': 0.266, 'approximate': 0.206, 'presently': 0.604, 'available': 0.295, 'predict': 0.25, 'body': 0.162, 'pressure': 0.098, 'angle': 0.195, 'attack': 0.259})
+
+(Q9: {'paper': 0.284, 'internal': 0.53, 'slip': 0.653, 'flow': 0.097, 'heat': 0.233, 'transfer': 0.284, 'study': 0.261})
+
+(Q10: {'real': 0.398, 'gas': 0.233, 'transport': 0.438, 'property': 0.268, 'air': 0.211, 'available': 0.302, 'wide': 0.353, 'range': 0.162, 'enthalpy': 0.388, 'density': 0.294})
+
+(Q11: {'possible': 0.278, 'find': 0.163, 'analytical': 0.338, 'similar': 0.283, 'solution': 0.137, 'strong': 0.394, 'blast': 0.501, 'wave': 0.21, 'problem': 0.162, 'newtonian': 0.38, 'approximation': 0.25})
+
+(Q12: {'aerodynamic': 0.251, 'performance': 0.4, 'channel': 0.513, 'flow': 0.076, 'ground': 0.443, 'effect': 0.116, 'machine': 0.494, 'calculate': 0.233})
+
+(Q13: {'basic': 0.338, 'mechanism': 0.36, 'transonic': 0.288, 'aileron': 0.469, 'buzz': 0.673})
+
+(Q14: {'paper': 0.341, 'shock': 0.314, 'sound': 0.65, 'wave': 0.338, 'interaction': 0.498})
+
+(Q15: {'material': 0.5, 'property': 0.287, 'photoelastic': 0.817})
+
+(Q16: {'transverse': 0.356, 'potential': 0.359, 'flow': 0.073, 'body': 0.176, 'revolution': 0.325, 'calculate': 0.225, 'efficiently': 0.225, 'electronic': 0.565, 'computer': 0.427})
+
+(Q17: {'three': 0.326, 'dimensional': 0.258, 'problem': 0.207, 'transverse': 0.449, 'potential': 0.452, 'flow': 0.092, 'body': 0.222, 'revolution': 0.409, 'reduce': 0.352, 'two': 0.17})
+
+(Q18: {'experimental': 0.254, 'pressure': 0.163, 'distribution': 0.246, 'body': 0.269, 'revolution': 0.497, 'angle': 0.323, 'attack': 0.429, 'available': 0.49})
+
+(Q19: {'exist': 0.216, 'good': 0.181, 'basic': 0.288, 'treatment': 0.28, 'dynamic': 0.232, 'entry': 0.284, 'combine': 0.278, 'consideration': 0.219, 'realistic': 0.519, 'effect': 0.079, 'relative': 0.282, 'simplicity': 0.377, 'result': 0.057})
+
+(Q20: {'anyone': 0.05, 'formally': 0.434, 'determine': 0.122, 'influence': 0.188, 'joule': 0.512, 'heating': 0.25, 'produce': 0.204, 'induced': 0.307, 'current': 0.294, 'magnetohydrodynamic': 0.297, 'free': 0.133, 'convection': 0.277, 'flow': 0.046, 'general': 0.132, 'condition': 0.101})
+
+
+ VECTOR REPRESENTATION OF QUERIES ACCORDING TO WEIGHING SCHEME W2:
+
+(Q1:{'similarity': 0.306, 'law': 0.305, 'must': 0.306, 'obey': 0.374, 'construct': 0.327, 'aeroelastic': 0.337, 'model': 0.272, 'heat': 0.259, 'high': 0.257, 'speed': 0.259, 'aircraft': 0.294})
+
+(Q2:{'structural': 0.387, 'aeroelastic': 0.414, 'problem': 0.313, 'associate': 0.366, 'flight': 0.342, 'high': 0.315, 'speed': 0.317, 'aircraft': 0.361})
+
+(Q3:{'problem': 0.315, 'heat': 0.319, 'conduction': 0.384, 'composite': 0.437, 'slab': 0.427, 'solve': 0.363, 'far': 0.382})
+
+(Q4:{'criterion': 0.244, 'develop': 0.209, 'show': 0.192, 'empirically': 0.299, 'validity': 0.249, 'flow': 0.182, 'solution': 0.194, 'chemically': 0.272, 'react': 0.277, 'gas': 0.213, 'mixture': 0.252, 'base': 0.205, 'simplify': 0.237, 'assumption': 0.22, 'instantaneous': 0.272, 'local': 0.219, 'chemical': 0.242, 'equilibrium': 0.226})
+
+(Q5:{'chemical': 0.409, 'kinetic': 0.428, 'system': 0.378, 'applicable': 0.384, 'hypersonic': 0.353, 'aerodynamic': 0.355, 'problem': 0.33})
+
+(Q6:{'theoretical': 0.34, 'experimental': 0.327, 'guide': 0.43, 'turbulent': 0.36, 'couette': 0.45, 'flow': 0.298, 'behaviour': 0.415})
+
+(Q7:{'possible': 0.271, 'relate': 0.294, 'available': 0.28, 'pressure': 0.238, 'distribution': 0.244, 'ogive': 0.328, 'forebody': 0.338, 'zero': 0.266, 'angle': 0.255, 'attack': 0.271, 'low': 0.256, 'surface': 0.244, 'equivalent': 0.298})
+
+(Q8:{'method': 0.258, 'dash': 0.354, 'exact': 0.299, 'approximate': 0.283, 'presently': 0.391, 'available': 0.307, 'predict': 0.295, 'body': 0.271, 'pressure': 0.253, 'angle': 0.28, 'attack': 0.297})
+
+(Q9:{'paper': 0.363, 'internal': 0.425, 'slip': 0.456, 'flow': 0.315, 'heat': 0.349, 'transfer': 0.363, 'study': 0.357})
+
+(Q10:{'real': 0.341, 'gas': 0.296, 'transport': 0.352, 'property': 0.305, 'air': 0.289, 'available': 0.314, 'wide': 0.329, 'range': 0.277, 'enthalpy': 0.339, 'density': 0.313})
+
+(Q11:{'possible': 0.299, 'find': 0.27, 'analytical': 0.315, 'similar': 0.301, 'solution': 0.263, 'strong': 0.329, 'blast': 0.356, 'wave': 0.282, 'problem': 0.27, 'newtonian': 0.326, 'approximation': 0.292})
+
+(Q12:{'aerodynamic': 0.332, 'performance': 0.375, 'channel': 0.407, 'flow': 0.282, 'ground': 0.387, 'effect': 0.294, 'machine': 0.402, 'calculate': 0.327})
+
+(Q13:{'basic': 0.409, 'mechanism': 0.418, 'transonic': 0.39, 'aileron': 0.461, 'buzz': 0.541})
+
+(Q14:{'paper': 0.424, 'shock': 0.418, 'sound': 0.501, 'wave': 0.424, 'interaction': 0.463})
+
+(Q15:{'material': 0.533, 'property': 0.477, 'photoelastic': 0.699})
+
+(Q16:{'transverse': 0.346, 'potential': 0.347, 'flow': 0.267, 'body': 0.295, 'revolution': 0.337, 'calculate': 0.309, 'efficiently': 0.309, 'electronic': 0.404, 'computer': 0.366})
+
+(Q17:{'three': 0.322, 'dimensional': 0.307, 'problem': 0.296, 'transverse': 0.35, 'potential': 0.35, 'flow': 0.271, 'body': 0.299, 'revolution': 0.341, 'reduce': 0.328, 'two': 0.287})
+
+(Q18:{'experimental': 0.336, 'pressure': 0.317, 'distribution': 0.334, 'body': 0.339, 'revolution': 0.387, 'angle': 0.351, 'attack': 0.373, 'available': 0.385})
+
+(Q19:{'exist': 0.264, 'good': 0.254, 'basic': 0.286, 'treatment': 0.283, 'dynamic': 0.269, 'entry': 0.285, 'combine': 0.283, 'consideration': 0.264, 'realistic': 0.356, 'effect': 0.222, 'relative': 0.284, 'simplicity': 0.313, 'result': 0.215})
+
+(Q20:{'anyone': 0.201, 'formally': 0.321, 'determine': 0.223, 'influence': 0.244, 'joule': 0.346, 'heating': 0.263, 'produce': 0.249, 'induced': 0.282, 'current': 0.277, 'magnetohydrodynamic': 0.278, 'free': 0.227, 'convection': 0.272, 'flow': 0.199, 'general': 0.226, 'condition': 0.217})
+
+TOP 5 DOCUMENTS FOR THE QUERY UNDER WEIGHING SCHEMES W1 & W2
+Weight W1:  {'Q1,D817': 0.71127, 'Q1,D180': 0.63149, 'Q1,D282': 0.61346, 'Q1,D1026': 0.60991, 'Q1,D883': 0.59089}
+Weight W2:  {'Q1,D1026': 0.66457, 'Q1,D180': 0.65637, 'Q1,D817': 0.64741, 'Q1,D282': 0.61346, 'Q1,D591': 0.58568}
+Weight W1:  {'Q2,D875': 0.81418, 'Q2,D884': 0.61304, 'Q2,D728': 0.56672, 'Q2,D102': 0.55568, 'Q2,D1103': 0.5472}
+Weight W2:  {'Q2,D875': 0.61758, 'Q2,D882': 0.55112, 'Q2,D1103': 0.5472, 'Q2,D282': 0.54684, 'Q2,D862': 0.54461}
+Weight W1:  {'Q3,D282': 0.62509, 'Q3,D5': 0.62189, 'Q3,D485': 0.55414, 'Q3,D182': 0.53227, 'Q3,D183': 0.53227}
+Weight W2:  {'Q3,D282': 0.62509, 'Q3,D5': 0.58011, 'Q3,D485': 0.57843, 'Q3,D182': 0.53227, 'Q3,D183': 0.53227}
+Weight W1:  {'Q4,D31': 0.947, 'Q4,D181': 0.78221, 'Q4,D1030': 0.76475, 'Q4,D1291': 0.75697, 'Q4,D1171': 0.75137}
+Weight W2:  {'Q4,D1023': 1.14124, 'Q4,D31': 0.95306, 'Q4,D1026': 0.92167, 'Q4,D181': 0.78221, 'Q4,D1030': 0.76475}
+Weight W1:  {'Q5,D1011': 0.60102, 'Q5,D1073': 0.55427, 'Q5,D1177': 0.53222, 'Q5,D1178': 0.53222, 'Q5,D1103': 0.5292}
+Weight W2:  {'Q5,D1177': 0.53222, 'Q5,D1178': 0.53222, 'Q5,D1103': 0.5292, 'Q5,D1176': 0.52704, 'Q5,D1102': 0.5232}
+Weight W1:  {'Q6,D1174': 0.52943, 'Q6,D272': 0.49392, 'Q6,D1175': 0.4816, 'Q6,D1176': 0.4816, 'Q6,D1308': 0.44543}
+Weight W2:  {'Q6,D1174': 0.51104, 'Q6,D272': 0.49392, 'Q6,D1045': 0.4896, 'Q6,D130': 0.48618, 'Q6,D1175': 0.4816}
+Weight W1:  {'Q7,D137': 0.78922, 'Q7,D778': 0.72127, 'Q7,D339': 0.69238, 'Q7,D322': 0.67828, 'Q7,D340': 0.65356}
+Weight W2:  {'Q7,D137': 0.7548, 'Q7,D233': 0.72518, 'Q7,D778': 0.67713, 'Q7,D745': 0.67289, 'Q7,D153': 0.66585}
+Weight W1:  {'Q8,D21': 0.79599, 'Q8,D1083': 0.78368, 'Q8,D1379': 0.64761, 'Q8,D22': 0.63862, 'Q8,D23': 0.63862}
+Weight W2:  {'Q8,D21': 0.65715, 'Q8,D1083': 0.64072, 'Q8,D22': 0.63862, 'Q8,D23': 0.63862, 'Q8,D1024': 0.61949}
+Weight W1:  {'Q9,D282': 0.5514, 'Q9,D876': 0.54632, 'Q9,D877': 0.54632, 'Q9,D878': 0.54632, 'Q9,D879': 0.54632}
+Weight W2:  {'Q9,D281': 0.5514, 'Q9,D282': 0.5514, 'Q9,D875': 0.54632, 'Q9,D876': 0.54632, 'Q9,D877': 0.54632}
+Weight W1:  {'Q10,D451': 0.67262, 'Q10,D791': 0.63217, 'Q10,D1016': 0.61292, 'Q10,D503': 0.58956, 'Q10,D504': 0.58956}
+Weight W2:  {'Q10,D1103': 0.59237, 'Q10,D503': 0.58956, 'Q10,D504': 0.58956, 'Q10,D484': 0.58667, 'Q10,D485': 0.58667}
+Weight W1:  {'Q11,D483': 0.71048, 'Q11,D484': 0.7034, 'Q11,D485': 0.7034, 'Q11,D282': 0.697, 'Q11,D283': 0.697}
+Weight W2:  {'Q11,D483': 0.71071, 'Q11,D484': 0.7034, 'Q11,D485': 0.7034, 'Q11,D282': 0.697, 'Q11,D283': 0.697}
+Weight W1:  {'Q12,D251': 0.52058, 'Q12,D708': 0.50952, 'Q12,D878': 0.48605, 'Q12,D879': 0.48605, 'Q12,D880': 0.48605}
+Weight W2:  {'Q12,D1388': 0.54124, 'Q12,D137': 0.52058, 'Q12,D251': 0.52058, 'Q12,D631': 0.51947, 'Q12,D742': 0.51863}
+Weight W1:  {'Q13,D854': 0.38037, 'Q13,D855': 0.38037, 'Q13,D856': 0.38037, 'Q13,D857': 0.38037, 'Q13,D858': 0.38037}
+Weight W2:  {'Q13,D853': 0.38037, 'Q13,D854': 0.38037, 'Q13,D855': 0.38037, 'Q13,D856': 0.38037, 'Q13,D857': 0.38037}
+Weight W1:  {'Q14,D138': 0.49098, 'Q14,D139': 0.49098, 'Q14,D140': 0.49098, 'Q14,D141': 0.49098, 'Q14,D137': 0.48591}
+Weight W2:  {'Q14,D1102': 0.5606, 'Q14,D137': 0.54939, 'Q14,D1011': 0.50454, 'Q14,D138': 0.49098, 'Q14,D139': 0.49098}
+Weight W1:  {'Q15,D761': 0.33, 'Q15,D863': 0.26187, 'Q15,D864': 0.26187, 'Q15,D865': 0.26187, 'Q15,D878': 0.26187}
+Weight W2:  {'Q15,D761': 0.28942, 'Q15,D863': 0.26187, 'Q15,D864': 0.26187, 'Q15,D865': 0.26187, 'Q15,D878': 0.26187}
+Weight W1:  {'Q16,D746': 0.62915, 'Q16,D1358': 0.62798, 'Q16,D1359': 0.61034, 'Q16,D1360': 0.61034, 'Q16,D1361': 0.61034}
+Weight W2:  {'Q16,D1063': 0.86888, 'Q16,D745': 0.71553, 'Q16,D878': 0.70258, 'Q16,D746': 0.62915, 'Q16,D66': 0.61766}
+Weight W1:  {'Q17,D1358': 0.77359, 'Q17,D1359': 0.686, 'Q17,D1360': 0.686, 'Q17,D1038': 0.67505, 'Q17,D551': 0.66951}
+Weight W2:  {'Q17,D1358': 0.74421, 'Q17,D1359': 0.686, 'Q17,D1360': 0.686, 'Q17,D1048': 0.68346, 'Q17,D320': 0.65662}
+Weight W1:  {'Q18,D255': 0.5698, 'Q18,D327': 0.56657, 'Q18,D107': 0.54475, 'Q18,D326': 0.52557, 'Q18,D1030': 0.51799}
+Weight W2:  {'Q18,D254': 0.69549, 'Q18,D906': 0.63483, 'Q18,D1045': 0.61555, 'Q18,D1174': 0.6104, 'Q18,D1359': 0.60277}
+Weight W1:  {'Q19,D854': 0.69155, 'Q19,D224': 0.68297, 'Q19,D181': 0.66924, 'Q19,D775': 0.65894, 'Q19,D853': 0.65762}
+Weight W2:  {'Q19,D842': 0.80664, 'Q19,D853': 0.69229, 'Q19,D854': 0.69155, 'Q19,D523': 0.68731, 'Q19,D223': 0.68297}
+Weight W1:  {'Q20,D409': 0.78813, 'Q20,D865': 0.75423, 'Q20,D878': 0.72193, 'Q20,D879': 0.72193, 'Q20,D880': 0.72193}
+Weight W2:  {'Q20,D864': 0.81488, 'Q20,D409': 0.78813, 'Q20,D339': 0.73376, 'Q20,D408': 0.72255, 'Q20,D878': 0.72193}
+Query1 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.71127 817
+loading paths and the incremental stress law .
+
+2       0.63149 180
+boundary layer over a flat plate in presence of shear
+flow .
+
+3       0.61346 282
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+
+4       0.60991 1026
+note on creep buckling of columns .
+
+5       0.59089 883
+correlated fatigue data for aircraft structural joints .
+
+Query2 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.81418 875
+models for aeroelastic investigation .
+
+2       0.61304 884
+the estimation of fatigue damage on structural elements .
+
+3       0.56672 728
+free vibrations of continuous skin stringer panels .
+
+4       0.55568 102
+advantages and limitations of models .
+
+5       0.5472  1103
+pressures, densities and temperatures in the upper atmosphere .
+
+Query3 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.62509 282
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+
+2       0.62189 5
+one-dimensional transient heat conduction into a double-layer
+slab subjected to a linear heat input for a small time
+internal .
+
+3       0.55414 485
+linear heat flow in a composite slab .
+
+4       0.53227 182
+effect of roughness on transition in supersonic flow .
+
+5       0.53227 183
+properties of impact pressure probes in free molecule
+flow .
+
+Query4 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.947   31
+thermal buckling of supersonic wing panels .
+
+2       0.78221 181
+some problems on heat conduction in stratiform bodies .
+
+3       0.76475 1030
+note on creep buckling of columns .
+
+4       0.75697 1291
+atmosphere entries with spacecraft lift-drag ratios
+modulated to limit decelerations .
+
+5       0.75137 1171
+the stability under axial compression and lateral pressure
+of circular cylindrical shells with a soft elastic
+core .
+
+Query5 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.60102 1011
+free-flight measurements of the static and dynamic
+
+2       0.55427 1073
+a practical method for numerical evaluation of solutions
+of partial differential equations of the heat-conduction
+type .
+
+3       0.53222 1177
+effects of rapid heating on strength of airframe components .
+
+4       0.53222 1178
+buckling of ring-stiffened cylinders under a pure bending
+moment and a nonuniform temperature distribution .
+
+5       0.5292  1103
+pressures, densities and temperatures in the upper atmosphere .
+
+Query6 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.52943 1174
+general theory of buckling .
+
+2       0.49392 272
+oscillatory aerodynamic coefficients for a unified supersonic
+hypersonic strip theory .
+
+3       0.4816  1175
+stresses from local loadings in cylindrical pressure
+vessels .
+
+4       0.4816  1176
+bending tests of ring-stiffened circular cylinders .
+
+5       0.44543 1308
+a guide to the use of the m. i. t.  cone tables .
+
+Query7 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.78922 137
+the generation of sound by aerodynamic means .
+
+2       0.72127 778
+an integral related to the radiation integrals .
+
+3       0.69238 339
+experimental evaluation of heat transfer with transpiration
+cooling in a turbulent boundary layer at m=3 .2.
+
+4       0.67828 322
+on the numerical solution of the blasius problem with three-point
+boundary conditions .
+
+5       0.65356 340
+analysis of effects of diffusion of a foreign gas into
+the laminar boundary layer of a supersonic flow of
+air in a tube .
+
+Query8 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.79599 21
+on heat transfer in slip flow .
+
+2       0.78368 1083
+an investigation of fluid flow in two dimensions .
+
+3       0.64761 1379
+hypersonic flight and the re-entry problem .
+
+4       0.63862 22
+on slip-flow heat transfer to a flat plate .
+
+5       0.63862 23
+skin-friction and heat transfer characteristics of
+a laminar boundary layer on a cylinder in axial incompressible
+flow .
+
+Query9 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.5514  282
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+
+2       0.54632 876
+on flutter testing in high speed wind tunnels .
+
+3       0.54632 877
+the influence of aerodynamic heating on the flexural
+rigidity of a thin wing .
+
+4       0.54632 878
+experimental model techniques and equipment for flutter
+investigations .
+
+5       0.54632 879
+flutter model testing at transonic speeds .
+
+Query10 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.67262 451
+liapunov's methods in automatic control theory .
+
+2       0.63217 791
+measurements at mach numbers up to 2. 8 of the longitudinal
+characteristics of one plane and three cambered slender
+'ogee' wings .
+
+3       0.61292 1016
+principles of creep buckling weight-strength analysis
+
+4       0.58956 503
+theoretical prediction of the transonic characteristics
+of airfoils .
+
+5       0.58956 504
+stability of compressible boundary layers induced by
+a moving wave .
+
+Query11 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.71048 483
+stagnation point shock detachment distance for flow
+around spheres and cylinder .
+
+2       0.7034  484
+the influence of two-dimensional stream shear for airfoil
+maximum lift .
+
+3       0.7034  485
+linear heat flow in a composite slab .
+
+4       0.697   282
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+
+5       0.697   283
+laminar heat transfer around blunt bodies in dissociated
+air .
+
+Query12 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.52058 251
+a collection of longitudinal stability derivatives
+of wings at supersonic speeds .
+
+2       0.50952 708
+aerodynamic characteristics of two winged reentry vehicles at supersonic
+ and hypersonic speeds .
+
+3       0.48605 878
+experimental model techniques and equipment for flutter
+investigations .
+
+4       0.48605 879
+flutter model testing at transonic speeds .
+
+5       0.48605 880
+the design and testing of supersonic flutter models .
+
+Query13 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.38037 854
+boundary-value problems of the thin-walled circular
+cylinder .
+
+2       0.38037 855
+simplified formulas for boundary value problems of
+the thin-- walled circular cylinder .
+
+3       0.38037 856
+some experimental studies of panel flutter at mach
+1 .3.
+
+4       0.38037 857
+experimental studies of flutter of buckled rectangular
+panels at mach numbers from 1. 2 to 3. 0 including
+effects of pressure differential and of panel width-length
+ratio .
+
+5       0.38037 858
+experimental investigation at mach numbers 3. 0 of
+the effects of thermal stress and buckling on the flutter
+of four-bay aluminium alloy panels with length-width
+ratios of 10 .
+
+Query14 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.49098 138
+wakes in axial compressors .
+
+2       0.49098 139
+viscous effects on pitot tubes at low speeds .
+
+3       0.49098 140
+the determination of turbulent skin friction by means
+of pitot tubes .
+
+4       0.49098 141
+free-flight techniques for high speed aerodynamic research .
+
+5       0.48591 137
+the generation of sound by aerodynamic means .
+
+Query15 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.33    761
+buckling of sandwich under normal pressure .
+
+2       0.26187 863
+loads and deformations of buckled rectangular plates .
+
+3       0.26187 864
+status of flutter of flat and curved panels .
+
+4       0.26187 865
+a study of the thermal fatigue behaviour of metals .
+ the effect of test conditions on nickel-base high
+temperature alloys .
+
+5       0.26187 878
+experimental model techniques and equipment for flutter
+investigations .
+
+Query16 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.62915 746
+aeroelastic problems in connection with high speed
+flight .
+
+2       0.62798 1358
+compressive buckling of simply supported plates with
+transverse stiffeners .
+
+3       0.61034 1359
+compression tests on circular cylinders stiffened longitudinally
+by closely spaced z-section stringers .
+
+4       0.61034 1360
+simplified analysis of general instability of stiffened
+shells in pure bending .
+
+5       0.61034 1361
+large deflections of structures subjected to heating
+and external loads .
+
+Query17 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.77359 1358
+compressive buckling of simply supported plates with
+transverse stiffeners .
+
+2       0.686   1359
+compression tests on circular cylinders stiffened longitudinally
+by closely spaced z-section stringers .
+
+3       0.686   1360
+simplified analysis of general instability of stiffened
+shells in pure bending .
+
+4       0.67505 1038
+on transverse vibrations of thin, shallow elastic shells .
+
+5       0.66951 551
+analysis of a loaded cantilever plate by finite difference
+methods .
+
+Query18 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.5698  255
+an approximate solution of the turbulent boundary layer
+equations in incompressible and compressible .
+
+2       0.56657 327
+on local flat plate similarity in the hypersonic boundary
+layer .
+
+3       0.54475 107
+on the mixing of two parallel streams .
+
+4       0.52557 326
+forst-order slip effects on the compressible laminar
+boundary layer over a slender body of revolution in
+axial flow .
+
+5       0.51799 1030
+note on creep buckling of columns .
+
+Query19 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.69155 854
+boundary-value problems of the thin-walled circular
+cylinder .
+
+2       0.68297 224
+quasi-cylindrical surfaces with prescribed loadings
+in the linearised theory of supersonic flow .
+
+3       0.66924 181
+some problems on heat conduction in stratiform bodies .
+
+4       0.65894 775
+studies on two dimensional flows of compressible fluid.
+
+5       0.65762 853
+the accuracy of donnell's equations .
+
+Query20 Characteristics for weight1 :
+rank     score   external document identifier    headline
+1       0.78813 409
+on the base pressure resulting from the interaction of a supersonic external
+stream with a sonic or subsonic jet .
+
+2       0.75423 865
+a study of the thermal fatigue behaviour of metals .
+ the effect of test conditions on nickel-base high
+temperature alloys .
+
+3       0.72193 878
+experimental model techniques and equipment for flutter
+investigations .
+
+4       0.72193 879
+flutter model testing at transonic speeds .
+
+5       0.72193 880
+the design and testing of supersonic flutter models .
+
+Query1 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.66457 1026
+note on creep buckling of columns .
+
+2       0.65637 180
+boundary layer over a flat plate in presence of shear
+flow .
+
+3       0.64741 817
+loading paths and the incremental stress law .
+
+4       0.61346 282
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+
+5       0.58568 591
+an approximate equation for the /choke line/ of a compressor .
+
+Query2 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.61758 875
+models for aeroelastic investigation .
+
+2       0.55112 882
+the variation of gust frequency with gust velocity
+and altitude .
+
+3       0.5472  1103
+pressures, densities and temperatures in the upper atmosphere .
+
+4       0.54684 282
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+
+5       0.54461 862
+the phenomenon of change in buckle pattern in elastic
+structures .
+
+Query3 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.62509 282
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+
+2       0.58011 5
+one-dimensional transient heat conduction into a double-layer
+slab subjected to a linear heat input for a small time
+internal .
+
+3       0.57843 485
+linear heat flow in a composite slab .
+
+4       0.53227 182
+effect of roughness on transition in supersonic flow .
+
+5       0.53227 183
+properties of impact pressure probes in free molecule
+flow .
+
+Query4 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       1.14124 1023
+note on creep buckling of columns .
+
+2       0.95306 31
+thermal buckling of supersonic wing panels .
+
+3       0.92167 1026
+note on creep buckling of columns .
+
+4       0.78221 181
+some problems on heat conduction in stratiform bodies .
+
+5       0.76475 1030
+note on creep buckling of columns .
+
+Query5 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.53222 1177
+effects of rapid heating on strength of airframe components .
+
+2       0.53222 1178
+buckling of ring-stiffened cylinders under a pure bending
+moment and a nonuniform temperature distribution .
+
+3       0.5292  1103
+pressures, densities and temperatures in the upper atmosphere .
+
+4       0.52704 1176
+bending tests of ring-stiffened circular cylinders .
+
+5       0.5232  1102
+a five-stage solid fuel sounding rocket system .
+
+Query6 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.51104 1174
+general theory of buckling .
+
+2       0.49392 272
+oscillatory aerodynamic coefficients for a unified supersonic
+hypersonic strip theory .
+
+3       0.4896  1045
+the bending strength of pressurized cylinders .
+
+4       0.48618 130
+the behaviour of non-linear systems .
+
+5       0.4816  1175
+stresses from local loadings in cylindrical pressure
+vessels .
+
+Query7 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.7548  137
+the generation of sound by aerodynamic means .
+
+2       0.72518 233
+the theoretical wave drag of some bodies of revolution .
+
+3       0.67713 778
+an integral related to the radiation integrals .
+
+4       0.67289 745
+an automatic method for finding the greatest or least
+value function .
+
+5       0.66585 153
+on the steady motion of viscous, incompressible fluids,
+with particular reference to a variation principle .
+
+Query8 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.65715 21
+on heat transfer in slip flow .
+
+2       0.64072 1083
+an investigation of fluid flow in two dimensions .
+
+3       0.63862 22
+on slip-flow heat transfer to a flat plate .
+
+4       0.63862 23
+skin-friction and heat transfer characteristics of
+a laminar boundary layer on a cylinder in axial incompressible
+flow .
+
+5       0.61949 1024
+note on creep buckling of columns .
+
+Query9 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.5514  281
+higher order approximations for relaxation oscillations .
+
+2       0.5514  282
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+
+3       0.54632 875
+models for aeroelastic investigation .
+
+4       0.54632 876
+on flutter testing in high speed wind tunnels .
+
+5       0.54632 877
+the influence of aerodynamic heating on the flexural
+rigidity of a thin wing .
+
+Query10 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.59237 1103
+pressures, densities and temperatures in the upper atmosphere .
+
+2       0.58956 503
+theoretical prediction of the transonic characteristics
+of airfoils .
+
+3       0.58956 504
+stability of compressible boundary layers induced by
+a moving wave .
+
+4       0.58667 484
+the influence of two-dimensional stream shear for airfoil
+maximum lift .
+
+5       0.58667 485
+linear heat flow in a composite slab .
+
+Query11 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.71071 483
+stagnation point shock detachment distance for flow
+around spheres and cylinder .
+
+2       0.7034  484
+the influence of two-dimensional stream shear for airfoil
+maximum lift .
+
+3       0.7034  485
+linear heat flow in a composite slab .
+
+4       0.697   282
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+
+5       0.697   283
+laminar heat transfer around blunt bodies in dissociated
+air .
+
+Query12 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.54124 1388
+a process for the step-by-step integration of differential
+equations in an automatic digital computing machine .
+
+2       0.52058 137
+the generation of sound by aerodynamic means .
+
+3       0.52058 251
+a collection of longitudinal stability derivatives
+of wings at supersonic speeds .
+
+4       0.51947 631
+low speed wind tunnel tests on a two dimensional aerofoil
+with split flap near the ground .
+
+5       0.51863 742
+post-buckling behaviour of axially compressed circular
+cylinder shells .
+
+Query13 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.38037 853
+the accuracy of donnell's equations .
+
+2       0.38037 854
+boundary-value problems of the thin-walled circular
+cylinder .
+
+3       0.38037 855
+simplified formulas for boundary value problems of
+the thin-- walled circular cylinder .
+
+4       0.38037 856
+some experimental studies of panel flutter at mach
+1 .3.
+
+5       0.38037 857
+experimental studies of flutter of buckled rectangular
+panels at mach numbers from 1. 2 to 3. 0 including
+effects of pressure differential and of panel width-length
+ratio .
+
+Query14 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.5606  1102
+a five-stage solid fuel sounding rocket system .
+
+2       0.54939 137
+the generation of sound by aerodynamic means .
+
+3       0.50454 1011
+free-flight measurements of the static and dynamic
+
+4       0.49098 138
+wakes in axial compressors .
+
+5       0.49098 139
+viscous effects on pitot tubes at low speeds .
+
+Query15 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.28942 761
+buckling of sandwich under normal pressure .
+
+2       0.26187 863
+loads and deformations of buckled rectangular plates .
+
+3       0.26187 864
+status of flutter of flat and curved panels .
+
+4       0.26187 865
+a study of the thermal fatigue behaviour of metals .
+ the effect of test conditions on nickel-base high
+temperature alloys .
+
+5       0.26187 878
+experimental model techniques and equipment for flutter
+investigations .
+
+Query16 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.86888 1063
+on obtaining solutions to the navier-stokes equations
+with high speed digital computers .
+
+2       0.71553 745
+an automatic method for finding the greatest or least
+value function .
+
+3       0.70258 878
+experimental model techniques and equipment for flutter
+investigations .
+
+4       0.62915 746
+aeroelastic problems in connection with high speed
+flight .
+
+5       0.61766 66
+some effects of joint conductivity on the temperature
+and thermal stresses in aerodynamically heated skin-stiffener
+combinations .
+
+Query17 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.74421 1358
+compressive buckling of simply supported plates with
+transverse stiffeners .
+
+2       0.686   1359
+compression tests on circular cylinders stiffened longitudinally
+by closely spaced z-section stringers .
+
+3       0.686   1360
+simplified analysis of general instability of stiffened
+shells in pure bending .
+
+4       0.68346 1048
+a small deflection theory for curved sandwich plates .
+
+5       0.65662 320
+comment on improved numerical solution of the blasius problem with
+three-point boundary conditions .
+
+Query18 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.69549 254
+boundary layers with suction and injection . a review
+of published work on skin friction .
+
+2       0.63483 906
+review of the pitot tube .
+
+3       0.61555 1045
+the bending strength of pressurized cylinders .
+
+4       0.6104  1174
+general theory of buckling .
+
+5       0.60277 1359
+compression tests on circular cylinders stiffened longitudinally
+by closely spaced z-section stringers .
+
+Query19 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.80664 842
+an improvement on donnell's approximation for thin-walled
+circular cylinders .
+
+2       0.69229 853
+the accuracy of donnell's equations .
+
+3       0.69155 854
+boundary-value problems of the thin-walled circular
+cylinder .
+
+4       0.68731 523
+approximate determination of position of the sonic
+line for a blunt body in hypersonic flow .
+
+5       0.68297 223
+a note on the theory of the stanton tube .
+
+Query20 Characteristics for weight2 :
+rank     score   external document identifier    headline
+1       0.81488 864
+status of flutter of flat and curved panels .
+
+2       0.78813 409
+on the base pressure resulting from the interaction of a supersonic external
+stream with a sonic or subsonic jet .
+
+3       0.73376 339
+experimental evaluation of heat transfer with transpiration
+cooling in a turbulent boundary layer at m=3 .2.
+
+4       0.72255 408
+on convective motion of a conducting fluid between
+parallel vertical plates in a magnetic field .
+
+5       0.72193 878
+experimental model techniques and equipment for flutter
+investigations .
+
+Document Vector for Query1 weight1:
+For Document817 vector representation
+{'load': 0.16, 'path': 0.16, 'incremental': 0.16, 'stress': 0.231, 'law': 0.231, 'hankelman': 0.16, 'g': 0.16, 'h': 0.16, 'warner': 0.16, 'w': 0.16, 'j': 0.16, 'math': 0.16, 'phys': 0.16, 'paper': 0.16, 'concern': 0.16, 'property': 0.16, 'strain': 0.231, 'work': 0.16, 'harden': 0.16, 'material': 0.16, 'introduce': 0.16, 'prager': 0.16, 'plastic': 0.16, 'flow': 0.16, 'meant': 0.16, 'differential': 0.16, 'expressed': 0.16, 'function': 0.16, 'shall': 0.16, 'also': 0.16, 'occasion': 0.16, 'refer': 0.16, 'total': 0.16, 'deformation': 0.16, 'give': 0.16, 'directly': 0.16}
+For Document180 vector representation
+{'boundary': 0.192, 'layer': 0.192, 'flat': 0.192, 'plate': 0.192, 'presence': 0.192, 'shear': 0.192, 'flow': 0.192, 'ting': 0.192, 'l': 0.192, 'phys': 0.192, 'fluid': 0.192, 'governing': 0.192, 'equation': 0.192, 'incompressible': 0.192, 'finite': 0.192, 'vorticity': 0.192, 'derive': 0.192, 'large': 0.192, 'similarity': 0.192, 'solution': 0.278, 'obtain': 0.192, 'moderate': 0.192, 'one': 0.192, 'replace': 0.192, 'approximate': 0.192, 'exist': 0.192}
+For Document282 vector representation
+{'jet': 0.113, 'effect': 0.163, 'base': 0.113, 'pressure': 0.113, 'conical': 0.113, 'afterbodies': 0.113, 'mach': 0.113, 'baughman': 0.113, 'l': 0.113, 'e': 0.113, 'kochendorfer': 0.113, 'f': 0.113, 'naca': 0.113, 'rm': 0.113, 'data': 0.113, 'present': 0.113, 'show': 0.113, 'series': 0.113, 'afterbody': 0.113, 'nozzle': 0.163, 'combination': 0.113, 'boattail': 0.113, 'angle': 0.163, 'vary': 0.113, 'diameter': 0.113, 'ratio': 0.163, 'exit': 0.113, 'design': 0.113, 'number': 0.163, 'test': 0.113, 'cold': 0.113, 'air': 0.113, 'hot': 0.113, 'general': 0.113, 'increase': 0.163, 'value': 0.113, 'temperature': 0.113, 'total': 0.113, 'decrease': 0.113, 'free': 0.113, 'stream': 0.113, 'addition': 0.113, 'tail': 0.113, 'surface': 0.113, 'produce': 0.113, 'small': 0.113, 'change': 0.113, 'variables': 0.113, 'govern': 0.113, 'maximum': 0.113, 'rise': 0.113, 'support': 0.113, 'wake': 0.113, 'fluid': 0.113, 'region': 0.113, 'trail': 0.113, 'shock': 0.113, 'turn': 0.113, 'adjacent': 0.113, 'state': 0.113, 'boundary': 0.113, 'layer': 0.113, 'compute': 0.113, 'use': 0.113, 'theory': 0.113, 'korst': 0.113, 'page': 0.113, 'child': 0.113, 'good': 0.113, 'agreement': 0.113, 'experimental': 0.113, 'convergent': 0.113}
+For Document1026 vector representation
+{'note': 0.196, 'creep': 0.196, 'buckle': 0.196, 'column': 0.284, 'paper': 0.196, 'concern': 0.196, 'solution': 0.196, 'instantaneous': 0.196, 'elastic': 0.196, 'plastic': 0.196, 'deformation': 0.196, 'well': 0.196, 'transient': 0.196, 'secondary': 0.196, 'consider': 0.196, 'formulae': 0.196, 'critical': 0.196, 'time': 0.196, 'fails': 0.196, 'present': 0.196, 'integral': 0.196, 'value': 0.196, 'exponent': 0.196, 'appear': 0.196, 'law': 0.196}
+For Document883 vector representation
+{'correlate': 0.135, 'fatigue': 0.135, 'data': 0.135, 'aircraft': 0.135, 'structural': 0.135, 'joint': 0.135, 'heywood': 0.135, 'r': 0.135, 'b': 0.135, 'arc': 0.135, 'cp': 0.135, 'result': 0.135, 'test': 0.135, 'carry': 0.135, 'e': 0.135, 'typical': 0.135, 'wing': 0.135, 'give': 0.135, 'indication': 0.135, 'general': 0.135, 'behaviour': 0.135, 'plot': 0.135, 'form': 0.135, 'log': 0.135, 'n': 0.135, 'curve': 0.135, 'indicate': 0.135, 'mode': 0.135, 'attribute': 0.135, 'single': 0.135, 'factor': 0.135, 'type': 0.135, 'aluminium': 0.135, 'alloy': 0.135, 'ultimate': 0.135, 'tensile': 0.135, 'strength': 0.135, 'mean': 0.135, 'stress': 0.135, 'cycle': 0.135, 'detail': 0.135, 'method': 0.135, 'design': 0.135, 'undoubtedly': 0.135, 'predominant': 0.135, 'influence': 0.135, 'quality': 0.135, 'reveal': 0.135, 'broad': 0.135, 'classification': 0.135, 'accord': 0.135, 'proportion': 0.135, 'load': 0.135, 'transmit': 0.135, 'hole': 0.135}
+
+
+
+Document Vector for Query2 weight1:
+For Document875 vector representation
+{'model': 0.185, 'aeroelastic': 0.185, 'investigation': 0.185, 'templeton': 0.185, 'h': 0.185, 'arc': 0.185, 'cp': 0.185, 'addendum': 0.185, 'provide': 0.185, 'short': 0.185, 'note': 0.185, 'two': 0.185, 'aspect': 0.185, 'omit': 0.185, 'original': 0.185, 'paper': 0.269, 'viz': 0.185, 'gravitational': 0.185, 'effect': 0.185, 'structural': 0.185, 'damp': 0.185, 'list': 0.185, 'reference': 0.185, 'early': 0.185, 'deal': 0.185, 'subject': 0.185, 'also': 0.185, 'add': 0.185}
+For Document884 vector representation
+{'estimation': 0.171, 'fatigue': 0.171, 'damage': 0.171, 'structural': 0.171, 'element': 0.171, 'chilver': 0.171, 'h': 0.171, 'rae': 0.171, 'tn': 0.171, 'struct': 0.171, 'method': 0.171, 'present': 0.171, 'aircraft': 0.171, 'gust': 0.171, 'spectrum': 0.171, 'subject': 0.171, 'analysed': 0.171, 'term': 0.171, 'infinitesimal': 0.171, 'load': 0.171, 'interval': 0.171, 'data': 0.171, 'supply': 0.171, 'j': 0.171, 'taylor': 0.171, 'fly': 0.171, 'ft': 0.171, 'use': 0.171, 'study': 0.171, 'number': 0.171, 'joint': 0.171, 'one': 0.171, 'whole': 0.171, 'structure': 0.171}
+For Document728 vector representation
+{'free': 0.154, 'vibration': 0.223, 'continuous': 0.154, 'skin': 0.154, 'stringer': 0.154, 'panel': 0.223, 'lin': 0.154, 'k': 0.154, 'j': 0.154, 'appl': 0.154, 'mech': 0.154, 'december': 0.154, 'determination': 0.154, 'natural': 0.154, 'frequency': 0.154, 'normal': 0.154, 'mode': 0.154, 'represent': 0.154, 'less': 0.154, 'typical': 0.154, 'fuselage': 0.154, 'construction': 0.154, 'modern': 0.154, 'airplane': 0.154, 'discuss': 0.154, 'paper': 0.154, 'consider': 0.154, 'numerical': 0.154, 'example': 0.154, 'present': 0.154, 'analytical': 0.154, 'result': 0.154, 'particular': 0.154, 'structural': 0.154, 'configuration': 0.154, 'agree': 0.154, 'favorably': 0.154, 'available': 0.154, 'experimental': 0.154, 'measurement': 0.154}
+For Document102 vector representation
+{'advantage': 0.151, 'limitation': 0.151, 'model': 0.218, 'sobey': 0.151, 'j': 0.151, 'r': 0.151, 'ae': 0.151, 'summary': 0.151, 'use': 0.151, 'structural': 0.151, 'test': 0.151, 'investigation': 0.151, 'presence': 0.151, 'kinetic': 0.151, 'heating': 0.151, 'effect': 0.151, 'examine': 0.151, 'principal': 0.151, 'feature': 0.151, 'complex': 0.151, 'process': 0.151, 'represent': 0.151, 'discussed': 0.151, 'classification': 0.151, 'external': 0.151, 'air': 0.151, 'flow': 0.151, 'internal': 0.151, 'heat': 0.151, 'transfer': 0.151, 'elastic': 0.151, 'response': 0.151, 'second': 0.151, 'find': 0.151, 'influence': 0.151, 'design': 0.151, 'analysis': 0.151, 'typical': 0.151, 'structure': 0.151, 'include': 0.151, 'illustrate': 0.151, 'various': 0.151, 'contribution': 0.151}
+For Document1103 vector representation
+{'pressure': 0.204, 'density': 0.204, 'temperature': 0.204, 'upper': 0.141, 'atmosphere': 0.141, 'rocket': 0.204, 'panel': 0.141, 'phys': 0.141, 'rev': 0.141, 'vol': 0.141, 'december': 0.141, 'pp': 0.141, 'average': 0.141, 'internally': 0.141, 'consistent': 0.141, 'value': 0.141, 'atmospheric': 0.141, 'ground': 0.141, 'altitude': 0.141, 'km': 0.141, 'determine': 0.141, 'compile': 0.141, 'united': 0.141, 'state': 0.141, 'group': 0.141, 'active': 0.141, 'research': 0.141, 'additional': 0.141, 'relevant': 0.141, 'data': 0.141, 'similar': 0.141, 'engage': 0.141, 'meteor': 0.141, 'anomalous': 0.141, 'propagation': 0.141, 'sound': 0.141, 'also': 0.141, 'include': 0.141, 'particularly': 0.141, 'brief': 0.141, 'discussion': 0.141, 'variation': 0.141, 'time': 0.141, 'place': 0.141, 'three': 0.141, 'parameter': 0.141}
+
+
+
+Document Vector for Query3 weight1:
+For Document282 vector representation
+{'jet': 0.113, 'effect': 0.163, 'base': 0.113, 'pressure': 0.113, 'conical': 0.113, 'afterbodies': 0.113, 'mach': 0.113, 'baughman': 0.113, 'l': 0.113, 'e': 0.113, 'kochendorfer': 0.113, 'f': 0.113, 'naca': 0.113, 'rm': 0.113, 'data': 0.113, 'present': 0.113, 'show': 0.113, 'series': 0.113, 'afterbody': 0.113, 'nozzle': 0.163, 'combination': 0.113, 'boattail': 0.113, 'angle': 0.163, 'vary': 0.113, 'diameter': 0.113, 'ratio': 0.163, 'exit': 0.113, 'design': 0.113, 'number': 0.163, 'test': 0.113, 'cold': 0.113, 'air': 0.113, 'hot': 0.113, 'general': 0.113, 'increase': 0.163, 'value': 0.113, 'temperature': 0.113, 'total': 0.113, 'decrease': 0.113, 'free': 0.113, 'stream': 0.113, 'addition': 0.113, 'tail': 0.113, 'surface': 0.113, 'produce': 0.113, 'small': 0.113, 'change': 0.113, 'variables': 0.113, 'govern': 0.113, 'maximum': 0.113, 'rise': 0.113, 'support': 0.113, 'wake': 0.113, 'fluid': 0.113, 'region': 0.113, 'trail': 0.113, 'shock': 0.113, 'turn': 0.113, 'adjacent': 0.113, 'state': 0.113, 'boundary': 0.113, 'layer': 0.113, 'compute': 0.113, 'use': 0.113, 'theory': 0.113, 'korst': 0.113, 'page': 0.113, 'child': 0.113, 'good': 0.113, 'agreement': 0.113, 'experimental': 0.113, 'convergent': 0.113}
+For Document5 vector representation
+{'one': 0.171, 'dimensional': 0.171, 'transient': 0.171, 'heat': 0.171, 'conduction': 0.171, 'double': 0.171, 'layer': 0.171, 'slab': 0.248, 'subject': 0.171, 'linear': 0.171, 'input': 0.171, 'small': 0.171, 'time': 0.171, 'internal': 0.171, 'wasserman': 0.171, 'b': 0.171, 'j': 0.171, 'ae': 0.171, 'scs': 0.171, 'analytic': 0.171, 'solution': 0.171, 'present': 0.171, 'composite': 0.171, 'expose': 0.171, 'surface': 0.171, 'triangular': 0.171, 'rate': 0.171, 'type': 0.171, 'heating': 0.171, 'may': 0.171, 'occur': 0.171, 'example': 0.171, 'aerodynamic': 0.171}
+For Document485 vector representation
+{'linear': 0.192, 'heat': 0.192, 'flow': 0.192, 'composite': 0.192, 'slab': 0.192, 'reid': 0.192, 'w': 0.192, 'p': 0.192, 'j': 0.192, 'ae': 0.192, 'scs': 0.192, 'temperature': 0.278, 'determine': 0.192, 'function': 0.278, 'position': 0.192, 'time': 0.192, 'case': 0.192, 'conduction': 0.192, 'ture': 0.192, 'throughout': 0.192, 'two': 0.192, 'external': 0.192, 'surface': 0.192, 'consider': 0.192, 'prescribed': 0.192}
+For Document182 vector representation
+{'effect': 0.126, 'roughness': 0.126, 'transition': 0.126, 'supersonic': 0.126, 'flow': 0.126, 'van': 0.126, 'dry': 0.126, 'e': 0.126, 'r': 0.126, 'blumer': 0.126, 'c': 0.126, 'b': 0.126, 'agard': 0.126, 'experiment': 0.126, 'carry': 0.126, 'inch': 0.126, 'wind': 0.126, 'tunnel': 0.126, 'jet': 0.126, 'propulsion': 0.126, 'laboratory': 0.126, 'california': 0.126, 'institute': 0.126, 'technology': 0.126, 'investigate': 0.126, 'threedimensional': 0.126, 'element': 0.126, 'spheres': 0.126, 'boundary': 0.126, 'layer': 0.126, 'transfer': 0.126, 'report': 0.126, 'herein': 0.126, 'local': 0.126, 'mach': 0.126, 'number': 0.182, 'test': 0.126, 'minimum': 0.126, 'effective': 0.126, 'size': 0.126, 'trip': 0.126, 'require': 0.126, 'bring': 0.126, 'low': 0.126, 'reynolds': 0.126, 'vary': 0.126, 'one': 0.126, 'fourth': 0.126, 'power': 0.126, 'distance': 0.126, 'apex': 0.126, 'cone': 0.126, 'use': 0.126, 'available': 0.126, 'data': 0.126, 'indicate': 0.126, 'influence': 0.126, 'tripping': 0.126, 'take': 0.126, 'account': 0.126, 'simple': 0.126, 'expression': 0.126}
+For Document183 vector representation
+{'property': 0.121, 'impact': 0.121, 'pressure': 0.121, 'probe': 0.175, 'free': 0.121, 'molecule': 0.121, 'flow': 0.121, 'harris': 0.121, 'e': 0.121, 'l': 0.121, 'patterson': 0.121, 'g': 0.121, 'n': 0.121, 'utia': 0.121, 'r': 0.121, 'expression': 0.175, 'derive': 0.121, 'mass': 0.121, 'circular': 0.121, 'tube': 0.121, 'gas': 0.121, 'relative': 0.121, 'motion': 0.121, 'enter': 0.121, 'assume': 0.121, 'maxwellian': 0.121, 'distribution': 0.121, 'function': 0.121, 'molecular': 0.121, 'reflection': 0.121, 'process': 0.121, 'wall': 0.121, 'diffuse': 0.121, 'theory': 0.121, 'use': 0.175, 'determine': 0.121, 'read': 0.121, 'although': 0.121, 'general': 0.121, 'apply': 0.121, 'value': 0.121, 'velocity': 0.121, 'size': 0.121, 'detailed': 0.121, 'calculation': 0.121, 'difficult': 0.121, 'except': 0.121, 'case': 0.121, 'low': 0.121, 'speed': 0.121, 'long': 0.121, 'tubes': 0.121, 'experimental': 0.121, 'check': 0.121, 'carry': 0.121, 'whirl': 0.121, 'arm': 0.121, 'apparatus': 0.121, 'density': 0.121, 'wind': 0.121, 'tunnel': 0.121, 'agreement': 0.121, 'experiment': 0.121, 'quite': 0.121, 'satisfactory': 0.121}
+
+
+
+Document Vector for Query4 weight1:
+For Document31 vector representation
+{'thermal': 0.213, 'buckle': 0.213, 'supersonic': 0.213, 'wing': 0.213, 'panel': 0.213, 'hoff': 0.213, 'n': 0.213, 'j': 0.213, 'ae': 0.213, 'scs': 0.213, 'temperature': 0.213, 'stress': 0.308, 'distribution': 0.213, 'analyze': 0.213, 'multicellular': 0.213, 'structure': 0.213, 'criterion': 0.213, 'establish': 0.213, 'cover': 0.213, 'plate': 0.213, 'subject': 0.213}
+For Document181 vector representation
+{'problem': 0.174, 'heat': 0.174, 'conduction': 0.174, 'stratiform': 0.174, 'body': 0.174, 'vodicka': 0.174, 'v': 0.174, 'j': 0.174, 'phys': 0.174, 'soc': 0.174, 'japan': 0.174, 'multilayer': 0.174, 'lead': 0.174, 'usually': 0.174, 'complicate': 0.174, 'calculation': 0.174, 'present': 0.174, 'paper': 0.174, 'give': 0.174, 'idea': 0.174, 'specific': 0.174, 'difficulty': 0.174, 'arise': 0.174, 'case': 0.174, 'infinite': 0.174, 'composite': 0.174, 'solides': 0.174, 'general': 0.174, 'deduction': 0.174, 'apply': 0.174, 'special': 0.174, 'class': 0.174, 'question': 0.174}
+For Document1030 vector representation
+{'note': 0.204, 'creep': 0.204, 'buckle': 0.204, 'columns': 0.204, 'general': 0.204, 'topic': 0.204, 'elastic': 0.204, 'stability': 0.204, 'discuss': 0.204, 'particular': 0.204, 'attention': 0.204, 'give': 0.204, 'relationship': 0.204, 'adjacentequilibrium': 0.204, 'position': 0.204, 'energy': 0.204, 'technique': 0.204, 'effect': 0.204, 'nonlinearity': 0.204, 'sensitivity': 0.204, 'certain': 0.204, 'problem': 0.204, 'character': 0.204, 'load': 0.204}
+For Document1291 vector representation
+{'atmosphere': 0.11, 'entry': 0.159, 'spacecraft': 0.11, 'lift': 0.11, 'drag': 0.11, 'ratio': 0.159, 'modulate': 0.11, 'limit': 0.159, 'deceleration': 0.159, 'levy': 0.11, 'l': 0.11, 'nasa': 0.11, 'tn': 0.11, 'analysis': 0.11, 'make': 0.11, 'maximum': 0.11, 'part': 0.11, 'polars': 0.11, 'use': 0.11, 'modulation': 0.11, 'coefficient': 0.159, 'minimum': 0.11, 'five': 0.11, 'different': 0.11, 'shape': 0.159, 'assume': 0.11, 'cover': 0.11, 'wide': 0.11, 'range': 0.11, 'initial': 0.11, 'velocity': 0.11, 'flight': 0.11, 'path': 0.11, 'angle': 0.11, 'two': 0.11, 'dimensional': 0.11, 'trajectory': 0.11, 'calculation': 0.11, 'nonrotating': 0.11, 'spherical': 0.11, 'earth': 0.11, 'exponential': 0.11, 'result': 0.11, 'indicate': 0.11, 'four': 0.11, 'relative': 0.11, 'unmodulated': 0.11, 'great': 0.11, 'reduction': 0.11, 'obtainable': 0.11, 'depend': 0.159, 'upon': 0.11, 'single': 0.11, 'parameter': 0.11, 'value': 0.11, 'aerodynamic': 0.11, 'resultant': 0.11, 'force': 0.11, 'thus': 0.11, 'independent': 0.11, 'polar': 0.11, 'fifth': 0.11, 'find': 0.11, 'also': 0.11, 'depth': 0.11, 'give': 0.11, 'corridor': 0.11, 'increase': 0.11, 'resultantforce': 0.11, 'fractional': 0.11, 'express': 0.11, 'empirically': 0.11, 'determined': 0.11, 'analytical': 0.11, 'function': 0.11}
+For Document1171 vector representation
+{'stability': 0.169, 'axial': 0.169, 'compression': 0.169, 'lateral': 0.169, 'pressure': 0.169, 'circular': 0.169, 'cylindrical': 0.169, 'shell': 0.245, 'soft': 0.169, 'elastic': 0.169, 'core': 0.169, 'seide': 0.169, 'p': 0.169, 'j': 0.169, 'ae': 0.169, 'sc': 0.169, 'finite': 0.169, 'treat': 0.169, 'mean': 0.169, 'donnell': 0.169, 'equation': 0.169, 'criterion': 0.169, 'investigate': 0.169, 'detail': 0.169, 'general': 0.169, 'cylinder': 0.169, 'particular': 0.169, 'combine': 0.169, 'loading': 0.169, 'comparison': 0.169, 'make': 0.169, 'available': 0.169, 'experimental': 0.169, 'data': 0.169}
+
+
+
+Document Vector for Query5 weight1:
+For Document1011 vector representation
+{'free': 0.18, 'flight': 0.18, 'measurement': 0.18, 'static': 0.18, 'dynamic': 0.18, 'chart': 0.18, 'prepare': 0.18, 'relate': 0.18, 'thermodynamic': 0.18, 'property': 0.18, 'air': 0.18, 'chemical': 0.18, 'equilibrium': 0.18, 'temperatures': 0.18, 'k': 0.18, 'pressure': 0.18, 'atmospheres': 0.18, 'also': 0.18, 'include': 0.18, 'show': 0.18, 'composition': 0.18, 'isentropic': 0.18, 'exponent': 0.18, 'speed': 0.18, 'sound': 0.18, 'base': 0.18, 'data': 0.18, 'calculate': 0.18, 'national': 0.18, 'bureau': 0.18, 'standard': 0.18}
+For Document1073 vector representation
+{'practical': 0.166, 'method': 0.241, 'numerical': 0.166, 'evaluation': 0.166, 'solution': 0.241, 'partial': 0.166, 'differential': 0.166, 'equation': 0.241, 'heat': 0.166, 'conduction': 0.166, 'type': 0.166, 'crank': 0.166, 'j': 0.166, 'nicolson': 0.166, 'p': 0.166, 'proc': 0.166, 'cam': 0.166, 'phil': 0.166, 'soc': 0.166, 'three': 0.166, 'approximate': 0.166, 'nonlinear': 0.166, 'flow': 0.166, 'medium': 0.166, 'generate': 0.166, 'chemical': 0.166, 'reaction': 0.166, 'compare': 0.166, 'subscript': 0.166, 'indicate': 0.166, 'differentiation': 0.166, 'q': 0.166, 'k': 0.166}
+For Document1177 vector representation
+{'effect': 0.22, 'rapid': 0.152, 'heat': 0.152, 'strength': 0.152, 'airframe': 0.152, 'component': 0.152, 'pride': 0.152, 'r': 0.152, 'naca': 0.152, 'tn': 0.152, 'result': 0.152, 'several': 0.152, 'experimental': 0.152, 'investigation': 0.152, 'present': 0.152, 'indicate': 0.152, 'bend': 0.152, 'multiweb': 0.152, 'beam': 0.152, 'ring': 0.152, 'stiffen': 0.152, 'cylinder': 0.152, 'show': 0.152, 'thermal': 0.152, 'stress': 0.22, 'reduce': 0.152, 'load': 0.152, 'carry': 0.152, 'buckle': 0.22, 'influence': 0.152, 'maximum': 0.152, 'find': 0.152, 'depend': 0.152, 'largely': 0.152, 'mode': 0.152, 'locally': 0.152, 'apparent': 0.152, 'reduction': 0.152, 'observe': 0.152, 'wrinkle': 0.152}
+For Document1178 vector representation
+{'buckle': 0.138, 'ring': 0.138, 'stiffen': 0.138, 'cylinder': 0.2, 'pure': 0.138, 'bend': 0.138, 'moment': 0.138, 'nonuniform': 0.138, 'temperature': 0.138, 'distribution': 0.138, 'anderson': 0.138, 'card': 0.138, 'f': 0.138, 'nasa': 0.138, 'tn': 0.138, 'thirteen': 0.138, 'stainless': 0.138, 'steel': 0.138, 'subject': 0.138, 'load': 0.138, 'heat': 0.2, 'rapidly': 0.138, 'occur': 0.138, 'uniform': 0.138, 'around': 0.138, 'circumference': 0.138, 'appreciable': 0.138, 'axial': 0.138, 'thermal': 0.138, 'stress': 0.2, 'present': 0.138, 'elementary': 0.138, 'theory': 0.138, 'find': 0.138, 'inadequate': 0.138, 'prediction': 0.138, 'method': 0.138, 'develop': 0.138, 'would': 0.138, 'give': 0.138, 'satisfactory': 0.138, 'result': 0.138, 'properly': 0.138, 'account': 0.138, 'could': 0.138, 'correlate': 0.138, 'axially': 0.138, 'compress': 0.138, 'uniformly': 0.138}
+For Document1103 vector representation
+{'pressure': 0.204, 'density': 0.204, 'temperature': 0.204, 'upper': 0.141, 'atmosphere': 0.141, 'rocket': 0.204, 'panel': 0.141, 'phys': 0.141, 'rev': 0.141, 'vol': 0.141, 'december': 0.141, 'pp': 0.141, 'average': 0.141, 'internally': 0.141, 'consistent': 0.141, 'value': 0.141, 'atmospheric': 0.141, 'ground': 0.141, 'altitude': 0.141, 'km': 0.141, 'determine': 0.141, 'compile': 0.141, 'united': 0.141, 'state': 0.141, 'group': 0.141, 'active': 0.141, 'research': 0.141, 'additional': 0.141, 'relevant': 0.141, 'data': 0.141, 'similar': 0.141, 'engage': 0.141, 'meteor': 0.141, 'anomalous': 0.141, 'propagation': 0.141, 'sound': 0.141, 'also': 0.141, 'include': 0.141, 'particularly': 0.141, 'brief': 0.141, 'discussion': 0.141, 'variation': 0.141, 'time': 0.141, 'place': 0.141, 'three': 0.141, 'parameter': 0.141}
+
+
+
+Document Vector for Query6 weight1:
+For Document1174 vector representation
+{'general': 0.16, 'theory': 0.16, 'buckle': 0.16, 'langhaar': 0.16, 'h': 0.16, 'l': 0.16, 'app': 0.16, 'mech': 0.16, 'rev': 0.16, 'various': 0.16, 'aspect': 0.16, 'expound': 0.16, 'many': 0.16, 'treatise': 0.16, 'book': 0.16, 'bleich': 0.16, 'salmon': 0.16, 'contain': 0.16, 'large': 0.16, 'bibliography': 0.16, 'goodier': 0.16, 'development': 0.16, 'numerous': 0.16, 'reference': 0.16, 'append': 0.16, 'hoff': 0.16, 'article': 0.16, 'nearly': 0.16, 'publication': 0.16, 'shell': 0.16, 'available': 0.16, 'u': 0.16, 'list': 0.16, 'nash': 0.16, 'section': 0.16, 'ready': 0.16, 'guide': 0.16, 'recent': 0.16, 'literature': 0.16}
+For Document272 vector representation
+{'oscillatory': 0.087, 'aerodynamic': 0.087, 'coefficient': 0.087, 'unify': 0.087, 'supersonic': 0.087, 'hypersonic': 0.087, 'strip': 0.087, 'theory': 0.087, 'rodden': 0.087, 'w': 0.087, 'revell': 0.087, 'j': 0.087, 'ae': 0.087, 'sc': 0.087, 'shock': 0.087, 'tube': 0.087, 'show': 0.087, 'feasible': 0.087, 'research': 0.087, 'tool': 0.087, 'conduct': 0.087, 'boundary': 0.087, 'layer': 0.12, 'transition': 0.087, 'experiment': 0.087, 'use': 0.087, 'permit': 0.087, 'study': 0.087, 'highly': 0.087, 'cool': 0.12, 'may': 0.087, 'encounter': 0.087, 'vehicle': 0.087, 'investigation': 0.087, 'make': 0.087, 'optically': 0.087, 'polished': 0.087, 'pyrex': 0.087, 'hemisphere': 0.087, 'cylinder': 0.087, 'ellipse': 0.087, 'model': 0.12, 'stagnation': 0.087, 'wall': 0.087, 'enthalpy': 0.087, 'ratio': 0.12, 'roughness': 0.087, 'estimate': 0.087, 'less': 0.087, 'microinch': 0.087, 'rms': 0.087, 'detect': 0.087, 'measurement': 0.087, 'heat': 0.087, 'transfer': 0.087, 'rate': 0.087, 'surface': 0.087, 'indicate': 0.12, 'characteristic': 0.087, 'feature': 0.087, 'simultaneous': 0.087, 'occurrence': 0.087, 'entire': 0.087, 'portion': 0.087, 'implies': 0.087, 'first': 0.087, 'occur': 0.087, 'sonic': 0.087, 'region': 0.087, 'reynolds': 0.087, 'number': 0.12, 'base': 0.087, 'local': 0.087, 'fluid': 0.087, 'property': 0.087, 'outer': 0.087, 'edge': 0.087, 'momentum': 0.087, 'thickness': 0.087, 'increase': 0.142, 'towall': 0.087, 'along': 0.087, 'cylindrical': 0.087, 'nearly': 0.087, 'constant': 0.087, 'obtain': 0.087, 'provide': 0.087, 'extension': 0.087, 'nasa': 0.087, 'result': 0.12, 'cone': 0.087, 'wind': 0.087, 'tunnel': 0.087, 'data': 0.087, 'order': 0.087, 'magnitude': 0.087, 'minimum': 0.087, 'practical': 0.087, 'purpose': 0.087, 'critical': 0.087, 'parameter': 0.087, 'blunt': 0.087, 'body': 0.12, 'vary': 0.087, 'significantly': 0.087, 'boundarylayer': 0.087, 'range': 0.087, 'always': 0.087, 'low': 0.12, 'external': 0.087, 'distance': 0.087, 'point': 0.087, 'history': 0.087, 'shape': 0.087, 'appear': 0.087, 'important': 0.087, 'affect': 0.087, 'amount': 0.087, 'configuration': 0.087, 'hemispherecylinder': 0.087, 'also': 0.087, 'even': 0.087, 'significant': 0.087}
+For Document1175 vector representation
+{'stress': 0.11, 'local': 0.11, 'loading': 0.11, 'cylindrical': 0.11, 'pressure': 0.11, 'vessel': 0.11, 'bijlaard': 0.11, 'p': 0.11, 'asme': 0.11, 'trans': 0.11, 'short': 0.11, 'discussion': 0.11, 'give': 0.11, 'possible': 0.11, 'method': 0.152, 'compute': 0.152, 'cause': 0.11, 'shell': 0.152, 'conclude': 0.11, 'develop': 0.11, 'load': 0.18, 'displacement': 0.152, 'double': 0.11, 'fourier': 0.11, 'series': 0.11, 'lead': 0.11, 'formula': 0.11, 'best': 0.11, 'suit': 0.11, 'numerical': 0.11, 'evaluation': 0.11, 'pertinent': 0.11, 'expression': 0.152, 'radial': 0.11, 'find': 0.11, 'reduce': 0.11, 'three': 0.11, 'partial': 0.11, 'differential': 0.11, 'equation': 0.152, 'theory': 0.11, 'eighth': 0.11, 'order': 0.11, 'similar': 0.11, 'identical': 0.11, 'derive': 0.11, 'donnell': 0.11, 'yuan': 0.11, 'insertion': 0.11, 'external': 0.11, 'directly': 0.11, 'w': 0.11, 'term': 0.11, 'factor': 0.11, 'result': 0.11, 'bend': 0.11, 'moment': 0.152, 'membrane': 0.11, 'force': 0.11, 'case': 0.152, 'consider': 0.11, 'reduced': 0.11, 'uniformly': 0.11, 'distribute': 0.11, 'within': 0.11, 'rectangle': 0.11, 'tion': 0.11, 'distance': 0.11, 'circumferential': 0.11, 'direction': 0.11, 'longitudinal': 0.11, 'use': 0.152, 'tangential': 0.11}
+For Document1176 vector representation
+{'bend': 0.192, 'test': 0.192, 'ring': 0.278, 'stiffen': 0.192, 'circular': 0.192, 'cylinder': 0.192, 'peterson': 0.192, 'j': 0.192, 'p': 0.192, 'naca': 0.192, 'tn': 0.192, 'twenty': 0.192, 'five': 0.192, 'load': 0.192, 'failure': 0.192, 'result': 0.278, 'present': 0.192, 'form': 0.192, 'design': 0.192, 'curve': 0.192, 'applicable': 0.192, 'heavy': 0.192, 'fail': 0.192, 'local': 0.192, 'buckling': 0.192}
+For Document1308 vector representation
+{'guide': 0.146, 'use': 0.146, 'cone': 0.146, 'table': 0.211, 'roberts': 0.146, 'r': 0.146, 'c': 0.146, 'riley': 0.146, 'j': 0.146, 'ae': 0.146, 'scs': 0.146, 'second': 0.146, 'third': 0.146, 'volume': 0.146, 'find': 0.146, 'unsatisfactory': 0.146, 'two': 0.146, 'respect': 0.146, 'criticize': 0.146, 'inconvenient': 0.146, 'tabulation': 0.146, 'theory': 0.146, 'base': 0.146, 'inadequate': 0.146, 'near': 0.146, 'surface': 0.146, 'former': 0.146, 'climinated': 0.146, 'mean': 0.146, 'coordinate': 0.146, 'transformation': 0.146, 'empirical': 0.146, 'evidence': 0.146, 'present': 0.146, 'show': 0.146, 'latter': 0.146, 'may': 0.146, 'ignore': 0.146, 'practice': 0.146, 'exact': 0.146, 'nature': 0.146, 'certain': 0.146, 'numerical': 0.146, 'error': 0.146, 'also': 0.146, 'point': 0.146}
+
+
+
+Document Vector for Query7 weight1:
+For Document137 vector representation
+{'generation': 0.196, 'sound': 0.196, 'aerodynamic': 0.196, 'mean': 0.196, 'curle': 0.196, 'n': 0.196, 'j': 0.196, 'roy': 0.196, 'ae': 0.196, 'summary': 0.196, 'give': 0.196, 'important': 0.196, 'experimental': 0.196, 'result': 0.196, 'relate': 0.196, 'noise': 0.196, 'radiate': 0.196, 'cold': 0.196, 'subsonic': 0.196, 'turbulent': 0.196, 'jet': 0.196, 'related': 0.196, 'prediction': 0.196, 'lighthill': 0.196, 'general': 0.196, 'theory': 0.196}
+For Document778 vector representation
+{'integral': 0.252, 'relate': 0.174, 'radiation': 0.174, 'powell': 0.174, 'e': 0.174, 'phil': 0.174, 'mag': 0.174, 'author': 0.174, 'point': 0.174, 'relation': 0.174, 'problem': 0.174, 'astrophysics': 0.174, 'quantum': 0.174, 'mechanic': 0.174, 'importance': 0.174, 'supply': 0.174, 'table': 0.174, 'value': 0.174, 'give': 0.174, 'rl': 0.174, 'x': 0.174, 'seven': 0.174, 'place': 0.174, 'decimal': 0.174, 'interval': 0.174, 'second': 0.174, 'order': 0.174, 'central': 0.174, 'difference': 0.174, 'tabulate': 0.174, 'assist': 0.174, 'interpolation': 0.174}
+For Document339 vector representation
+{'experimental': 0.171, 'evaluation': 0.171, 'heat': 0.171, 'transfer': 0.171, 'transpiration': 0.171, 'cool': 0.171, 'turbulent': 0.171, 'boundary': 0.171, 'layer': 0.171, 'bartle': 0.171, 'e': 0.171, 'r': 0.171, 'leadon': 0.171, 'b': 0.171, 'h': 0.171, 'j': 0.171, 'ae': 0.171, 'sc': 0.171, 'find': 0.171, 'prescribed': 0.171, 'velocity': 0.171, 'field': 0.171, 'electrical': 0.171, 'conductivity': 0.171, 'current': 0.171, 'calculated': 0.171, 'integration': 0.171, 'work': 0.171, 'relate': 0.171, 'analytic': 0.171, 'investigation': 0.171, 'physically': 0.171, 'reasonable': 0.171, 'accelerator': 0.171}
+For Document322 vector representation
+{'numerical': 0.167, 'solution': 0.167, 'blasius': 0.167, 'problem': 0.167, 'three': 0.167, 'point': 0.167, 'boundary': 0.167, 'condition': 0.167, 'toba': 0.167, 'k': 0.167, 'j': 0.167, 'aero': 0.167, 'sc': 0.167, 'v': 0.167, 'p': 0.167, 'april': 0.167, 'relate': 0.167, 'technique': 0.167, 'approximate': 0.167, 'determination': 0.167, 'initial': 0.167, 'parameter': 0.167, 'application': 0.167, 'asymptotic': 0.167, 'integration': 0.167, 'method': 0.167, 'introduce': 0.167, 'meksyn': 0.167, 'apply': 0.167, 'computation': 0.167, 'skin': 0.167, 'friction': 0.167, 'shock': 0.167, 'generate': 0.167, 'layer': 0.167, 'flow': 0.167}
+For Document340 vector representation
+{'analysis': 0.158, 'effect': 0.158, 'diffusion': 0.158, 'foreign': 0.158, 'gas': 0.158, 'laminar': 0.158, 'boundary': 0.158, 'layer': 0.158, 'supersonic': 0.158, 'flow': 0.228, 'air': 0.158, 'tube': 0.158, 'radbill': 0.158, 'j': 0.158, 'r': 0.158, 'kaye': 0.158, 'ae': 0.158, 'sc': 0.158, 'adiabatic': 0.158, 'wall': 0.158, 'temperature': 0.158, 'recovery': 0.158, 'factor': 0.228, 'calculate': 0.158, 'pipe': 0.158, 'entrance': 0.158, 'mach': 0.158, 'number': 0.158, 'uniform': 0.158, 'injection': 0.158, 'helium': 0.158, 'predict': 0.158, 'value': 0.158, 'increase': 0.228, 'slowly': 0.158, 'rate': 0.158, 'distance': 0.158}
+
+
+
+Document Vector for Query8 weight1:
+For Document21 vector representation
+{'heat': 0.164, 'transfer': 0.164, 'slip': 0.164, 'flow': 0.164, 'stephen': 0.164, 'h': 0.164, 'maslen': 0.164, 'lewis': 0.164, 'flight': 0.164, 'propulsion': 0.164, 'laboratory': 0.164, 'naca': 0.164, 'cleveland': 0.164, 'ohio': 0.164, 'number': 0.164, 'author': 0.164, 'consider': 0.164, 'effect': 0.164, 'skin': 0.164, 'friction': 0.164, 'laminar': 0.164, 'boundary': 0.164, 'layer': 0.164, 'flat': 0.164, 'plate': 0.164, 'reference': 0.164, 'considers': 0.164, 'perturbation': 0.164, 'usual': 0.164, 'analysis': 0.164, 'study': 0.164, 'dash': 0.164, 'e': 0.164, 'g': 0.164, 'impulsive': 0.164, 'motion': 0.164, 'infinite': 0.164}
+For Document1083 vector representation
+{'investigation': 0.162, 'fluid': 0.162, 'flow': 0.162, 'two': 0.162, 'dimension': 0.162, 'thom': 0.162, 'r': 0.162, 'c': 0.162, 'inviscid': 0.162, 'dash': 0.162, 'existence': 0.162, 'several': 0.162, 'method': 0.234, 'obtain': 0.162, 'numerical': 0.162, 'solution': 0.234, 'dimensional': 0.162, 'perfect': 0.162, 'give': 0.234, 'boundary': 0.162, 'condition': 0.162, 'part': 0.162, 'present': 0.162, 'paper': 0.162, 'viscous': 0.162, 'steady': 0.162, 'simpler': 0.162, 'problem': 0.162, 'illustrate': 0.162, 'example': 0.162, 'bear': 0.162, 'experimental': 0.162, 'work': 0.162, 'describe': 0.162, 'iv': 0.162}
+For Document1379 vector representation
+{'hypersonic': 0.131, 'flight': 0.131, 'entry': 0.131, 'problem': 0.19, 'allen': 0.131, 'h': 0.131, 'j': 0.131, 'aerospace': 0.131, 'sce': 0.131, 'paper': 0.131, 'review': 0.131, 'possibility': 0.131, 'main': 0.131, 'three': 0.131, 'type': 0.131, 'long': 0.131, 'range': 0.131, 'vehicle': 0.131, 'ballistic': 0.131, 'glide': 0.131, 'skip': 0.131, 'rocket': 0.131, 'performance': 0.131, 'assessment': 0.131, 'make': 0.131, 'basis': 0.131, 'ingenious': 0.131, 'debatable': 0.131, 'conversion': 0.131, 'characteristic': 0.131, 'breguet': 0.131, 'formula': 0.131, 'aerodynamic': 0.131, 'heat': 0.131, 'load': 0.131, 'stability': 0.131, 'briefly': 0.131, 'discuss': 0.131, 'aspect': 0.131, 'free': 0.131, 'molecule': 0.131, 'flow': 0.131, 'dash': 0.131, 'touch': 0.131, 'upon': 0.131, 'result': 0.131, 'whole': 0.131, 'favor': 0.131, 'man': 0.131, 'subsequent': 0.131, 'discussion': 0.131, 'include': 0.131, 'reference': 0.131, 'multistaging': 0.131, 'use': 0.131, 'highenergy': 0.131, 'fuel': 0.131}
+For Document22 vector representation
+{'slip': 0.199, 'flow': 0.137, 'heat': 0.137, 'transfer': 0.137, 'flat': 0.137, 'plate': 0.137, 'oman': 0.137, 'r': 0.137, 'scheuing': 0.137, 'j': 0.137, 'ae': 0.137, 'sc': 0.137, 'assume': 0.137, 'continuum': 0.137, 'energy': 0.137, 'equation': 0.137, 'boundary': 0.137, 'layer': 0.137, 'remain': 0.137, 'valid': 0.137, 'well': 0.137, 'region': 0.137, 'take': 0.137, 'account': 0.137, 'temperature': 0.137, 'jump': 0.137, 'move': 0.137, 'rarefy': 0.137, 'gas': 0.137, 'influence': 0.137, 'large': 0.137, 'mean': 0.137, 'free': 0.137, 'path': 0.137, 'appropriate': 0.137, 'condition': 0.137, 'solution': 0.137, 'find': 0.137, 'gradient': 0.137, 'maslen': 0.137, 'expression': 0.137, 'aero': 0.137, 'sci': 0.137, 'june': 0.137, 'fluid': 0.137, 'behavior': 0.137, 'confirm': 0.137, 'result': 0.137, 'small': 0.137, 'value': 0.137, 'knudsen': 0.137, 'number': 0.137}
+For Document23 vector representation
+{'skin': 0.135, 'friction': 0.135, 'heat': 0.135, 'transfer': 0.135, 'characteristic': 0.135, 'laminar': 0.135, 'boundary': 0.135, 'layer': 0.135, 'cylinder': 0.135, 'axial': 0.135, 'incompressible': 0.135, 'flow': 0.135, 'seban': 0.135, 'r': 0.135, 'bond': 0.135, 'j': 0.135, 'ae': 0.135, 'scs': 0.135, 'solution': 0.135, 'give': 0.135, 'case': 0.195, 'fluid': 0.135, 'constant': 0.135, 'property': 0.135, 'exterior': 0.135, 'parallel': 0.135, 'axis': 0.135, 'differs': 0.135, 'blasius': 0.135, 'along': 0.135, 'flat': 0.135, 'plate': 0.135, 'consider': 0.135, 'effect': 0.135, 'curvature': 0.135, 'plane': 0.135, 'transverse': 0.135, 'direction': 0.135, 'local': 0.135, 'coefficient': 0.135, 'prandtl': 0.135, 'number': 0.135, 'evaluate': 0.135, 'compare': 0.135, 'similar': 0.135, 'magnitude': 0.135, 'show': 0.135, 'significant': 0.135, 'practical': 0.135, 'recovery': 0.135, 'factor': 0.135, 'quantity': 0.135, 'find': 0.135, 'insensitive': 0.135}
+
+
+
+Document Vector for Query9 weight1:
+For Document282 vector representation
+{'jet': 0.113, 'effect': 0.163, 'base': 0.113, 'pressure': 0.113, 'conical': 0.113, 'afterbodies': 0.113, 'mach': 0.113, 'baughman': 0.113, 'l': 0.113, 'e': 0.113, 'kochendorfer': 0.113, 'f': 0.113, 'naca': 0.113, 'rm': 0.113, 'data': 0.113, 'present': 0.113, 'show': 0.113, 'series': 0.113, 'afterbody': 0.113, 'nozzle': 0.163, 'combination': 0.113, 'boattail': 0.113, 'angle': 0.163, 'vary': 0.113, 'diameter': 0.113, 'ratio': 0.163, 'exit': 0.113, 'design': 0.113, 'number': 0.163, 'test': 0.113, 'cold': 0.113, 'air': 0.113, 'hot': 0.113, 'general': 0.113, 'increase': 0.163, 'value': 0.113, 'temperature': 0.113, 'total': 0.113, 'decrease': 0.113, 'free': 0.113, 'stream': 0.113, 'addition': 0.113, 'tail': 0.113, 'surface': 0.113, 'produce': 0.113, 'small': 0.113, 'change': 0.113, 'variables': 0.113, 'govern': 0.113, 'maximum': 0.113, 'rise': 0.113, 'support': 0.113, 'wake': 0.113, 'fluid': 0.113, 'region': 0.113, 'trail': 0.113, 'shock': 0.113, 'turn': 0.113, 'adjacent': 0.113, 'state': 0.113, 'boundary': 0.113, 'layer': 0.113, 'compute': 0.113, 'use': 0.113, 'theory': 0.113, 'korst': 0.113, 'page': 0.113, 'child': 0.113, 'good': 0.113, 'agreement': 0.113, 'experimental': 0.113, 'convergent': 0.113}
+For Document876 vector representation
+{'flutter': 0.123, 'test': 0.123, 'high': 0.123, 'speed': 0.17, 'wind': 0.123, 'tunnel': 0.17, 'lambourne': 0.123, 'n': 0.123, 'c': 0.123, 'scruton': 0.123, 'arc': 0.123, 'r': 0.123, 'requirement': 0.123, 'simulate': 0.201, 'condition': 0.123, 'appropriate': 0.123, 'flight': 0.123, 'discuss': 0.123, 'assessment': 0.123, 'make': 0.123, 'desirable': 0.123, 'feature': 0.123, 'suitable': 0.123, 'transonic': 0.123, 'supersonic': 0.123, 'conclude': 0.123, 'either': 0.123, 'mach': 0.123, 'number': 0.123, 'stagnation': 0.123, 'pressure': 0.17, 'variable': 0.123, 'run': 0.123, 'considerable': 0.123, 'advantage': 0.123, 'purpose': 0.123, 'essential': 0.123, 'available': 0.123, 'require': 0.123, 'allow': 0.17, 'model': 0.123, 'consider': 0.123, 'range': 0.123, 'least': 0.123, 'atmosphere': 0.123, 'attempt': 0.123, 'kinetic': 0.123, 'heating': 0.123, 'envisage': 0.123, 'although': 0.123, 'effect': 0.123, 'stiffness': 0.123, 'design': 0.123, 'minimise': 0.123, 'uncertainty': 0.123, 'due': 0.123, 'variation': 0.123, 'temperature': 0.123, 'mean': 0.123, 'control': 0.123, 'incorporate': 0.123}
+For Document877 vector representation
+{'influence': 0.183, 'aerodynamic': 0.183, 'heating': 0.183, 'flexural': 0.183, 'rigidity': 0.183, 'thin': 0.183, 'wing': 0.183, 'mansfield': 0.183, 'e': 0.183, 'h': 0.183, 'arc': 0.183, 'r': 0.183, 'report': 0.183, 'considers': 0.183, 'loss': 0.183, 'due': 0.183, 'presence': 0.183, 'middle': 0.183, 'surface': 0.183, 'stress': 0.183, 'result': 0.183, 'spanwise': 0.183, 'property': 0.183, 'assume': 0.183, 'constant': 0.183, 'section': 0.183, 'arbitrary': 0.183, 'comparable': 0.183, 'corresponding': 0.183, 'torsional': 0.183}
+For Document878 vector representation
+{'experimental': 0.147, 'model': 0.213, 'technique': 0.147, 'equipment': 0.147, 'flutter': 0.147, 'investigation': 0.147, 'molyneux': 0.147, 'w': 0.147, 'g': 0.147, 'air': 0.147, 'eng': 0.147, 'outline': 0.147, 'give': 0.147, 'us': 0.147, 'aid': 0.147, 'designer': 0.147, 'avoidance': 0.147, 'detail': 0.147, 'different': 0.147, 'type': 0.147, 'method': 0.147, 'construction': 0.147, 'use': 0.147, 'various': 0.147, 'test': 0.213, 'facility': 0.147, 'available': 0.147, 'high': 0.147, 'speed': 0.147, 'low': 0.147, 'procedure': 0.147, 'follow': 0.147, 'u': 0.147, 'k': 0.147, 'clearance': 0.147, 'full': 0.147, 'scale': 0.147, 'aircraft': 0.147, 'describe': 0.147, 'value': 0.147, 'electronic': 0.147, 'simulator': 0.147, 'field': 0.147, 'discuss': 0.147}
+For Document879 vector representation
+{'flutter': 0.182, 'model': 0.264, 'testing': 0.182, 'transonic': 0.182, 'speed': 0.182, 'targoff': 0.182, 'w': 0.182, 'p': 0.182, 'white': 0.182, 'r': 0.182, 'inst': 0.182, 'aero': 0.182, 'sc': 0.182, 'perp': 0.182, 'may': 0.182, 'research': 0.182, 'reflection': 0.182, 'plane': 0.182, 'straight': 0.182, 'sweep': 0.182, 'delta': 0.182, 'wing': 0.182, 'x': 0.182, 'foot': 0.182, 'test': 0.182, 'facility': 0.182, 'technique': 0.182, 'construction': 0.182, 'develop': 0.182}
+
+
+
+Document Vector for Query10 weight1:
+For Document451 vector representation
+{'liapunov': 0.169, 'method': 0.245, 'automatic': 0.169, 'control': 0.169, 'theory': 0.169, 'park': 0.169, 'p': 0.169, 'c': 0.169, 'november': 0.169, 'december': 0.169, 'work': 0.169, 'stability': 0.169, 'discuss': 0.169, 'second': 0.169, 'show': 0.169, 'application': 0.169, 'linear': 0.169, 'equation': 0.169, 'real': 0.169, 'constant': 0.169, 'coefficient': 0.169, 'proof': 0.169, 'routhhurwitz': 0.169, 'criterion': 0.169, 'periodic': 0.169, 'practical': 0.169, 'example': 0.169, 'include': 0.169, 'non': 0.169, 'problem': 0.169, 'function': 0.169, 'use': 0.169, 'area': 0.169, 'system': 0.169}
+For Document791 vector representation
+{'measurement': 0.156, 'mach': 0.156, 'number': 0.156, 'longitudinal': 0.156, 'characteristic': 0.156, 'one': 0.156, 'plane': 0.156, 'three': 0.156, 'camber': 0.156, 'slender': 0.156, 'ogee': 0.156, 'wing': 0.226, 'taylor': 0.156, 'c': 0.156, 'r': 0.156, 'rae': 0.156, 'aero': 0.156, 'make': 0.156, 'p': 0.156, 'two': 0.156, 'subsonic': 0.156, 'eight': 0.156, 'supersonic': 0.156, 'test': 0.156, 'also': 0.156, 'include': 0.156, 'zero': 0.156, 'lift': 0.156, 'pressure': 0.156, 'drag': 0.156, 'support': 0.156, 'interference': 0.156, 'result': 0.156, 'analyse': 0.156, 'give': 0.156, 'data': 0.156, 'estimate': 0.156, 'performance': 0.156, 'transport': 0.156, 'aircraft': 0.156}
+For Document1016 vector representation
+{'principle': 0.154, 'creep': 0.154, 'buckle': 0.154, 'weight': 0.154, 'strength': 0.154, 'analysis': 0.154, 'relation': 0.154, 'time': 0.154, 'dependent': 0.154, 'tangent': 0.154, 'modulus': 0.154, 'load': 0.154, 'conceive': 0.154, 'shanley': 0.154, 'actual': 0.154, 'column': 0.223, 'capacity': 0.154, 'clarify': 0.154, 'may': 0.154, 'interpret': 0.154, 'limit': 0.154, 'case': 0.223, 'conservative': 0.154, 'estimate': 0.154, 'tangentmodulus': 0.154, 'therefore': 0.154, 'approximation': 0.154, 'however': 0.154, 'either': 0.154, 'nonconservative': 0.154, 'apply': 0.154, 'imperfect': 0.154, 'real': 0.154, 'typical': 0.154, 'discuss': 0.154, 'experimental': 0.154, 'result': 0.154, 'two': 0.154, 'alloy': 0.154, 'cite': 0.154}
+For Document503 vector representation
+{'theoretical': 0.135, 'prediction': 0.135, 'transonic': 0.135, 'characteristic': 0.135, 'airfoils': 0.135, 'sinnott': 0.135, 'c': 0.135, 'j': 0.135, 'ae': 0.135, 'scs': 0.135, 'show': 0.135, 'author': 0.135, 'flow': 0.135, 'airfoil': 0.135, 'theory': 0.135, 'use': 0.135, 'estimate': 0.135, 'drag': 0.135, 'rise': 0.135, 'onset': 0.135, 'separation': 0.135, 'effect': 0.135, 'mach': 0.135, 'number': 0.135, 'without': 0.135, 'reference': 0.135, 'experimental': 0.135, 'result': 0.135, 'simple': 0.135, 'comparative': 0.135, 'method': 0.135, 'apply': 0.135, 'series': 0.135, 'analyzed': 0.135, 'determine': 0.135, 'design': 0.135, 'feature': 0.135, 'importance': 0.135, 'improvement': 0.135, 'scheme': 0.135, 'give': 0.135, 'good': 0.135, 'agreement': 0.135, 'experiment': 0.135, 'first': 0.135, 'appearance': 0.135, 'shock': 0.135, 'wave': 0.135, 'application': 0.135, 'finite': 0.135, 'swept': 0.135, 'wing': 0.135, 'briefly': 0.135, 'consider': 0.135, 'illustrate': 0.135}
+For Document504 vector representation
+{'stability': 0.112, 'compressible': 0.112, 'boundary': 0.112, 'layer': 0.162, 'induce': 0.112, 'move': 0.112, 'wave': 0.112, 'ostrach': 0.112, 'j': 0.112, 'ae': 0.112, 'sc': 0.112, 'problem': 0.112, 'determine': 0.162, 'viscous': 0.112, 'flow': 0.162, 'nonzero': 0.112, 'surface': 0.112, 'velocity': 0.162, 'formulate': 0.112, 'show': 0.112, 'identical': 0.112, 'conventional': 0.112, 'redefinition': 0.112, 'mach': 0.112, 'reynolds': 0.112, 'number': 0.162, 'require': 0.112, 'specific': 0.112, 'consideration': 0.112, 'give': 0.112, 'wall': 0.112, 'behind': 0.112, 'shock': 0.112, 'minimum': 0.112, 'critical': 0.112, 'obtain': 0.112, 'various': 0.112, 'entire': 0.112, 'map': 0.112, 'limit': 0.112, 'case': 0.112, 'weak': 0.112, 'analogous': 0.112, 'rayleigh': 0.112, 'find': 0.112, 'increase': 0.162, 'monotonically': 0.112, 'e': 0.112, 'cool': 0.112, 'stream': 0.112, 'combine': 0.112, 'ratio': 0.112, 'infinitely': 0.112, 'stable': 0.112, 'two': 0.112, 'dimensional': 0.112, 'disturbance': 0.112, 'experimental': 0.112, 'transition': 0.112, 'data': 0.112, 'follow': 0.112, 'trend': 0.112, 'predict': 0.112, 'theory': 0.112, 'fact': 0.112, 'order': 0.112, 'magnitude': 0.112, 'compute': 0.112, 'lack': 0.112, 'correlation': 0.112, 'experiment': 0.112, 'attribute': 0.112, 'external': 0.112}
+
+
+
+Document Vector for Query11 weight1:
+For Document483 vector representation
+{'stagnation': 0.2, 'point': 0.2, 'shock': 0.2, 'detachment': 0.2, 'distance': 0.2, 'flow': 0.2, 'around': 0.2, 'spheres': 0.2, 'cylinder': 0.289, 'ambrosio': 0.2, 'wortman': 0.2, 'ars': 0.2, 'j': 0.2, 'development': 0.2, 'analytical': 0.2, 'relation': 0.2, 'free': 0.2, 'stream': 0.2, 'mach': 0.2, 'number': 0.2, 'result': 0.2, 'present': 0.2, 'graphically': 0.2, 'air': 0.2}
+For Document484 vector representation
+{'influence': 0.102, 'two': 0.102, 'dimensional': 0.102, 'stream': 0.102, 'shear': 0.102, 'airfoil': 0.102, 'maximum': 0.102, 'lift': 0.102, 'vidal': 0.102, 'r': 0.102, 'j': 0.102, 'ae': 0.102, 'sc': 0.102, 'effect': 0.148, 'velocity': 0.102, 'gradient': 0.102, 'define': 0.102, 'experimental': 0.102, 'data': 0.102, 'obtain': 0.102, 'simulate': 0.102, 'slipstream': 0.102, 'result': 0.102, 'show': 0.102, 'position': 0.102, 'near': 0.102, 'plane': 0.102, 'symmetry': 0.102, 'varies': 0.102, 'markedly': 0.102, 'location': 0.102, 'move': 0.102, 'total': 0.102, 'distance': 0.102, 'correspond': 0.102, 'thickness': 0.102, 'force': 0.102, 'boundary': 0.102, 'layer': 0.102, 'observation': 0.102, 'separation': 0.102, 'delay': 0.102, 'high': 0.102, 'angle': 0.102, 'attack': 0.102, 'double': 0.102, 'conclude': 0.102, 'destalling': 0.102, 'observe': 0.102, 'nonuniform': 0.102, 'associate': 0.102, 'interference': 0.102, 'stem': 0.102, 'large': 0.102, 'local': 0.102, 'characteristic': 0.102, 'uniform': 0.102, 'pressure': 0.102, 'distribution': 0.102, 'discuss': 0.102, 'within': 0.102, 'framework': 0.102, 'exist': 0.102, 'first': 0.102, 'order': 0.102, 'smallshear': 0.102, 'theory': 0.148, 'tend': 0.102, 'promote': 0.102, 'stall': 0.102, 'pohlhausen': 0.102, 'calculation': 0.102, 'laminar': 0.102, 'use': 0.102, 'identify': 0.102, 'assess': 0.102, 'criterion': 0.148, 'demonstrate': 0.102, 'negligibly': 0.102, 'small': 0.102, 'flow': 0.102, 'applies': 0.102, 'basis': 0.102, 'phenomenon': 0.102, 'treat': 0.102, 'inviscid': 0.102, 'hypothesize': 0.102, 'second': 0.102, 'fix': 0.102, 'product': 0.102, 'derivative': 0.102, 'present': 0.102, 'experiment': 0.102}
+For Document485 vector representation
+{'linear': 0.192, 'heat': 0.192, 'flow': 0.192, 'composite': 0.192, 'slab': 0.192, 'reid': 0.192, 'w': 0.192, 'p': 0.192, 'j': 0.192, 'ae': 0.192, 'scs': 0.192, 'temperature': 0.278, 'determine': 0.192, 'function': 0.278, 'position': 0.192, 'time': 0.192, 'case': 0.192, 'conduction': 0.192, 'ture': 0.192, 'throughout': 0.192, 'two': 0.192, 'external': 0.192, 'surface': 0.192, 'consider': 0.192, 'prescribed': 0.192}
+For Document282 vector representation
+{'jet': 0.113, 'effect': 0.163, 'base': 0.113, 'pressure': 0.113, 'conical': 0.113, 'afterbodies': 0.113, 'mach': 0.113, 'baughman': 0.113, 'l': 0.113, 'e': 0.113, 'kochendorfer': 0.113, 'f': 0.113, 'naca': 0.113, 'rm': 0.113, 'data': 0.113, 'present': 0.113, 'show': 0.113, 'series': 0.113, 'afterbody': 0.113, 'nozzle': 0.163, 'combination': 0.113, 'boattail': 0.113, 'angle': 0.163, 'vary': 0.113, 'diameter': 0.113, 'ratio': 0.163, 'exit': 0.113, 'design': 0.113, 'number': 0.163, 'test': 0.113, 'cold': 0.113, 'air': 0.113, 'hot': 0.113, 'general': 0.113, 'increase': 0.163, 'value': 0.113, 'temperature': 0.113, 'total': 0.113, 'decrease': 0.113, 'free': 0.113, 'stream': 0.113, 'addition': 0.113, 'tail': 0.113, 'surface': 0.113, 'produce': 0.113, 'small': 0.113, 'change': 0.113, 'variables': 0.113, 'govern': 0.113, 'maximum': 0.113, 'rise': 0.113, 'support': 0.113, 'wake': 0.113, 'fluid': 0.113, 'region': 0.113, 'trail': 0.113, 'shock': 0.113, 'turn': 0.113, 'adjacent': 0.113, 'state': 0.113, 'boundary': 0.113, 'layer': 0.113, 'compute': 0.113, 'use': 0.113, 'theory': 0.113, 'korst': 0.113, 'page': 0.113, 'child': 0.113, 'good': 0.113, 'agreement': 0.113, 'experimental': 0.113, 'convergent': 0.113}
+For Document283 vector representation
+{'laminar': 0.102, 'heat': 0.102, 'transfer': 0.102, 'around': 0.102, 'blunt': 0.102, 'body': 0.102, 'dissociate': 0.102, 'air': 0.102, 'kemp': 0.102, 'n': 0.102, 'h': 0.102, 'rise': 0.102, 'p': 0.102, 'detra': 0.102, 'r': 0.102, 'w': 0.102, 'j': 0.102, 'ae': 0.102, 'sc': 0.102, 'method': 0.102, 'predict': 0.102, 'rate': 0.149, 'highly': 0.102, 'cooled': 0.102, 'constant': 0.102, 'wall': 0.102, 'temperature': 0.102, 'flow': 0.102, 'develop': 0.102, 'attention': 0.102, 'restrict': 0.102, 'case': 0.102, 'axisymmetric': 0.102, 'zero': 0.102, 'incidence': 0.102, 'although': 0.102, 'two': 0.102, 'dimensional': 0.102, 'could': 0.102, 'treat': 0.102, 'way': 0.102, 'base': 0.102, 'use': 0.149, 'local': 0.102, 'similarity': 0.102, 'concept': 0.102, 'extension': 0.102, 'idea': 0.102, 'fay': 0.102, 'riddell': 0.102, 'simple': 0.102, 'formula': 0.102, 'give': 0.102, 'ratio': 0.102, 'stagnation': 0.102, 'point': 0.102, 'depend': 0.102, 'condition': 0.102, 'pressure': 0.102, 'distribution': 0.102, 'thermodynamic': 0.102, 'transport': 0.102, 'property': 0.102, 'hot': 0.102, 'external': 0.102, 'except': 0.102, 'experimental': 0.102, 'obtain': 0.102, 'correct': 0.102, 'simulation': 0.102, 'high': 0.102, 'cool': 0.102, 'shock': 0.102, 'tube': 0.102, 'also': 0.102, 'present': 0.102, 'compare': 0.102, 'theoretical': 0.102, 'prediction': 0.102, 'whole': 0.102, 'agreement': 0.102, 'good': 0.102, 'region': 0.102, 'rapidly': 0.102, 'vary': 0.102, 'evidence': 0.102, 'assumption': 0.102, 'break': 0.102, 'theory': 0.102, 'underestimate': 0.102, 'actual': 0.102, 'per': 0.102, 'cent': 0.102}
+
+
+
+Document Vector for Query12 weight1:
+For Document251 vector representation
+{'collection': 0.152, 'longitudinal': 0.152, 'stability': 0.152, 'derivative': 0.152, 'wing': 0.152, 'supersonic': 0.152, 'speed': 0.152, 'naysmith': 0.152, 'rae': 0.152, 'tn': 0.152, 'aero': 0.152, 'make': 0.152, 'theoretical': 0.152, 'data': 0.152, 'alone': 0.152, 'govern': 0.152, 'short': 0.152, 'period': 0.152, 'oscillation': 0.152, 'aircraft': 0.152, 'travel': 0.152, 'available': 0.152, 'obtain': 0.152, 'mean': 0.152, 'linear': 0.152, 'theory': 0.152, 'information': 0.152, 'give': 0.152, 'subject': 0.152, 'usual': 0.152, 'limitation': 0.152, 'present': 0.152, 'hop': 0.152, 'convenient': 0.152, 'form': 0.152, 'show': 0.152, 'extent': 0.152, 'expose': 0.152, 'part': 0.152, 'field': 0.152, 'experimental': 0.152, 'investigation': 0.152, 'need': 0.152}
+For Document708 vector representation
+{'aerodynamic': 0.167, 'characteristic': 0.167, 'two': 0.167, 'wing': 0.167, 'reentry': 0.167, 'vehicle': 0.167, 'supersonic': 0.167, 'hypersonic': 0.167, 'speed': 0.167, 'ladson': 0.167, 'c': 0.167, 'l': 0.167, 'johnston': 0.167, 'p': 0.167, 'j': 0.167, 'nasa': 0.167, 'tm': 0.167, 'x': 0.167, 'test': 0.167, 'conduct': 0.167, 'langley': 0.167, 'research': 0.167, 'center': 0.167, 'lift': 0.167, 'glider': 0.167, 'configuration': 0.167, 'performance': 0.167, 'stability': 0.167, 'control': 0.167, 'data': 0.167, 'present': 0.167, 'mach': 0.167, 'number': 0.167, 'angle': 0.167, 'attack': 0.167, 'degree': 0.167}
+For Document878 vector representation
+{'experimental': 0.147, 'model': 0.213, 'technique': 0.147, 'equipment': 0.147, 'flutter': 0.147, 'investigation': 0.147, 'molyneux': 0.147, 'w': 0.147, 'g': 0.147, 'air': 0.147, 'eng': 0.147, 'outline': 0.147, 'give': 0.147, 'us': 0.147, 'aid': 0.147, 'designer': 0.147, 'avoidance': 0.147, 'detail': 0.147, 'different': 0.147, 'type': 0.147, 'method': 0.147, 'construction': 0.147, 'use': 0.147, 'various': 0.147, 'test': 0.213, 'facility': 0.147, 'available': 0.147, 'high': 0.147, 'speed': 0.147, 'low': 0.147, 'procedure': 0.147, 'follow': 0.147, 'u': 0.147, 'k': 0.147, 'clearance': 0.147, 'full': 0.147, 'scale': 0.147, 'aircraft': 0.147, 'describe': 0.147, 'value': 0.147, 'electronic': 0.147, 'simulator': 0.147, 'field': 0.147, 'discuss': 0.147}
+For Document879 vector representation
+{'flutter': 0.182, 'model': 0.264, 'testing': 0.182, 'transonic': 0.182, 'speed': 0.182, 'targoff': 0.182, 'w': 0.182, 'p': 0.182, 'white': 0.182, 'r': 0.182, 'inst': 0.182, 'aero': 0.182, 'sc': 0.182, 'perp': 0.182, 'may': 0.182, 'research': 0.182, 'reflection': 0.182, 'plane': 0.182, 'straight': 0.182, 'sweep': 0.182, 'delta': 0.182, 'wing': 0.182, 'x': 0.182, 'foot': 0.182, 'test': 0.182, 'facility': 0.182, 'technique': 0.182, 'construction': 0.182, 'develop': 0.182}
+For Document880 vector representation
+{'design': 0.154, 'test': 0.154, 'supersonic': 0.154, 'flutter': 0.154, 'model': 0.154, 'mccarthy': 0.154, 'j': 0.154, 'f': 0.154, 'halfman': 0.154, 'r': 0.154, 'l': 0.154, 'aero': 0.154, 'sc': 0.154, 'june': 0.154, 'basic': 0.154, 'problem': 0.154, 'low': 0.154, 'speed': 0.154, 'range': 0.154, 'simulate': 0.154, 'full': 0.154, 'scale': 0.223, 'airplane': 0.154, 'mach': 0.154, 'number': 0.154, 'include': 0.154, 'parameter': 0.154, 'review': 0.154, 'compare': 0.154, 'velocity': 0.154, 'leading': 0.154, 'edge': 0.154, 'become': 0.154, 'transonic': 0.154, 'result': 0.154, 'give': 0.154, 'elsewhere': 0.154, 'serve': 0.154, 'check': 0.154, 'table': 0.154, 'ii': 0.154}
+
+
+
+Document Vector for Query13 weight1:
+For Document854 vector representation
+{'boundary': 0.183, 'value': 0.183, 'problem': 0.183, 'thin': 0.183, 'wall': 0.183, 'circular': 0.183, 'cylinder': 0.183, 'hoff': 0.183, 'n': 0.183, 'j': 0.183, 'app': 0.183, 'mech': 0.183, 'homogeneous': 0.183, 'differential': 0.183, 'equation': 0.183, 'donnell': 0.183, 'theory': 0.183, 'cylindrical': 0.183, 'shell': 0.183, 'integrated': 0.183, 'expression': 0.183, 'obtain': 0.183, 'closed': 0.183, 'form': 0.183, 'displacement': 0.183, 'membrane': 0.183, 'stress': 0.183, 'moment': 0.183, 'shear': 0.183, 'force': 0.183}
+For Document855 vector representation
+{'simplified': 0.164, 'formula': 0.164, 'boundary': 0.164, 'value': 0.164, 'problem': 0.164, 'thin': 0.164, 'wall': 0.164, 'circular': 0.164, 'cylinder': 0.238, 'pohle': 0.164, 'f': 0.164, 'v': 0.164, 'nardo': 0.164, 'w': 0.164, 'j': 0.164, 'app': 0.164, 'mech': 0.164, 'n': 0.164, 'hoff': 0.164, 'present': 0.164, 'use': 0.164, 'solution': 0.164, 'purpose': 0.164, 'note': 0.164, 'express': 0.164, 'result': 0.164, 'exact': 0.164, 'form': 0.164, 'detail': 0.164, 'investigation': 0.164, 'appear': 0.164, 'elsewhere': 0.164, 'notation': 0.164, 'unless': 0.164, 'otherwise': 0.164, 'state': 0.164}
+For Document856 vector representation
+{'experimental': 0.102, 'study': 0.148, 'panel': 0.148, 'flutter': 0.102, 'mach': 0.102, 'sylvester': 0.102, 'baker': 0.102, 'j': 0.102, 'e': 0.102, 'naca': 0.102, 'tn': 0.102, 'conduct': 0.102, 'number': 0.102, 'verify': 0.102, 'existence': 0.102, 'phenomenon': 0.102, 'effect': 0.148, 'structural': 0.102, 'parameter': 0.102, 'characteristic': 0.102, 'thin': 0.102, 'rectangular': 0.102, 'metal': 0.102, 'plate': 0.102, 'use': 0.148, 'mount': 0.102, 'section': 0.102, 'tunnel': 0.102, 'wall': 0.102, 'data': 0.102, 'obtain': 0.102, 'aluminum': 0.102, 'alloy': 0.102, 'although': 0.102, 'steel': 0.102, 'magnesium': 0.102, 'brass': 0.102, 'also': 0.102, 'different': 0.102, 'material': 0.102, 'various': 0.102, 'thickness': 0.102, 'length': 0.102, 'determine': 0.102, 'program': 0.102, 'consist': 0.102, 'three': 0.102, 'phase': 0.102, 'clamp': 0.102, 'front': 0.102, 'rear': 0.102, 'buckle': 0.148, 'four': 0.102, 'edge': 0.102, 'control': 0.102, 'laboratory': 0.102, 'condition': 0.102, 'find': 0.102, 'flow': 0.102, 'test': 0.102, 'increase': 0.102, 'tensile': 0.102, 'force': 0.102, 'effective': 0.102, 'eliminate': 0.102, 'shorten': 0.102, 'bend': 0.102, 'stiffness': 0.102, 'apparent': 0.102, 'systematic': 0.102, 'trend': 0.102, 'mode': 0.102, 'frequency': 0.102, 'could': 0.102, 'observe': 0.102, 'significant': 0.102, 'sometimes': 0.102, 'involve': 0.102, 'high': 0.102, 'presence': 0.102, 'pressure': 0.102, 'differential': 0.102, 'two': 0.102, 'surface': 0.102, 'stabilize': 0.102, 'initially': 0.102, 'susceptible': 0.102, 'without': 0.102, 'much': 0.102, 'less': 0.102, 'prone': 0.102}
+For Document857 vector representation
+{'experimental': 0.118, 'study': 0.118, 'flutter': 0.118, 'buckle': 0.118, 'rectangular': 0.118, 'panel': 0.17, 'mach': 0.118, 'number': 0.118, 'include': 0.118, 'effect': 0.17, 'pressure': 0.118, 'differential': 0.118, 'width': 0.118, 'length': 0.118, 'ratio': 0.17, 'sylvester': 0.118, 'nasa': 0.118, 'tn': 0.118, 'data': 0.118, 'obtain': 0.118, 'determine': 0.118, 'increase': 0.118, 'effective': 0.118, 'eliminate': 0.118, 'test': 0.17, 'variable': 0.118, 'parameter': 0.118, 'sure': 0.118, 'e': 0.118, 'young': 0.118, 'modulus': 0.118, 'l': 0.118, 'thickness': 0.118, 'respectively': 0.118, 'investigate': 0.118, 'clamp': 0.118, 'front': 0.118, 'rear': 0.118, 'edge': 0.118, 'critical': 0.118, 'value': 0.118, 'indicate': 0.118, 'zero': 0.118, 'estimate': 0.118, 'boundary': 0.118, 'present': 0.118, 'four': 0.118, 'show': 0.118, 'significant': 0.118, 'less': 0.118, 'approximately': 0.118, 'two': 0.118, 'half': 0.118, 'wave': 0.118, 'direction': 0.118, 'flow': 0.118, 'find': 0.118, 'particularly': 0.118, 'susceptible': 0.118, 'result': 0.118, 'limited': 0.118, 'apply': 0.118, 'damp': 0.118, 'curvature': 0.118, 'lengthwise': 0.118, 'stiffener': 0.118, 'also': 0.118, 'discussed': 0.118}
+For Document858 vector representation
+{'experimental': 0.11, 'investigation': 0.11, 'mach': 0.11, 'number': 0.159, 'effect': 0.11, 'thermal': 0.11, 'stress': 0.11, 'buckle': 0.159, 'flutter': 0.11, 'four': 0.11, 'bay': 0.159, 'aluminium': 0.11, 'alloy': 0.11, 'panel': 0.159, 'length': 0.11, 'width': 0.11, 'ratio': 0.159, 'dixon': 0.11, 'c': 0.11, 'griffith': 0.11, 'g': 0.11, 'e': 0.11, 'bohon': 0.11, 'h': 0.11, 'k': 0.11, 'nasa': 0.11, 'tn': 0.11, 'skin': 0.159, 'stiffener': 0.11, 'aluminum': 0.11, 'consist': 0.159, 'test': 0.11, 'dynamic': 0.11, 'pressure': 0.11, 'range': 0.11, 'psf': 0.11, 'stagnation': 0.11, 'temperature': 0.159, 'f': 0.11, 'restrain': 0.11, 'support': 0.11, 'structure': 0.11, 'manner': 0.11, 'partial': 0.11, 'expansion': 0.11, 'could': 0.11, 'occur': 0.159, 'longitudinal': 0.11, 'lateral': 0.11, 'direction': 0.11, 'boundary': 0.159, 'fair': 0.11, 'point': 0.159, 'flat': 0.11, 'portion': 0.11, 'transition': 0.11, 'intersection': 0.11, 'two': 0.11, 'region': 0.11, 'must': 0.11, 'increase': 0.11, 'midplane': 0.11, 'compressive': 0.11, 'make': 0.11, 'susceptible': 0.11, 'trend': 0.11, 'reverse': 0.11, 'reversal': 0.11, 'attribute': 0.11, 'postbuckling': 0.11, 'behavior': 0.11}
+
+
+
+Document Vector for Query14 weight1:
+For Document138 vector representation
+{'wake': 0.103, 'axial': 0.103, 'compressor': 0.149, 'pearson': 0.103, 'h': 0.103, 'mckenzie': 0.103, 'b': 0.103, 'j': 0.103, 'roy': 0.103, 'ae': 0.103, 'tendency': 0.103, 'past': 0.103, 'assume': 0.149, 'non': 0.103, 'uniform': 0.103, 'total': 0.103, 'head': 0.103, 'profile': 0.103, 'feed': 0.103, 'substantially': 0.103, 'constant': 0.103, 'static': 0.103, 'pressure': 0.103, 'prevail': 0.103, 'entry': 0.103, 'variation': 0.149, 'appear': 0.149, 'velocity': 0.103, 'cause': 0.103, 'incidence': 0.103, 'early': 0.103, 'stage': 0.103, 'blade': 0.103, 'row': 0.103, 'thus': 0.103, 'give': 0.149, 'rise': 0.103, 'excitation': 0.103, 'vibration': 0.103, 'assumption': 0.103, 'implicit': 0.103, 'instance': 0.103, 'reference': 0.103, 'think': 0.103, 'common': 0.103, 'people': 0.103, 'work': 0.103, 'field': 0.103, 'duct': 0.149, 'parallel': 0.103, 'wall': 0.103, 'reasonable': 0.103, 'length': 0.103, 'ahead': 0.103, 'justifiable': 0.103, 'air': 0.103, 'flow': 0.103, 'test': 0.103, 'outlet': 0.103, 'discharge': 0.103, 'atmosphere': 0.103, 'instead': 0.103, 'distribution': 0.149, 'would': 0.103, 'normally': 0.103, 'obtain': 0.103, 'fact': 0.103, 'many': 0.103, 'survey': 0.103, 'represent': 0.103, 'fashion': 0.103, 'object': 0.103, 'note': 0.103, 'show': 0.103, 'occur': 0.103, 'present': 0.103, 'may': 0.103, 'expect': 0.103, 'much': 0.103, 'nearly': 0.103, 'attendant': 0.103, 'match': 0.103, 'intake': 0.103, 'course': 0.103, 'curve': 0.103, 'support': 0.103, 'gradient': 0.103}
+For Document139 vector representation
+{'viscous': 0.132, 'effect': 0.132, 'pitot': 0.132, 'tube': 0.192, 'low': 0.132, 'speed': 0.132, 'mcmillan': 0.132, 'f': 0.132, 'j': 0.132, 'roy': 0.132, 'ae': 0.132, 'measurement': 0.132, 'make': 0.132, 'pressure': 0.132, 'blunt': 0.132, 'nose': 0.132, 'air': 0.132, 'stream': 0.132, 'reynolds': 0.132, 'number': 0.192, 'result': 0.132, 'express': 0.132, 'term': 0.132, 'coefficient': 0.132, 'density': 0.132, 'fluid': 0.132, 'p': 0.132, 'v': 0.132, 'static': 0.132, 'velocity': 0.132, 'undisturbed': 0.132, 'find': 0.132, 'previous': 0.132, 'investigation': 0.132, 'becomes': 0.132, 'great': 0.132, 'increase': 0.132, 'base': 0.132, 'external': 0.132, 'radius': 0.132, 'disagreement': 0.132, 'work': 0.132, 'hurd': 0.132, 'chesky': 0.132, 'shapiro': 0.132, 'decrease': 0.132, 'value': 0.132, 'various': 0.132, 'experiment': 0.132, 'plot': 0.132, 'internal': 0.132, 'curve': 0.132, 'closer': 0.132, 'agreement': 0.132, 'use': 0.132}
+For Document140 vector representation
+{'determination': 0.089, 'turbulent': 0.089, 'skin': 0.089, 'friction': 0.089, 'mean': 0.089, 'pitot': 0.089, 'tubes': 0.089, 'preston': 0.089, 'j': 0.089, 'h': 0.089, 'roy': 0.089, 'ae': 0.089, 'simple': 0.089, 'method': 0.089, 'determine': 0.129, 'local': 0.089, 'smooth': 0.089, 'surface': 0.089, 'develop': 0.089, 'utilises': 0.089, 'round': 0.089, 'tube': 0.089, 'rest': 0.089, 'assume': 0.089, 'existence': 0.089, 'region': 0.089, 'near': 0.089, 'condition': 0.089, 'function': 0.089, 'relevant': 0.089, 'physical': 0.089, 'constant': 0.089, 'fluid': 0.089, 'suitable': 0.089, 'length': 0.089, 'universal': 0.089, 'non': 0.089, 'dimensional': 0.089, 'relation': 0.089, 'obtain': 0.089, 'difference': 0.089, 'total': 0.089, 'pressure': 0.089, 'record': 0.089, 'static': 0.089, 'wall': 0.089, 'term': 0.089, 'assumption': 0.089, 'independent': 0.089, 'gradient': 0.089, 'truth': 0.089, 'form': 0.129, 'first': 0.089, 'establish': 0.089, 'considerable': 0.089, 'degree': 0.089, 'accuracy': 0.089, 'pipe': 0.089, 'use': 0.129, 'four': 0.089, 'geometrically': 0.089, 'similar': 0.089, 'diameter': 0.089, 'take': 0.089, 'representative': 0.089, 'coefficient': 0.089, 'three': 0.089, 'station': 0.129, 'wind': 0.089, 'tunnel': 0.089, 'vary': 0.129, 'within': 0.089, 'limit': 0.129, 'experimental': 0.089, 'deduce': 0.089, 'find': 0.089, 'thus': 0.089, 'confirm': 0.089, 'basic': 0.089, 'leave': 0.089, 'little': 0.089, 'doubt': 0.089, 'correctness': 0.089, 'traverse': 0.089, 'make': 0.089, 'boundary': 0.089, 'layer': 0.089, 'result': 0.089, 'plot': 0.089, 'two': 0.089, 'basis': 0.089, 'already': 0.089, 'suggest': 0.089, 'fell': 0.089, 'close': 0.089, 'together': 0.089, 'whose': 0.089, 'outer': 0.089, 'represent': 0.089, 'breakdown': 0.089, 'spread': 0.089, 'due': 0.089, 'unknown': 0.089, 'displacement': 0.089, 'effective': 0.089, 'centre': 0.089, 'provide': 0.089, 'evidence': 0.089, 'dynamical': 0.089, 'similarity': 0.089, 'measurement': 0.089, 'extent': 0.089, 'may': 0.089, 'expect': 0.089, 'hold': 0.089, 'appear': 0.089, 'thickness': 0.089, 'remote': 0.089, 'separation': 0.089, 'respectively': 0.089}
+For Document141 vector representation
+{'free': 0.129, 'flight': 0.129, 'technique': 0.129, 'high': 0.187, 'speed': 0.129, 'aerodynamic': 0.129, 'research': 0.129, 'hamilton': 0.129, 'j': 0.129, 'hufton': 0.129, 'p': 0.129, 'roy': 0.129, 'ae': 0.129, 'development': 0.129, 'rocket': 0.129, 'borne': 0.129, 'launch': 0.129, 'airplane': 0.129, 'model': 0.129, 'test': 0.187, 'describe': 0.129, 'detail': 0.129, 'airborne': 0.129, 'component': 0.129, 'telemetering': 0.129, 'unit': 0.129, 'track': 0.129, 'calibration': 0.129, 'also': 0.129, 'discuss': 0.129, 'control': 0.129, 'drag': 0.129, 'measurement': 0.129, 'longitudinal': 0.129, 'stability': 0.129, 'evaluation': 0.129, 'lift': 0.129, 'pressure': 0.129, 'aeroelastic': 0.129, 'estimation': 0.129, 'sonic': 0.129, 'bang': 0.129, 'recording': 0.129, 'effect': 0.129, 'reynolds': 0.129, 'number': 0.129, 'involve': 0.129, 'much': 0.129, 'usual': 0.129, 'wind': 0.129, 'tunnel': 0.129, 'extension': 0.129, 'mach': 0.129, 'obtain': 0.129, 'beyond': 0.129, 'limit': 0.129, 'wall': 0.129, 'interference': 0.129}
+For Document137 vector representation
+{'generation': 0.196, 'sound': 0.196, 'aerodynamic': 0.196, 'mean': 0.196, 'curle': 0.196, 'n': 0.196, 'j': 0.196, 'roy': 0.196, 'ae': 0.196, 'summary': 0.196, 'give': 0.196, 'important': 0.196, 'experimental': 0.196, 'result': 0.196, 'relate': 0.196, 'noise': 0.196, 'radiate': 0.196, 'cold': 0.196, 'subsonic': 0.196, 'turbulent': 0.196, 'jet': 0.196, 'related': 0.196, 'prediction': 0.196, 'lighthill': 0.196, 'general': 0.196, 'theory': 0.196}
+
+
+
+Document Vector for Query15 weight1:
+For Document761 vector representation
+{'buckling': 0.152, 'sandwich': 0.152, 'normal': 0.152, 'pressure': 0.22, 'yao': 0.152, 'j': 0.152, 'c': 0.152, 'ae': 0.152, 'scs': 0.152, 'theoretical': 0.152, 'study': 0.152, 'make': 0.152, 'sphere': 0.152, 'comprise': 0.152, 'core': 0.152, 'layer': 0.22, 'low': 0.152, 'modulus': 0.152, 'material': 0.22, 'two': 0.152, 'thin': 0.152, 'face': 0.152, 'higher': 0.152, 'solution': 0.152, 'resistance': 0.152, 'external': 0.152, 'obtain': 0.152, 'linearized': 0.152, 'theory': 0.152, 'reducible': 0.152, 'classical': 0.152, 'monocoque': 0.152, 'spherical': 0.152, 'shell': 0.152, 'critical': 0.152, 'calculate': 0.152, 'various': 0.152, 'radius': 0.152, 'thickness': 0.152, 'ratio': 0.152}
+For Document863 vector representation
+{'load': 0.133, 'deformation': 0.133, 'buckle': 0.193, 'rectangular': 0.133, 'plate': 0.133, 'stein': 0.133, 'nasa': 0.133, 'tr': 0.133, 'r': 0.133, 'nonlinear': 0.133, 'large': 0.133, 'deflection': 0.193, 'equation': 0.133, 'von': 0.133, 'karman': 0.133, 'convert': 0.133, 'set': 0.133, 'linear': 0.133, 'expand': 0.133, 'displacement': 0.133, 'power': 0.133, 'series': 0.133, 'term': 0.133, 'arbitrary': 0.133, 'parameter': 0.133, 'post': 0.133, 'behavior': 0.133, 'simply': 0.133, 'support': 0.133, 'subject': 0.133, 'longitudinal': 0.133, 'compression': 0.133, 'uniform': 0.133, 'temperature': 0.133, 'rise': 0.133, 'investigate': 0.133, 'detail': 0.133, 'solve': 0.133, 'first': 0.133, 'experimental': 0.133, 'data': 0.133, 'present': 0.133, 'problem': 0.133, 'comparison': 0.133, 'make': 0.133, 'total': 0.133, 'shortening': 0.133, 'local': 0.133, 'strain': 0.133, 'indicate': 0.133, 'good': 0.133, 'agreement': 0.133, 'theoretical': 0.133, 'result': 0.133}
+For Document864 vector representation
+{'status': 0.189, 'flutter': 0.189, 'flat': 0.189, 'curve': 0.189, 'panel': 0.273, 'national': 0.189, 'advisory': 0.189, 'committee': 0.189, 'aeronautics': 0.189, 'representative': 0.189, 'result': 0.189, 'present': 0.189, 'show': 0.189, 'current': 0.189, 'problem': 0.189, 'discussion': 0.189, 'include': 0.189, 'without': 0.189, 'midplane': 0.189, 'stress': 0.189, 'buckle': 0.189, 'unstiffened': 0.189, 'stiffen': 0.189, 'infinitely': 0.189, 'long': 0.189, 'circular': 0.189, 'cylinder': 0.189}
+For Document865 vector representation
+{'study': 0.134, 'thermal': 0.134, 'fatigue': 0.134, 'behaviour': 0.134, 'metal': 0.134, 'effect': 0.134, 'test': 0.134, 'condition': 0.134, 'nickel': 0.134, 'base': 0.134, 'high': 0.134, 'temperature': 0.134, 'alloy': 0.134, 'glenny': 0.134, 'e': 0.134, 'taylor': 0.134, 'j': 0.134, 'inst': 0.134, 'attempt': 0.134, 'make': 0.134, 'identify': 0.134, 'significant': 0.134, 'factor': 0.134, 'govern': 0.134, 'mainly': 0.134, 'use': 0.134, 'laboratory': 0.134, 'technique': 0.134, 'hot': 0.134, 'cold': 0.134, 'fluidized': 0.134, 'bed': 0.134, 'heat': 0.134, 'cool': 0.134, 'medium': 0.134, 'succession': 0.134, 'shock': 0.193, 'generally': 0.134, 'damage': 0.134, 'limit': 0.134, 'duration': 0.134, 'upper': 0.134, 'cycle': 0.134, 'dominant': 0.134, 'thermalfatigue': 0.134, 'crack': 0.134, 'initiate': 0.134, 'surface': 0.134, 'intercrystalline': 0.134, 'origin': 0.134, 'propagation': 0.134, 'oxidation': 0.134, 'intergranular': 0.134, 'nature': 0.134, 'life': 0.134}
+For Document878 vector representation
+{'experimental': 0.147, 'model': 0.213, 'technique': 0.147, 'equipment': 0.147, 'flutter': 0.147, 'investigation': 0.147, 'molyneux': 0.147, 'w': 0.147, 'g': 0.147, 'air': 0.147, 'eng': 0.147, 'outline': 0.147, 'give': 0.147, 'us': 0.147, 'aid': 0.147, 'designer': 0.147, 'avoidance': 0.147, 'detail': 0.147, 'different': 0.147, 'type': 0.147, 'method': 0.147, 'construction': 0.147, 'use': 0.147, 'various': 0.147, 'test': 0.213, 'facility': 0.147, 'available': 0.147, 'high': 0.147, 'speed': 0.147, 'low': 0.147, 'procedure': 0.147, 'follow': 0.147, 'u': 0.147, 'k': 0.147, 'clearance': 0.147, 'full': 0.147, 'scale': 0.147, 'aircraft': 0.147, 'describe': 0.147, 'value': 0.147, 'electronic': 0.147, 'simulator': 0.147, 'field': 0.147, 'discuss': 0.147}
+
+
+
+Document Vector for Query16 weight1:
+For Document746 vector representation
+{'aeroelastic': 0.117, 'problem': 0.117, 'connection': 0.117, 'high': 0.169, 'speed': 0.117, 'flight': 0.117, 'broadbent': 0.117, 'e': 0.117, 'g': 0.117, 'j': 0.117, 'roy': 0.117, 'aero': 0.117, 'soc': 0.117, 'review': 0.117, 'give': 0.117, 'development': 0.117, 'field': 0.117, 'aeroelasticity': 0.117, 'past': 0.117, 'ten': 0.117, 'year': 0.117, 'effect': 0.169, 'steadily': 0.117, 'increase': 0.117, 'mach': 0.117, 'number': 0.169, 'two': 0.117, 'fold': 0.117, 'one': 0.117, 'hand': 0.117, 'aerodynamic': 0.117, 'derivative': 0.117, 'change': 0.117, 'case': 0.117, 'bring': 0.117, 'new': 0.117, 'design': 0.117, 'lead': 0.117, 'thinner': 0.117, 'aerofoil': 0.117, 'slender': 0.117, 'fuselage': 0.117, 'require': 0.117, 'stiffness': 0.117, 'difficult': 0.117, 'provide': 0.117, 'aspect': 0.117, 'discuss': 0.117, 'various': 0.117, 'method': 0.117, 'attack': 0.117, 'consider': 0.117, 'relative': 0.117, 'merit': 0.117, 'damp': 0.117, 'massbalance': 0.117, 'prevention': 0.117, 'control': 0.117, 'surface': 0.117, 'flutter': 0.117, 'brief': 0.117, 'mention': 0.117, 'make': 0.117, 'recent': 0.117, 'damage': 0.117, 'jet': 0.117, 'efflux': 0.117, 'possible': 0.117, 'kinetic': 0.117, 'heating': 0.117}
+For Document1358 vector representation
+{'compressive': 0.196, 'buckling': 0.196, 'simply': 0.196, 'support': 0.196, 'plate': 0.196, 'transverse': 0.196, 'stiffener': 0.196, 'budiansky': 0.196, 'b': 0.196, 'seide': 0.196, 'p': 0.196, 'naca': 0.196, 'tn': 0.196, 'chart': 0.196, 'present': 0.196, 'analysis': 0.196, 'stability': 0.196, 'longitudinal': 0.196, 'compression': 0.196, 'rectangular': 0.196, 'several': 0.196, 'equally': 0.196, 'spaced': 0.196, 'torsional': 0.196, 'flexural': 0.196, 'rigidity': 0.196}
+For Document1359 vector representation
+{'compression': 0.158, 'test': 0.158, 'circular': 0.158, 'cylinder': 0.158, 'stiffen': 0.158, 'longitudinally': 0.158, 'closely': 0.158, 'spaced': 0.158, 'z': 0.158, 'section': 0.158, 'stringer': 0.158, 'peterson': 0.158, 'j': 0.158, 'p': 0.158, 'dow': 0.158, 'b': 0.158, 'nasa': 0.158, 'memo': 0.158, 'l': 0.158, 'six': 0.158, 'load': 0.158, 'failure': 0.158, 'result': 0.158, 'obtain': 0.158, 'presented': 0.158, 'compare': 0.158, 'available': 0.158, 'theoretical': 0.158, 'buckle': 0.158, 'orthotropic': 0.158, 'indicate': 0.158, 'large': 0.158, 'disparity': 0.158, 'exist': 0.158, 'theory': 0.158, 'experiment': 0.158, 'unstiffened': 0.158, 'may': 0.158, 'significantly': 0.158, 'small': 0.158}
+For Document1360 vector representation
+{'simplify': 0.133, 'analysis': 0.133, 'general': 0.133, 'instability': 0.133, 'stiffen': 0.133, 'shell': 0.193, 'pure': 0.133, 'bend': 0.133, 'shanley': 0.133, 'f': 0.133, 'r': 0.133, 'j': 0.133, 'ae': 0.133, 'scs': 0.133, 'although': 0.133, 'much': 0.133, 'work': 0.133, 'do': 0.133, 'develop': 0.133, 'theory': 0.133, 'failure': 0.133, 'present': 0.193, 'simple': 0.133, 'method': 0.133, 'size': 0.133, 'frame': 0.193, 'may': 0.133, 'determine': 0.193, 'give': 0.133, 'diameter': 0.133, 'moment': 0.133, 'space': 0.133, 'need': 0.133, 'optimum': 0.133, 'design': 0.133, 'use': 0.133, 'basis': 0.133, 'weight': 0.133, 'fuselage': 0.133, 'structure': 0.133, 'extension': 0.133, 'rand': 0.133, 'corporation': 0.133, 'coefficient': 0.133, 'purpose': 0.133, 'since': 0.133, 'appear': 0.133, 'also': 0.133, 'useful': 0.133, 'calculation': 0.133, 'brief': 0.133, 'description': 0.133}
+For Document1361 vector representation
+{'large': 0.118, 'deflection': 0.118, 'structure': 0.118, 'subject': 0.118, 'heat': 0.118, 'external': 0.118, 'load': 0.118, 'turner': 0.118, 'j': 0.118, 'ae': 0.118, 'sc': 0.118, 'method': 0.118, 'direct': 0.118, 'formulation': 0.118, 'stiffness': 0.118, 'matrix': 0.118, 'extend': 0.118, 'include': 0.172, 'effect': 0.118, 'nonuniform': 0.118, 'purpose': 0.118, 'develop': 0.118, 'analytical': 0.118, 'tool': 0.118, 'treatment': 0.118, 'actual': 0.118, 'solution': 0.118, 'aeroelastic': 0.118, 'problem': 0.172, 'relation': 0.118, 'force': 0.172, 'must': 0.118, 'determine': 0.118, 'usual': 0.118, 'relationship': 0.118, 'limit': 0.118, 'small': 0.118, 'temperature': 0.118, 'change': 0.118, 'additional': 0.118, 'term': 0.118, 'require': 0.118, 'also': 0.118, 'become': 0.118, 'geometrically': 0.118, 'nonlinear': 0.118, 'involve': 0.118, 'overcome': 0.118, 'inherent': 0.118, 'difficulty': 0.118, 'practical': 0.118, 'either': 0.118, 'iterative': 0.118, 'step': 0.118, 'bystep': 0.118, 'procedure': 0.118, 'use': 0.118, 'deformation': 0.118, 'necessary': 0.118, 'approach': 0.118, 'derive': 0.118, 'axially': 0.118, 'loaded': 0.118, 'member': 0.118, 'plate': 0.118, 'element': 0.118, 'thermal': 0.118, 'strain': 0.118}
+
+
+
+Document Vector for Query17 weight1:
+For Document1358 vector representation
+{'compressive': 0.196, 'buckling': 0.196, 'simply': 0.196, 'support': 0.196, 'plate': 0.196, 'transverse': 0.196, 'stiffener': 0.196, 'budiansky': 0.196, 'b': 0.196, 'seide': 0.196, 'p': 0.196, 'naca': 0.196, 'tn': 0.196, 'chart': 0.196, 'present': 0.196, 'analysis': 0.196, 'stability': 0.196, 'longitudinal': 0.196, 'compression': 0.196, 'rectangular': 0.196, 'several': 0.196, 'equally': 0.196, 'spaced': 0.196, 'torsional': 0.196, 'flexural': 0.196, 'rigidity': 0.196}
+For Document1359 vector representation
+{'compression': 0.158, 'test': 0.158, 'circular': 0.158, 'cylinder': 0.158, 'stiffen': 0.158, 'longitudinally': 0.158, 'closely': 0.158, 'spaced': 0.158, 'z': 0.158, 'section': 0.158, 'stringer': 0.158, 'peterson': 0.158, 'j': 0.158, 'p': 0.158, 'dow': 0.158, 'b': 0.158, 'nasa': 0.158, 'memo': 0.158, 'l': 0.158, 'six': 0.158, 'load': 0.158, 'failure': 0.158, 'result': 0.158, 'obtain': 0.158, 'presented': 0.158, 'compare': 0.158, 'available': 0.158, 'theoretical': 0.158, 'buckle': 0.158, 'orthotropic': 0.158, 'indicate': 0.158, 'large': 0.158, 'disparity': 0.158, 'exist': 0.158, 'theory': 0.158, 'experiment': 0.158, 'unstiffened': 0.158, 'may': 0.158, 'significantly': 0.158, 'small': 0.158}
+For Document1360 vector representation
+{'simplify': 0.133, 'analysis': 0.133, 'general': 0.133, 'instability': 0.133, 'stiffen': 0.133, 'shell': 0.193, 'pure': 0.133, 'bend': 0.133, 'shanley': 0.133, 'f': 0.133, 'r': 0.133, 'j': 0.133, 'ae': 0.133, 'scs': 0.133, 'although': 0.133, 'much': 0.133, 'work': 0.133, 'do': 0.133, 'develop': 0.133, 'theory': 0.133, 'failure': 0.133, 'present': 0.193, 'simple': 0.133, 'method': 0.133, 'size': 0.133, 'frame': 0.193, 'may': 0.133, 'determine': 0.193, 'give': 0.133, 'diameter': 0.133, 'moment': 0.133, 'space': 0.133, 'need': 0.133, 'optimum': 0.133, 'design': 0.133, 'use': 0.133, 'basis': 0.133, 'weight': 0.133, 'fuselage': 0.133, 'structure': 0.133, 'extension': 0.133, 'rand': 0.133, 'corporation': 0.133, 'coefficient': 0.133, 'purpose': 0.133, 'since': 0.133, 'appear': 0.133, 'also': 0.133, 'useful': 0.133, 'calculation': 0.133, 'brief': 0.133, 'description': 0.133}
+For Document1038 vector representation
+{'transverse': 0.164, 'vibration': 0.164, 'thin': 0.164, 'shallow': 0.164, 'elastic': 0.164, 'shell': 0.164, 'deformation': 0.164, 'complete': 0.164, 'stress': 0.238, 'distribution': 0.164, 'determine': 0.164, 'follow': 0.164, 'edge': 0.164, 'load': 0.164, 'right': 0.164, 'circular': 0.164, 'cylinder': 0.164, 'frustum': 0.164, 'cone': 0.164, 'portion': 0.164, 'sphere': 0.164, 'location': 0.164, 'maximum': 0.164, 'circumferential': 0.164, 'meridional': 0.164, 'also': 0.164, 'find': 0.164, 'equation': 0.164, 'develop': 0.164, 'discontinuity': 0.164, 'shear': 0.164, 'moment': 0.164, 'junction': 0.164, 'axial': 0.164, 'change': 0.164, 'thickness': 0.164}
+For Document551 vector representation
+{'analysis': 0.174, 'load': 0.252, 'cantilever': 0.174, 'plate': 0.174, 'finite': 0.174, 'difference': 0.174, 'method': 0.174, 'livesley': 0.174, 'r': 0.174, 'k': 0.174, 'birchall': 0.174, 'p': 0.174, 'c': 0.174, 'rae': 0.174, 'tn': 0.174, 'ms': 0.174, 'various': 0.174, 'pattern': 0.174, 'necessary': 0.174, 'solution': 0.174, 'rectangular': 0.174, 'problem': 0.252, 'boundary': 0.174, 'condition': 0.174, 'transverse': 0.174, 'develop': 0.174, 'one': 0.174, 'particular': 0.174, 'deuce': 0.174, 'also': 0.174, 'describe': 0.174}
+
+
+
+Document Vector for Query18 weight1:
+For Document255 vector representation
+{'approximate': 0.121, 'solution': 0.121, 'turbulent': 0.121, 'boundary': 0.121, 'layer': 0.121, 'equation': 0.175, 'incompressible': 0.121, 'compressible': 0.121, 'lilley': 0.121, 'g': 0.121, 'coa': 0.121, 'r': 0.121, 'outer': 0.121, 'region': 0.121, 'mean': 0.121, 'velocity': 0.121, 'varies': 0.121, 'little': 0.121, 'value': 0.121, 'outside': 0.121, 'shear': 0.121, 'virtual': 0.121, 'eddy': 0.175, 'viscosity': 0.121, 'define': 0.121, 'constant': 0.121, 'direction': 0.121, 'mainstream': 0.121, 'find': 0.121, 'satisfies': 0.121, 'appropriate': 0.121, 'condition': 0.175, 'lead': 0.121, 'compatibility': 0.121, 'term': 0.121, 'wall': 0.121, 'stress': 0.121, 'momentum': 0.121, 'thickness': 0.121, 'least': 0.121, 'case': 0.121, 'external': 0.121, 'express': 0.121, 'moderate': 0.121, 'high': 0.121, 'reynolds': 0.121, 'number': 0.121, 'kinematic': 0.121, 'townsend': 0.121, 'equilibrium': 0.121, 'large': 0.121, 'numerical': 0.121, 'derive': 0.121, 'agrees': 0.121, 'base': 0.121, 'x': 0.121, 'relation': 0.121, 'analoguous': 0.121, 'integral': 0.121, 'function': 0.121, 'local': 0.121, 'freestream': 0.121, 'one': 0.121, 'disposable': 0.121, 'parameter': 0.121}
+For Document327 vector representation
+{'local': 0.149, 'flat': 0.149, 'plate': 0.149, 'similarity': 0.149, 'hypersonic': 0.149, 'boundary': 0.149, 'layer': 0.149, 'moore': 0.149, 'f': 0.149, 'k': 0.149, 'j': 0.149, 'ae': 0.149, 'sc': 0.149, 'study': 0.149, 'make': 0.149, 'lee': 0.149, 'rule': 0.216, 'laminar': 0.149, 'show': 0.149, 'exact': 0.149, 'assumption': 0.149, 'commonly': 0.149, 'invoke': 0.149, 'inviscid': 0.149, 'theory': 0.149, 'flow': 0.149, 'begin': 0.149, 'theoretical': 0.149, 'basis': 0.149, 'modify': 0.149, 'flatplate': 0.149, 'scheme': 0.149, 'derive': 0.149, 'involve': 0.149, 'separate': 0.149, 'velocity': 0.149, 'enthalpy': 0.149, 'profile': 0.149, 'compare': 0.149, 'solution': 0.149, 'exist': 0.149, 'lead': 0.149, 'edge': 0.149, 'interaction': 0.149}
+For Document107 vector representation
+{'mix': 0.152, 'two': 0.152, 'parallel': 0.152, 'streams': 0.152, 'ting': 0.152, 'lu': 0.152, 'j': 0.152, 'math': 0.152, 'phys': 0.152, 'use': 0.152, 'technique': 0.152, 'boundary': 0.152, 'layer': 0.152, 'theory': 0.152, 'proper': 0.152, 'third': 0.152, 'condition': 0.152, 'derive': 0.152, 'compatibility': 0.152, 'high': 0.152, 'order': 0.152, 'approximation': 0.152, 'show': 0.152, 'commonly': 0.152, 'adopt': 0.152, 'balance': 0.152, 'transverse': 0.152, 'momentum': 0.152, 'correct': 0.152, 'problem': 0.152, 'semi': 0.152, 'infinite': 0.152, 'incompressible': 0.152, 'fulfillment': 0.152, 'possibility': 0.152, 'introduce': 0.152, 'similar': 0.152, 'solution': 0.152, 'blasius': 0.152, 'type': 0.152, 'examine': 0.152, 'various': 0.152, 'case': 0.152}
+For Document326 vector representation
+{'forst': 0.183, 'order': 0.183, 'slip': 0.183, 'effect': 0.183, 'compressible': 0.183, 'laminar': 0.183, 'boundary': 0.183, 'layer': 0.183, 'slender': 0.183, 'body': 0.183, 'revolution': 0.183, 'axial': 0.183, 'flow': 0.183, 'shen': 0.183, 'f': 0.183, 'solomon': 0.183, 'j': 0.183, 'ae': 0.183, 'sc': 0.183, 'analysis': 0.183, 'transverse': 0.183, 'curvature': 0.183, 'first': 0.183, 'interaction': 0.183, 'consider': 0.183, 'zero': 0.183, 'pressure': 0.183, 'gradient': 0.183, 'case': 0.183, 'examine': 0.183}
+For Document1030 vector representation
+{'note': 0.204, 'creep': 0.204, 'buckle': 0.204, 'columns': 0.204, 'general': 0.204, 'topic': 0.204, 'elastic': 0.204, 'stability': 0.204, 'discuss': 0.204, 'particular': 0.204, 'attention': 0.204, 'give': 0.204, 'relationship': 0.204, 'adjacentequilibrium': 0.204, 'position': 0.204, 'energy': 0.204, 'technique': 0.204, 'effect': 0.204, 'nonlinearity': 0.204, 'sensitivity': 0.204, 'certain': 0.204, 'problem': 0.204, 'character': 0.204, 'load': 0.204}
+
+
+
+Document Vector for Query19 weight1:
+For Document854 vector representation
+{'boundary': 0.183, 'value': 0.183, 'problem': 0.183, 'thin': 0.183, 'wall': 0.183, 'circular': 0.183, 'cylinder': 0.183, 'hoff': 0.183, 'n': 0.183, 'j': 0.183, 'app': 0.183, 'mech': 0.183, 'homogeneous': 0.183, 'differential': 0.183, 'equation': 0.183, 'donnell': 0.183, 'theory': 0.183, 'cylindrical': 0.183, 'shell': 0.183, 'integrated': 0.183, 'expression': 0.183, 'obtain': 0.183, 'closed': 0.183, 'form': 0.183, 'displacement': 0.183, 'membrane': 0.183, 'stress': 0.183, 'moment': 0.183, 'shear': 0.183, 'force': 0.183}
+For Document224 vector representation
+{'quasi': 0.164, 'cylindrical': 0.164, 'surface': 0.237, 'prescribed': 0.164, 'loading': 0.237, 'linearise': 0.164, 'theory': 0.164, 'supersonic': 0.164, 'flow': 0.164, 'jones': 0.164, 'j': 0.164, 'g': 0.164, 'rae': 0.164, 'tn': 0.164, 'aero': 0.164, 'formula': 0.164, 'velocity': 0.164, 'field': 0.164, 'term': 0.164, 'give': 0.237, 'distribution': 0.164, 'vorticity': 0.164, 'apply': 0.164, 'point': 0.164, 'lie': 0.164, 'equation': 0.164, 'shape': 0.164, 'circularcylindrical': 0.164, 'derive': 0.164, 'example': 0.164, 'half': 0.164, 'ring': 0.164, 'wing': 0.164, 'discuss': 0.164}
+For Document181 vector representation
+{'problem': 0.174, 'heat': 0.174, 'conduction': 0.174, 'stratiform': 0.174, 'body': 0.174, 'vodicka': 0.174, 'v': 0.174, 'j': 0.174, 'phys': 0.174, 'soc': 0.174, 'japan': 0.174, 'multilayer': 0.174, 'lead': 0.174, 'usually': 0.174, 'complicate': 0.174, 'calculation': 0.174, 'present': 0.174, 'paper': 0.174, 'give': 0.174, 'idea': 0.174, 'specific': 0.174, 'difficulty': 0.174, 'arise': 0.174, 'case': 0.174, 'infinite': 0.174, 'composite': 0.174, 'solides': 0.174, 'general': 0.174, 'deduction': 0.174, 'apply': 0.174, 'special': 0.174, 'class': 0.174, 'question': 0.174}
+For Document775 vector representation
+{'study': 0.179, 'two': 0.179, 'dimensional': 0.179, 'flow': 0.259, 'compressible': 0.179, 'fluid': 0.179, 'well': 0.179, 'know': 0.179, 'everywhere': 0.179, 'subsonic': 0.179, 'field': 0.179, 'nature': 0.179, 'isentropic': 0.179, 'perfect': 0.179, 'differs': 0.179, 'slightly': 0.179, 'correspond': 0.179, 'incompressible': 0.179, 'thus': 0.179, 'case': 0.179, 'calculate': 0.179, 'method': 0.259, 'approximation': 0.179, 'hand': 0.179, 'supersonic': 0.179, 'throughout': 0.179, 'determine': 0.179, 'pattern': 0.179, 'characteristic': 0.179}
+For Document853 vector representation
+{'accuracy': 0.186, 'donnell': 0.186, 'equation': 0.186, 'hoff': 0.186, 'n': 0.186, 'j': 0.186, 'app': 0.186, 'mech': 0.186, 'solution': 0.186, 'small': 0.186, 'deformation': 0.186, 'perfectly': 0.186, 'elastic': 0.186, 'thin': 0.186, 'wall': 0.186, 'circular': 0.186, 'cylindrical': 0.186, 'shell': 0.186, 'compare': 0.186, 'obtainable': 0.186, 'flugge': 0.186, 'range': 0.186, 'basic': 0.186, 'parameter': 0.186, 'find': 0.186, 'within': 0.186, 'two': 0.186, 'approximately': 0.186, 'equal': 0.186}
+
+
+
+Document Vector for Query20 weight1:
+For Document409 vector representation
+{'base': 0.146, 'pressure': 0.146, 'result': 0.211, 'interaction': 0.146, 'supersonic': 0.146, 'external': 0.146, 'stream': 0.211, 'sonic': 0.146, 'subsonic': 0.146, 'jet': 0.146, 'chow': 0.146, 'w': 0.146, 'l': 0.146, 'j': 0.146, 'aero': 0.146, 'sc': 0.146, 'march': 0.146, 'p': 0.146, 'show': 0.146, 'two': 0.146, 'dimensional': 0.146, 'problem': 0.146, 'relate': 0.146, 'bleed': 0.146, 'wake': 0.146, 'blunt': 0.146, 'trail': 0.146, 'edge': 0.146, 'airfoil': 0.146, 'slipstream': 0.146, 'engine': 0.146, 'calculate': 0.146, 'theoretical': 0.146, 'consideration': 0.146, 'constant': 0.146, 'isoenergetic': 0.146, 'turbulent': 0.146, 'mix': 0.146, 'stagnant': 0.146, 'fluid': 0.146, 'assume': 0.146, 'calculation': 0.146, 'good': 0.146, 'agreement': 0.146, 'experimental': 0.146}
+For Document865 vector representation
+{'study': 0.134, 'thermal': 0.134, 'fatigue': 0.134, 'behaviour': 0.134, 'metal': 0.134, 'effect': 0.134, 'test': 0.134, 'condition': 0.134, 'nickel': 0.134, 'base': 0.134, 'high': 0.134, 'temperature': 0.134, 'alloy': 0.134, 'glenny': 0.134, 'e': 0.134, 'taylor': 0.134, 'j': 0.134, 'inst': 0.134, 'attempt': 0.134, 'make': 0.134, 'identify': 0.134, 'significant': 0.134, 'factor': 0.134, 'govern': 0.134, 'mainly': 0.134, 'use': 0.134, 'laboratory': 0.134, 'technique': 0.134, 'hot': 0.134, 'cold': 0.134, 'fluidized': 0.134, 'bed': 0.134, 'heat': 0.134, 'cool': 0.134, 'medium': 0.134, 'succession': 0.134, 'shock': 0.193, 'generally': 0.134, 'damage': 0.134, 'limit': 0.134, 'duration': 0.134, 'upper': 0.134, 'cycle': 0.134, 'dominant': 0.134, 'thermalfatigue': 0.134, 'crack': 0.134, 'initiate': 0.134, 'surface': 0.134, 'intercrystalline': 0.134, 'origin': 0.134, 'propagation': 0.134, 'oxidation': 0.134, 'intergranular': 0.134, 'nature': 0.134, 'life': 0.134}
+For Document878 vector representation
+{'experimental': 0.147, 'model': 0.213, 'technique': 0.147, 'equipment': 0.147, 'flutter': 0.147, 'investigation': 0.147, 'molyneux': 0.147, 'w': 0.147, 'g': 0.147, 'air': 0.147, 'eng': 0.147, 'outline': 0.147, 'give': 0.147, 'us': 0.147, 'aid': 0.147, 'designer': 0.147, 'avoidance': 0.147, 'detail': 0.147, 'different': 0.147, 'type': 0.147, 'method': 0.147, 'construction': 0.147, 'use': 0.147, 'various': 0.147, 'test': 0.213, 'facility': 0.147, 'available': 0.147, 'high': 0.147, 'speed': 0.147, 'low': 0.147, 'procedure': 0.147, 'follow': 0.147, 'u': 0.147, 'k': 0.147, 'clearance': 0.147, 'full': 0.147, 'scale': 0.147, 'aircraft': 0.147, 'describe': 0.147, 'value': 0.147, 'electronic': 0.147, 'simulator': 0.147, 'field': 0.147, 'discuss': 0.147}
+For Document879 vector representation
+{'flutter': 0.182, 'model': 0.264, 'testing': 0.182, 'transonic': 0.182, 'speed': 0.182, 'targoff': 0.182, 'w': 0.182, 'p': 0.182, 'white': 0.182, 'r': 0.182, 'inst': 0.182, 'aero': 0.182, 'sc': 0.182, 'perp': 0.182, 'may': 0.182, 'research': 0.182, 'reflection': 0.182, 'plane': 0.182, 'straight': 0.182, 'sweep': 0.182, 'delta': 0.182, 'wing': 0.182, 'x': 0.182, 'foot': 0.182, 'test': 0.182, 'facility': 0.182, 'technique': 0.182, 'construction': 0.182, 'develop': 0.182}
+For Document880 vector representation
+{'design': 0.154, 'test': 0.154, 'supersonic': 0.154, 'flutter': 0.154, 'model': 0.154, 'mccarthy': 0.154, 'j': 0.154, 'f': 0.154, 'halfman': 0.154, 'r': 0.154, 'l': 0.154, 'aero': 0.154, 'sc': 0.154, 'june': 0.154, 'basic': 0.154, 'problem': 0.154, 'low': 0.154, 'speed': 0.154, 'range': 0.154, 'simulate': 0.154, 'full': 0.154, 'scale': 0.223, 'airplane': 0.154, 'mach': 0.154, 'number': 0.154, 'include': 0.154, 'parameter': 0.154, 'review': 0.154, 'compare': 0.154, 'velocity': 0.154, 'leading': 0.154, 'edge': 0.154, 'become': 0.154, 'transonic': 0.154, 'result': 0.154, 'give': 0.154, 'elsewhere': 0.154, 'serve': 0.154, 'check': 0.154, 'table': 0.154, 'ii': 0.154}
+
+
+
+Document Vector for Query1 weight2:
+For Document1026 vector representation
+{'note': 0.199, 'creep': 0.199, 'buckle': 0.199, 'column': 0.227, 'paper': 0.199, 'concern': 0.199, 'solution': 0.199, 'instantaneous': 0.199, 'elastic': 0.199, 'plastic': 0.199, 'deformation': 0.199, 'well': 0.199, 'transient': 0.199, 'secondary': 0.199, 'consider': 0.199, 'formulae': 0.199, 'critical': 0.199, 'time': 0.199, 'fails': 0.199, 'present': 0.199, 'integral': 0.199, 'value': 0.199, 'exponent': 0.199, 'appear': 0.199, 'law': 0.199}
+For Document180 vector representation
+{'boundary': 0.195, 'layer': 0.195, 'flat': 0.195, 'plate': 0.195, 'presence': 0.195, 'shear': 0.195, 'flow': 0.195, 'ting': 0.195, 'l': 0.195, 'phys': 0.195, 'fluid': 0.195, 'governing': 0.195, 'equation': 0.195, 'incompressible': 0.195, 'finite': 0.195, 'vorticity': 0.195, 'derive': 0.195, 'large': 0.195, 'similarity': 0.195, 'solution': 0.224, 'obtain': 0.195, 'moderate': 0.195, 'one': 0.195, 'replace': 0.195, 'approximate': 0.195, 'exist': 0.195}
+For Document817 vector representation
+{'load': 0.164, 'path': 0.164, 'incremental': 0.164, 'stress': 0.19, 'law': 0.19, 'hankelman': 0.164, 'g': 0.164, 'h': 0.164, 'warner': 0.164, 'w': 0.164, 'j': 0.164, 'math': 0.164, 'phys': 0.164, 'paper': 0.164, 'concern': 0.164, 'property': 0.164, 'strain': 0.19, 'work': 0.164, 'harden': 0.164, 'material': 0.164, 'introduce': 0.164, 'prager': 0.164, 'plastic': 0.164, 'flow': 0.164, 'meant': 0.164, 'differential': 0.164, 'expressed': 0.164, 'function': 0.164, 'shall': 0.164, 'also': 0.164, 'occasion': 0.164, 'refer': 0.164, 'total': 0.164, 'deformation': 0.164, 'give': 0.164, 'directly': 0.164}
+For Document282 vector representation
+{'jet': 0.116, 'effect': 0.136, 'base': 0.116, 'pressure': 0.116, 'conical': 0.116, 'afterbodies': 0.116, 'mach': 0.116, 'baughman': 0.116, 'l': 0.116, 'e': 0.116, 'kochendorfer': 0.116, 'f': 0.116, 'naca': 0.116, 'rm': 0.116, 'data': 0.116, 'present': 0.116, 'show': 0.116, 'series': 0.116, 'afterbody': 0.116, 'nozzle': 0.136, 'combination': 0.116, 'boattail': 0.116, 'angle': 0.136, 'vary': 0.116, 'diameter': 0.116, 'ratio': 0.136, 'exit': 0.116, 'design': 0.116, 'number': 0.136, 'test': 0.116, 'cold': 0.116, 'air': 0.116, 'hot': 0.116, 'general': 0.116, 'increase': 0.136, 'value': 0.116, 'temperature': 0.116, 'total': 0.116, 'decrease': 0.116, 'free': 0.116, 'stream': 0.116, 'addition': 0.116, 'tail': 0.116, 'surface': 0.116, 'produce': 0.116, 'small': 0.116, 'change': 0.116, 'variables': 0.116, 'govern': 0.116, 'maximum': 0.116, 'rise': 0.116, 'support': 0.116, 'wake': 0.116, 'fluid': 0.116, 'region': 0.116, 'trail': 0.116, 'shock': 0.116, 'turn': 0.116, 'adjacent': 0.116, 'state': 0.116, 'boundary': 0.116, 'layer': 0.116, 'compute': 0.116, 'use': 0.116, 'theory': 0.116, 'korst': 0.116, 'page': 0.116, 'child': 0.116, 'good': 0.116, 'agreement': 0.116, 'experimental': 0.116, 'convergent': 0.116}
+For Document591 vector representation
+{'approximate': 0.174, 'equation': 0.174, 'choke': 0.174, 'line': 0.174, 'compressor': 0.174, 'csanady': 0.174, 'g': 0.174, 'j': 0.174, 'aero': 0.174, 'sc': 0.174, 'p': 0.174, 'august': 0.174, 'discussion': 0.174, 'similarity': 0.174, 'pressure': 0.174, 'ratio': 0.174, 'versus': 0.174, 'inletmass': 0.174, 'flow': 0.174, 'coefficient': 0.174, 'characteristic': 0.174, 'stream': 0.174, 'gas': 0.174, 'turbine': 0.174, 'analogous': 0.174, 'expansion': 0.174, 'laval': 0.174, 'nozzle': 0.174, 'idea': 0.174, 'extend': 0.174, 'compression': 0.174, 'expression': 0.174, 'develop': 0.174}
+
+
+
+Document Vector for Query2 weight2:
+For Document875 vector representation
+{'model': 0.188, 'aeroelastic': 0.188, 'investigation': 0.188, 'templeton': 0.188, 'h': 0.188, 'arc': 0.188, 'cp': 0.188, 'addendum': 0.188, 'provide': 0.188, 'short': 0.188, 'note': 0.188, 'two': 0.188, 'aspect': 0.188, 'omit': 0.188, 'original': 0.188, 'paper': 0.215, 'viz': 0.188, 'gravitational': 0.188, 'effect': 0.188, 'structural': 0.188, 'damp': 0.188, 'list': 0.188, 'reference': 0.188, 'early': 0.188, 'deal': 0.188, 'subject': 0.188, 'also': 0.188, 'add': 0.188}
+For Document882 vector representation
+{'variation': 0.189, 'gust': 0.189, 'frequency': 0.189, 'velocity': 0.189, 'altitude': 0.189, 'bullen': 0.189, 'n': 0.189, 'arc': 0.189, 'cp': 0.189, 'information': 0.189, 'atmospheric': 0.189, 'turbulence': 0.189, 'obtain': 0.189, 'count': 0.189, 'accelerometer': 0.189, 'record': 0.189, 'examine': 0.189, 'relation': 0.189, 'give': 0.189, 'result': 0.189, 'summarize': 0.189, 'form': 0.189, 'convenient': 0.189, 'use': 0.189, 'estimate': 0.189, 'fatigue': 0.189, 'life': 0.189, 'aircraft': 0.189}
+For Document1103 vector representation
+{'pressure': 0.168, 'density': 0.168, 'temperature': 0.168, 'upper': 0.145, 'atmosphere': 0.145, 'rocket': 0.168, 'panel': 0.145, 'phys': 0.145, 'rev': 0.145, 'vol': 0.145, 'december': 0.145, 'pp': 0.145, 'average': 0.145, 'internally': 0.145, 'consistent': 0.145, 'value': 0.145, 'atmospheric': 0.145, 'ground': 0.145, 'altitude': 0.145, 'km': 0.145, 'determine': 0.145, 'compile': 0.145, 'united': 0.145, 'state': 0.145, 'group': 0.145, 'active': 0.145, 'research': 0.145, 'additional': 0.145, 'relevant': 0.145, 'data': 0.145, 'similar': 0.145, 'engage': 0.145, 'meteor': 0.145, 'anomalous': 0.145, 'propagation': 0.145, 'sound': 0.145, 'also': 0.145, 'include': 0.145, 'particularly': 0.145, 'brief': 0.145, 'discussion': 0.145, 'variation': 0.145, 'time': 0.145, 'place': 0.145, 'three': 0.145, 'parameter': 0.145}
+For Document282 vector representation
+{'jet': 0.116, 'effect': 0.136, 'base': 0.116, 'pressure': 0.116, 'conical': 0.116, 'afterbodies': 0.116, 'mach': 0.116, 'baughman': 0.116, 'l': 0.116, 'e': 0.116, 'kochendorfer': 0.116, 'f': 0.116, 'naca': 0.116, 'rm': 0.116, 'data': 0.116, 'present': 0.116, 'show': 0.116, 'series': 0.116, 'afterbody': 0.116, 'nozzle': 0.136, 'combination': 0.116, 'boattail': 0.116, 'angle': 0.136, 'vary': 0.116, 'diameter': 0.116, 'ratio': 0.136, 'exit': 0.116, 'design': 0.116, 'number': 0.136, 'test': 0.116, 'cold': 0.116, 'air': 0.116, 'hot': 0.116, 'general': 0.116, 'increase': 0.136, 'value': 0.116, 'temperature': 0.116, 'total': 0.116, 'decrease': 0.116, 'free': 0.116, 'stream': 0.116, 'addition': 0.116, 'tail': 0.116, 'surface': 0.116, 'produce': 0.116, 'small': 0.116, 'change': 0.116, 'variables': 0.116, 'govern': 0.116, 'maximum': 0.116, 'rise': 0.116, 'support': 0.116, 'wake': 0.116, 'fluid': 0.116, 'region': 0.116, 'trail': 0.116, 'shock': 0.116, 'turn': 0.116, 'adjacent': 0.116, 'state': 0.116, 'boundary': 0.116, 'layer': 0.116, 'compute': 0.116, 'use': 0.116, 'theory': 0.116, 'korst': 0.116, 'page': 0.116, 'child': 0.116, 'good': 0.116, 'agreement': 0.116, 'experimental': 0.116, 'convergent': 0.116}
+For Document862 vector representation
+{'phenomenon': 0.183, 'change': 0.183, 'buckle': 0.183, 'pattern': 0.183, 'elastic': 0.183, 'structure': 0.183, 'stein': 0.183, 'nasa': 0.183, 'tr': 0.183, 'r': 0.183, 'model': 0.183, 'analyze': 0.183, 'exhibit': 0.183, 'important': 0.183, 'property': 0.183, 'associate': 0.183, 'plate': 0.183, 'analysis': 0.183, 'include': 0.183, 'rigorous': 0.183, 'study': 0.183, 'stability': 0.183, 'various': 0.183, 'mode': 0.183, 'discussion': 0.183, 'present': 0.183, 'result': 0.183, 'may': 0.183, 'apply': 0.183, 'give': 0.183}
+
+
+
+Document Vector for Query3 weight2:
+For Document282 vector representation
+{'jet': 0.116, 'effect': 0.136, 'base': 0.116, 'pressure': 0.116, 'conical': 0.116, 'afterbodies': 0.116, 'mach': 0.116, 'baughman': 0.116, 'l': 0.116, 'e': 0.116, 'kochendorfer': 0.116, 'f': 0.116, 'naca': 0.116, 'rm': 0.116, 'data': 0.116, 'present': 0.116, 'show': 0.116, 'series': 0.116, 'afterbody': 0.116, 'nozzle': 0.136, 'combination': 0.116, 'boattail': 0.116, 'angle': 0.136, 'vary': 0.116, 'diameter': 0.116, 'ratio': 0.136, 'exit': 0.116, 'design': 0.116, 'number': 0.136, 'test': 0.116, 'cold': 0.116, 'air': 0.116, 'hot': 0.116, 'general': 0.116, 'increase': 0.136, 'value': 0.116, 'temperature': 0.116, 'total': 0.116, 'decrease': 0.116, 'free': 0.116, 'stream': 0.116, 'addition': 0.116, 'tail': 0.116, 'surface': 0.116, 'produce': 0.116, 'small': 0.116, 'change': 0.116, 'variables': 0.116, 'govern': 0.116, 'maximum': 0.116, 'rise': 0.116, 'support': 0.116, 'wake': 0.116, 'fluid': 0.116, 'region': 0.116, 'trail': 0.116, 'shock': 0.116, 'turn': 0.116, 'adjacent': 0.116, 'state': 0.116, 'boundary': 0.116, 'layer': 0.116, 'compute': 0.116, 'use': 0.116, 'theory': 0.116, 'korst': 0.116, 'page': 0.116, 'child': 0.116, 'good': 0.116, 'agreement': 0.116, 'experimental': 0.116, 'convergent': 0.116}
+For Document5 vector representation
+{'one': 0.173, 'dimensional': 0.173, 'transient': 0.173, 'heat': 0.173, 'conduction': 0.173, 'double': 0.173, 'layer': 0.173, 'slab': 0.199, 'subject': 0.173, 'linear': 0.173, 'input': 0.173, 'small': 0.173, 'time': 0.173, 'internal': 0.173, 'wasserman': 0.173, 'b': 0.173, 'j': 0.173, 'ae': 0.173, 'scs': 0.173, 'analytic': 0.173, 'solution': 0.173, 'present': 0.173, 'composite': 0.173, 'expose': 0.173, 'surface': 0.173, 'triangular': 0.173, 'rate': 0.173, 'type': 0.173, 'heating': 0.173, 'may': 0.173, 'occur': 0.173, 'example': 0.173, 'aerodynamic': 0.173}
+For Document485 vector representation
+{'linear': 0.198, 'heat': 0.198, 'flow': 0.198, 'composite': 0.198, 'slab': 0.198, 'reid': 0.198, 'w': 0.198, 'p': 0.198, 'j': 0.198, 'ae': 0.198, 'scs': 0.198, 'temperature': 0.225, 'determine': 0.198, 'function': 0.225, 'position': 0.198, 'time': 0.198, 'case': 0.198, 'conduction': 0.198, 'ture': 0.198, 'throughout': 0.198, 'two': 0.198, 'external': 0.198, 'surface': 0.198, 'consider': 0.198, 'prescribed': 0.198}
+For Document182 vector representation
+{'effect': 0.127, 'roughness': 0.127, 'transition': 0.127, 'supersonic': 0.127, 'flow': 0.127, 'van': 0.127, 'dry': 0.127, 'e': 0.127, 'r': 0.127, 'blumer': 0.127, 'c': 0.127, 'b': 0.127, 'agard': 0.127, 'experiment': 0.127, 'carry': 0.127, 'inch': 0.127, 'wind': 0.127, 'tunnel': 0.127, 'jet': 0.127, 'propulsion': 0.127, 'laboratory': 0.127, 'california': 0.127, 'institute': 0.127, 'technology': 0.127, 'investigate': 0.127, 'threedimensional': 0.127, 'element': 0.127, 'spheres': 0.127, 'boundary': 0.127, 'layer': 0.127, 'transfer': 0.127, 'report': 0.127, 'herein': 0.127, 'local': 0.127, 'mach': 0.127, 'number': 0.147, 'test': 0.127, 'minimum': 0.127, 'effective': 0.127, 'size': 0.127, 'trip': 0.127, 'require': 0.127, 'bring': 0.127, 'low': 0.127, 'reynolds': 0.127, 'vary': 0.127, 'one': 0.127, 'fourth': 0.127, 'power': 0.127, 'distance': 0.127, 'apex': 0.127, 'cone': 0.127, 'use': 0.127, 'available': 0.127, 'data': 0.127, 'indicate': 0.127, 'influence': 0.127, 'tripping': 0.127, 'take': 0.127, 'account': 0.127, 'simple': 0.127, 'expression': 0.127}
+For Document183 vector representation
+{'property': 0.123, 'impact': 0.123, 'pressure': 0.123, 'probe': 0.144, 'free': 0.123, 'molecule': 0.123, 'flow': 0.123, 'harris': 0.123, 'e': 0.123, 'l': 0.123, 'patterson': 0.123, 'g': 0.123, 'n': 0.123, 'utia': 0.123, 'r': 0.123, 'expression': 0.144, 'derive': 0.123, 'mass': 0.123, 'circular': 0.123, 'tube': 0.123, 'gas': 0.123, 'relative': 0.123, 'motion': 0.123, 'enter': 0.123, 'assume': 0.123, 'maxwellian': 0.123, 'distribution': 0.123, 'function': 0.123, 'molecular': 0.123, 'reflection': 0.123, 'process': 0.123, 'wall': 0.123, 'diffuse': 0.123, 'theory': 0.123, 'use': 0.144, 'determine': 0.123, 'read': 0.123, 'although': 0.123, 'general': 0.123, 'apply': 0.123, 'value': 0.123, 'velocity': 0.123, 'size': 0.123, 'detailed': 0.123, 'calculation': 0.123, 'difficult': 0.123, 'except': 0.123, 'case': 0.123, 'low': 0.123, 'speed': 0.123, 'long': 0.123, 'tubes': 0.123, 'experimental': 0.123, 'check': 0.123, 'carry': 0.123, 'whirl': 0.123, 'arm': 0.123, 'apparatus': 0.123, 'density': 0.123, 'wind': 0.123, 'tunnel': 0.123, 'agreement': 0.123, 'experiment': 0.123, 'quite': 0.123, 'satisfactory': 0.123}
+
+
+
+Document Vector for Query4 weight2:
+For Document1023 vector representation
+{'note': 0.199, 'creep': 0.199, 'buckling': 0.199, 'column': 0.227, 'theory': 0.199, 'present': 0.199, 'instantaneous': 0.199, 'elastic': 0.199, 'plastic': 0.199, 'deformation': 0.199, 'follow': 0.199, 'application': 0.199, 'load': 0.199, 'well': 0.199, 'steady': 0.199, 'consider': 0.199, 'approximate': 0.199, 'manner': 0.199, 'equation': 0.199, 'give': 0.199, 'critical': 0.199, 'time': 0.199, 'elapse': 0.199, 'collapse': 0.199, 'compute': 0.199}
+For Document31 vector representation
+{'thermal': 0.217, 'buckle': 0.217, 'supersonic': 0.217, 'wing': 0.217, 'panel': 0.217, 'hoff': 0.217, 'n': 0.217, 'j': 0.217, 'ae': 0.217, 'scs': 0.217, 'temperature': 0.217, 'stress': 0.247, 'distribution': 0.217, 'analyze': 0.217, 'multicellular': 0.217, 'structure': 0.217, 'criterion': 0.217, 'establish': 0.217, 'cover': 0.217, 'plate': 0.217, 'subject': 0.217}
+For Document1026 vector representation
+{'note': 0.199, 'creep': 0.199, 'buckle': 0.199, 'column': 0.227, 'paper': 0.199, 'concern': 0.199, 'solution': 0.199, 'instantaneous': 0.199, 'elastic': 0.199, 'plastic': 0.199, 'deformation': 0.199, 'well': 0.199, 'transient': 0.199, 'secondary': 0.199, 'consider': 0.199, 'formulae': 0.199, 'critical': 0.199, 'time': 0.199, 'fails': 0.199, 'present': 0.199, 'integral': 0.199, 'value': 0.199, 'exponent': 0.199, 'appear': 0.199, 'law': 0.199}
+For Document181 vector representation
+{'problem': 0.174, 'heat': 0.174, 'conduction': 0.174, 'stratiform': 0.174, 'body': 0.174, 'vodicka': 0.174, 'v': 0.174, 'j': 0.174, 'phys': 0.174, 'soc': 0.174, 'japan': 0.174, 'multilayer': 0.174, 'lead': 0.174, 'usually': 0.174, 'complicate': 0.174, 'calculation': 0.174, 'present': 0.174, 'paper': 0.174, 'give': 0.174, 'idea': 0.174, 'specific': 0.174, 'difficulty': 0.174, 'arise': 0.174, 'case': 0.174, 'infinite': 0.174, 'composite': 0.174, 'solides': 0.174, 'general': 0.174, 'deduction': 0.174, 'apply': 0.174, 'special': 0.174, 'class': 0.174, 'question': 0.174}
+For Document1030 vector representation
+{'note': 0.204, 'creep': 0.204, 'buckle': 0.204, 'columns': 0.204, 'general': 0.204, 'topic': 0.204, 'elastic': 0.204, 'stability': 0.204, 'discuss': 0.204, 'particular': 0.204, 'attention': 0.204, 'give': 0.204, 'relationship': 0.204, 'adjacentequilibrium': 0.204, 'position': 0.204, 'energy': 0.204, 'technique': 0.204, 'effect': 0.204, 'nonlinearity': 0.204, 'sensitivity': 0.204, 'certain': 0.204, 'problem': 0.204, 'character': 0.204, 'load': 0.204}
+
+
+
+Document Vector for Query5 weight2:
+For Document1177 vector representation
+{'effect': 0.181, 'rapid': 0.156, 'heat': 0.156, 'strength': 0.156, 'airframe': 0.156, 'component': 0.156, 'pride': 0.156, 'r': 0.156, 'naca': 0.156, 'tn': 0.156, 'result': 0.156, 'several': 0.156, 'experimental': 0.156, 'investigation': 0.156, 'present': 0.156, 'indicate': 0.156, 'bend': 0.156, 'multiweb': 0.156, 'beam': 0.156, 'ring': 0.156, 'stiffen': 0.156, 'cylinder': 0.156, 'show': 0.156, 'thermal': 0.156, 'stress': 0.181, 'reduce': 0.156, 'load': 0.156, 'carry': 0.156, 'buckle': 0.181, 'influence': 0.156, 'maximum': 0.156, 'find': 0.156, 'depend': 0.156, 'largely': 0.156, 'mode': 0.156, 'locally': 0.156, 'apparent': 0.156, 'reduction': 0.156, 'observe': 0.156, 'wrinkle': 0.156}
+For Document1178 vector representation
+{'buckle': 0.141, 'ring': 0.141, 'stiffen': 0.141, 'cylinder': 0.164, 'pure': 0.141, 'bend': 0.141, 'moment': 0.141, 'nonuniform': 0.141, 'temperature': 0.141, 'distribution': 0.141, 'anderson': 0.141, 'card': 0.141, 'f': 0.141, 'nasa': 0.141, 'tn': 0.141, 'thirteen': 0.141, 'stainless': 0.141, 'steel': 0.141, 'subject': 0.141, 'load': 0.141, 'heat': 0.164, 'rapidly': 0.141, 'occur': 0.141, 'uniform': 0.141, 'around': 0.141, 'circumference': 0.141, 'appreciable': 0.141, 'axial': 0.141, 'thermal': 0.141, 'stress': 0.164, 'present': 0.141, 'elementary': 0.141, 'theory': 0.141, 'find': 0.141, 'inadequate': 0.141, 'prediction': 0.141, 'method': 0.141, 'develop': 0.141, 'would': 0.141, 'give': 0.141, 'satisfactory': 0.141, 'result': 0.141, 'properly': 0.141, 'account': 0.141, 'could': 0.141, 'correlate': 0.141, 'axially': 0.141, 'compress': 0.141, 'uniformly': 0.141}
+For Document1103 vector representation
+{'pressure': 0.168, 'density': 0.168, 'temperature': 0.168, 'upper': 0.145, 'atmosphere': 0.145, 'rocket': 0.168, 'panel': 0.145, 'phys': 0.145, 'rev': 0.145, 'vol': 0.145, 'december': 0.145, 'pp': 0.145, 'average': 0.145, 'internally': 0.145, 'consistent': 0.145, 'value': 0.145, 'atmospheric': 0.145, 'ground': 0.145, 'altitude': 0.145, 'km': 0.145, 'determine': 0.145, 'compile': 0.145, 'united': 0.145, 'state': 0.145, 'group': 0.145, 'active': 0.145, 'research': 0.145, 'additional': 0.145, 'relevant': 0.145, 'data': 0.145, 'similar': 0.145, 'engage': 0.145, 'meteor': 0.145, 'anomalous': 0.145, 'propagation': 0.145, 'sound': 0.145, 'also': 0.145, 'include': 0.145, 'particularly': 0.145, 'brief': 0.145, 'discussion': 0.145, 'variation': 0.145, 'time': 0.145, 'place': 0.145, 'three': 0.145, 'parameter': 0.145}
+For Document1176 vector representation
+{'bend': 0.198, 'test': 0.198, 'ring': 0.226, 'stiffen': 0.198, 'circular': 0.198, 'cylinder': 0.198, 'peterson': 0.198, 'j': 0.198, 'p': 0.198, 'naca': 0.198, 'tn': 0.198, 'twenty': 0.198, 'five': 0.198, 'load': 0.198, 'failure': 0.198, 'result': 0.226, 'present': 0.198, 'form': 0.198, 'design': 0.198, 'curve': 0.198, 'applicable': 0.198, 'heavy': 0.198, 'fail': 0.198, 'local': 0.198, 'buckling': 0.198}
+For Document1102 vector representation
+{'five': 0.2, 'stage': 0.2, 'solid': 0.2, 'fuel': 0.2, 'sound': 0.2, 'rocket': 0.2, 'system': 0.2, 'swanson': 0.2, 'g': 0.2, 'nasa': 0.2, 'memo': 0.2, 'l': 0.2, 'boost': 0.2, 'payload': 0.2, 'pound': 0.2, 'altitude': 0.2, 'nautical': 0.2, 'mile': 0.2, 'describe': 0.2, 'data': 0.2, 'obtain': 0.2, 'typical': 0.2, 'flight': 0.2, 'test': 0.2, 'discuss': 0.2}
+
+
+
+Document Vector for Query6 weight2:
+For Document1174 vector representation
+{'general': 0.16, 'theory': 0.16, 'buckle': 0.16, 'langhaar': 0.16, 'h': 0.16, 'l': 0.16, 'app': 0.16, 'mech': 0.16, 'rev': 0.16, 'various': 0.16, 'aspect': 0.16, 'expound': 0.16, 'many': 0.16, 'treatise': 0.16, 'book': 0.16, 'bleich': 0.16, 'salmon': 0.16, 'contain': 0.16, 'large': 0.16, 'bibliography': 0.16, 'goodier': 0.16, 'development': 0.16, 'numerous': 0.16, 'reference': 0.16, 'append': 0.16, 'hoff': 0.16, 'article': 0.16, 'nearly': 0.16, 'publication': 0.16, 'shell': 0.16, 'available': 0.16, 'u': 0.16, 'list': 0.16, 'nash': 0.16, 'section': 0.16, 'ready': 0.16, 'guide': 0.16, 'recent': 0.16, 'literature': 0.16}
+For Document272 vector representation
+{'oscillatory': 0.089, 'aerodynamic': 0.089, 'coefficient': 0.089, 'unify': 0.089, 'supersonic': 0.089, 'hypersonic': 0.089, 'strip': 0.089, 'theory': 0.089, 'rodden': 0.089, 'w': 0.089, 'revell': 0.089, 'j': 0.089, 'ae': 0.089, 'sc': 0.089, 'shock': 0.089, 'tube': 0.089, 'show': 0.089, 'feasible': 0.089, 'research': 0.089, 'tool': 0.089, 'conduct': 0.089, 'boundary': 0.089, 'layer': 0.102, 'transition': 0.089, 'experiment': 0.089, 'use': 0.089, 'permit': 0.089, 'study': 0.089, 'highly': 0.089, 'cool': 0.102, 'may': 0.089, 'encounter': 0.089, 'vehicle': 0.089, 'investigation': 0.089, 'make': 0.089, 'optically': 0.089, 'polished': 0.089, 'pyrex': 0.089, 'hemisphere': 0.089, 'cylinder': 0.089, 'ellipse': 0.089, 'model': 0.102, 'stagnation': 0.089, 'wall': 0.089, 'enthalpy': 0.089, 'ratio': 0.102, 'roughness': 0.089, 'estimate': 0.089, 'less': 0.089, 'microinch': 0.089, 'rms': 0.089, 'detect': 0.089, 'measurement': 0.089, 'heat': 0.089, 'transfer': 0.089, 'rate': 0.089, 'surface': 0.089, 'indicate': 0.102, 'characteristic': 0.089, 'feature': 0.089, 'simultaneous': 0.089, 'occurrence': 0.089, 'entire': 0.089, 'portion': 0.089, 'implies': 0.089, 'first': 0.089, 'occur': 0.089, 'sonic': 0.089, 'region': 0.089, 'reynolds': 0.089, 'number': 0.102, 'base': 0.089, 'local': 0.089, 'fluid': 0.089, 'property': 0.089, 'outer': 0.089, 'edge': 0.089, 'momentum': 0.089, 'thickness': 0.089, 'increase': 0.112, 'towall': 0.089, 'along': 0.089, 'cylindrical': 0.089, 'nearly': 0.089, 'constant': 0.089, 'obtain': 0.089, 'provide': 0.089, 'extension': 0.089, 'nasa': 0.089, 'result': 0.102, 'cone': 0.089, 'wind': 0.089, 'tunnel': 0.089, 'data': 0.089, 'order': 0.089, 'magnitude': 0.089, 'minimum': 0.089, 'practical': 0.089, 'purpose': 0.089, 'critical': 0.089, 'parameter': 0.089, 'blunt': 0.089, 'body': 0.102, 'vary': 0.089, 'significantly': 0.089, 'boundarylayer': 0.089, 'range': 0.089, 'always': 0.089, 'low': 0.102, 'external': 0.089, 'distance': 0.089, 'point': 0.089, 'history': 0.089, 'shape': 0.089, 'appear': 0.089, 'important': 0.089, 'affect': 0.089, 'amount': 0.089, 'configuration': 0.089, 'hemispherecylinder': 0.089, 'also': 0.089, 'even': 0.089, 'significant': 0.089}
+For Document1045 vector representation
+{'bend': 0.229, 'strength': 0.229, 'pressurized': 0.229, 'cylinder': 0.229, 'zender': 0.229, 'g': 0.229, 'w': 0.229, 'j': 0.229, 'ae': 0.229, 'scs': 0.229, 'discussion': 0.229, 'previously': 0.229, 'present': 0.229, 'experimental': 0.229, 'data': 0.229, 'load': 0.229, 'term': 0.229, 'membrane': 0.229, 'theory': 0.229}
+For Document130 vector representation
+{'behaviour': 0.152, 'non': 0.152, 'linear': 0.152, 'system': 0.152, 'clauser': 0.152, 'f': 0.152, 'h': 0.152, 'j': 0.152, 'aero': 0.152, 'scs': 0.152, 'many': 0.152, 'phenomena': 0.152, 'occur': 0.152, 'world': 0.152, 'around': 0.152, 'u': 0.152, 'govern': 0.152, 'nonlinear': 0.152, 'relationship': 0.152, 'development': 0.152, 'mathematical': 0.152, 'science': 0.152, 'difficulty': 0.152, 'analysis': 0.152, 'hinder': 0.152, 'formulation': 0.152, 'concepts': 0.152, 'would': 0.152, 'permit': 0.152, 'understand': 0.176, 'present': 0.152, 'article': 0.152, 'progress': 0.152, 'behavior': 0.152, 'review': 0.152, 'attempt': 0.152, 'make': 0.152, 'result': 0.152, 'way': 0.152, 'may': 0.152, 'apply': 0.152, 'generality': 0.152, 'problem': 0.152}
+For Document1175 vector representation
+{'stress': 0.114, 'local': 0.114, 'loading': 0.114, 'cylindrical': 0.114, 'pressure': 0.114, 'vessel': 0.114, 'bijlaard': 0.114, 'p': 0.114, 'asme': 0.114, 'trans': 0.114, 'short': 0.114, 'discussion': 0.114, 'give': 0.114, 'possible': 0.114, 'method': 0.133, 'compute': 0.133, 'cause': 0.114, 'shell': 0.133, 'conclude': 0.114, 'develop': 0.114, 'load': 0.145, 'displacement': 0.133, 'double': 0.114, 'fourier': 0.114, 'series': 0.114, 'lead': 0.114, 'formula': 0.114, 'best': 0.114, 'suit': 0.114, 'numerical': 0.114, 'evaluation': 0.114, 'pertinent': 0.114, 'expression': 0.133, 'radial': 0.114, 'find': 0.114, 'reduce': 0.114, 'three': 0.114, 'partial': 0.114, 'differential': 0.114, 'equation': 0.133, 'theory': 0.114, 'eighth': 0.114, 'order': 0.114, 'similar': 0.114, 'identical': 0.114, 'derive': 0.114, 'donnell': 0.114, 'yuan': 0.114, 'insertion': 0.114, 'external': 0.114, 'directly': 0.114, 'w': 0.114, 'term': 0.114, 'factor': 0.114, 'result': 0.114, 'bend': 0.114, 'moment': 0.133, 'membrane': 0.114, 'force': 0.114, 'case': 0.133, 'consider': 0.114, 'reduced': 0.114, 'uniformly': 0.114, 'distribute': 0.114, 'within': 0.114, 'rectangle': 0.114, 'tion': 0.114, 'distance': 0.114, 'circumferential': 0.114, 'direction': 0.114, 'longitudinal': 0.114, 'use': 0.133, 'tangential': 0.114}
+
+
+
+Document Vector for Query7 weight2:
+For Document137 vector representation
+{'generation': 0.196, 'sound': 0.196, 'aerodynamic': 0.196, 'mean': 0.196, 'curle': 0.196, 'n': 0.196, 'j': 0.196, 'roy': 0.196, 'ae': 0.196, 'summary': 0.196, 'give': 0.196, 'important': 0.196, 'experimental': 0.196, 'result': 0.196, 'relate': 0.196, 'noise': 0.196, 'radiate': 0.196, 'cold': 0.196, 'subsonic': 0.196, 'turbulent': 0.196, 'jet': 0.196, 'related': 0.196, 'prediction': 0.196, 'lighthill': 0.196, 'general': 0.196, 'theory': 0.196}
+For Document233 vector representation
+{'theoretical': 0.138, 'wave': 0.138, 'drag': 0.138, 'body': 0.16, 'revolution': 0.138, 'fraenkel': 0.138, 'l': 0.138, 'e': 0.138, 'rae': 0.138, 'r': 0.138, 'aero': 0.138, 'report': 0.138, 'investigates': 0.138, 'point': 0.138, 'open': 0.138, 'nose': 0.138, 'forebodies': 0.138, 'truncated': 0.138, 'afterbodies': 0.138, 'quasi': 0.138, 'cylinder': 0.138, 'slender': 0.138, 'theory': 0.138, 'review': 0.138, 'reversibility': 0.138, 'theorem': 0.138, 'establish': 0.138, 'concept': 0.138, 'interference': 0.138, 'effect': 0.138, 'forebody': 0.138, 'afterbody': 0.138, 'introduced': 0.138, 'apply': 0.138, 'whose': 0.138, 'profile': 0.138, 'either': 0.138, 'straight': 0.138, 'parabolic': 0.138, 'arc': 0.138, 'formula': 0.138, 'curve': 0.138, 'give': 0.138, 'result': 0.138, 'two': 0.138, 'compare': 0.138, 'see': 0.138, 'agree': 0.138, 'well': 0.138, 'region': 0.138, 'geometry': 0.138, 'applicable': 0.138}
+For Document778 vector representation
+{'integral': 0.202, 'relate': 0.176, 'radiation': 0.176, 'powell': 0.176, 'e': 0.176, 'phil': 0.176, 'mag': 0.176, 'author': 0.176, 'point': 0.176, 'relation': 0.176, 'problem': 0.176, 'astrophysics': 0.176, 'quantum': 0.176, 'mechanic': 0.176, 'importance': 0.176, 'supply': 0.176, 'table': 0.176, 'value': 0.176, 'give': 0.176, 'rl': 0.176, 'x': 0.176, 'seven': 0.176, 'place': 0.176, 'decimal': 0.176, 'interval': 0.176, 'second': 0.176, 'order': 0.176, 'central': 0.176, 'difference': 0.176, 'tabulate': 0.176, 'assist': 0.176, 'interpolation': 0.176}
+For Document745 vector representation
+{'automatic': 0.191, 'method': 0.191, 'find': 0.219, 'great': 0.191, 'least': 0.191, 'value': 0.191, 'function': 0.191, 'rosenbrock': 0.191, 'h': 0.191, 'computer': 0.191, 'jnl': 0.191, 'several': 0.191, 'variable': 0.191, 'restrict': 0.191, 'give': 0.191, 'region': 0.191, 'develop': 0.191, 'deal': 0.191, 'problem': 0.191, 'compare': 0.191, 'possible': 0.191, 'alternative': 0.191, 'use': 0.191, 'digital': 0.191, 'incorporate': 0.191, 'program': 0.191, 'mercury': 0.191}
+For Document153 vector representation
+{'steady': 0.189, 'motion': 0.189, 'viscous': 0.189, 'incompressible': 0.189, 'fluid': 0.189, 'particular': 0.189, 'reference': 0.189, 'variation': 0.189, 'principle': 0.189, 'millikan': 0.189, 'c': 0.189, 'b': 0.189, 'phil': 0.189, 'mag': 0.189, 'except': 0.189, 'exceptional': 0.189, 'case': 0.189, 'possible': 0.189, 'represent': 0.189, 'liquid': 0.189, 'mean': 0.189, 'yet': 0.189, 'discover': 0.189, 'belong': 0.189, 'class': 0.189, 'appropriate': 0.189, 'function': 0.189, 'give': 0.189}
+
+
+
+Document Vector for Query8 weight2:
+For Document21 vector representation
+{'heat': 0.164, 'transfer': 0.164, 'slip': 0.164, 'flow': 0.164, 'stephen': 0.164, 'h': 0.164, 'maslen': 0.164, 'lewis': 0.164, 'flight': 0.164, 'propulsion': 0.164, 'laboratory': 0.164, 'naca': 0.164, 'cleveland': 0.164, 'ohio': 0.164, 'number': 0.164, 'author': 0.164, 'consider': 0.164, 'effect': 0.164, 'skin': 0.164, 'friction': 0.164, 'laminar': 0.164, 'boundary': 0.164, 'layer': 0.164, 'flat': 0.164, 'plate': 0.164, 'reference': 0.164, 'considers': 0.164, 'perturbation': 0.164, 'usual': 0.164, 'analysis': 0.164, 'study': 0.164, 'dash': 0.164, 'e': 0.164, 'g': 0.164, 'impulsive': 0.164, 'motion': 0.164, 'infinite': 0.164}
+For Document1083 vector representation
+{'investigation': 0.167, 'fluid': 0.167, 'flow': 0.167, 'two': 0.167, 'dimension': 0.167, 'thom': 0.167, 'r': 0.167, 'c': 0.167, 'inviscid': 0.167, 'dash': 0.167, 'existence': 0.167, 'several': 0.167, 'method': 0.192, 'obtain': 0.167, 'numerical': 0.167, 'solution': 0.192, 'dimensional': 0.167, 'perfect': 0.167, 'give': 0.192, 'boundary': 0.167, 'condition': 0.167, 'part': 0.167, 'present': 0.167, 'paper': 0.167, 'viscous': 0.167, 'steady': 0.167, 'simpler': 0.167, 'problem': 0.167, 'illustrate': 0.167, 'example': 0.167, 'bear': 0.167, 'experimental': 0.167, 'work': 0.167, 'describe': 0.167, 'iv': 0.167}
+For Document22 vector representation
+{'slip': 0.16, 'flow': 0.138, 'heat': 0.138, 'transfer': 0.138, 'flat': 0.138, 'plate': 0.138, 'oman': 0.138, 'r': 0.138, 'scheuing': 0.138, 'j': 0.138, 'ae': 0.138, 'sc': 0.138, 'assume': 0.138, 'continuum': 0.138, 'energy': 0.138, 'equation': 0.138, 'boundary': 0.138, 'layer': 0.138, 'remain': 0.138, 'valid': 0.138, 'well': 0.138, 'region': 0.138, 'take': 0.138, 'account': 0.138, 'temperature': 0.138, 'jump': 0.138, 'move': 0.138, 'rarefy': 0.138, 'gas': 0.138, 'influence': 0.138, 'large': 0.138, 'mean': 0.138, 'free': 0.138, 'path': 0.138, 'appropriate': 0.138, 'condition': 0.138, 'solution': 0.138, 'find': 0.138, 'gradient': 0.138, 'maslen': 0.138, 'expression': 0.138, 'aero': 0.138, 'sci': 0.138, 'june': 0.138, 'fluid': 0.138, 'behavior': 0.138, 'confirm': 0.138, 'result': 0.138, 'small': 0.138, 'value': 0.138, 'knudsen': 0.138, 'number': 0.138}
+For Document23 vector representation
+{'skin': 0.136, 'friction': 0.136, 'heat': 0.136, 'transfer': 0.136, 'characteristic': 0.136, 'laminar': 0.136, 'boundary': 0.136, 'layer': 0.136, 'cylinder': 0.136, 'axial': 0.136, 'incompressible': 0.136, 'flow': 0.136, 'seban': 0.136, 'r': 0.136, 'bond': 0.136, 'j': 0.136, 'ae': 0.136, 'scs': 0.136, 'solution': 0.136, 'give': 0.136, 'case': 0.158, 'fluid': 0.136, 'constant': 0.136, 'property': 0.136, 'exterior': 0.136, 'parallel': 0.136, 'axis': 0.136, 'differs': 0.136, 'blasius': 0.136, 'along': 0.136, 'flat': 0.136, 'plate': 0.136, 'consider': 0.136, 'effect': 0.136, 'curvature': 0.136, 'plane': 0.136, 'transverse': 0.136, 'direction': 0.136, 'local': 0.136, 'coefficient': 0.136, 'prandtl': 0.136, 'number': 0.136, 'evaluate': 0.136, 'compare': 0.136, 'similar': 0.136, 'magnitude': 0.136, 'show': 0.136, 'significant': 0.136, 'practical': 0.136, 'recovery': 0.136, 'factor': 0.136, 'quantity': 0.136, 'find': 0.136, 'insensitive': 0.136}
+For Document1024 vector representation
+{'note': 0.116, 'creep': 0.116, 'buckle': 0.116, 'column': 0.136, 'general': 0.116, 'dynamic': 0.116, 'equation': 0.116, 'bending': 0.116, 'beam': 0.116, 'load': 0.148, 'laterally': 0.116, 'axially': 0.116, 'derive': 0.116, 'linearly': 0.116, 'viscoelastic': 0.116, 'material': 0.116, 'whose': 0.116, 'mechanical': 0.116, 'property': 0.116, 'characterize': 0.116, 'four': 0.116, 'parameter': 0.116, 'exhibit': 0.116, 'instantaneous': 0.116, 'retard': 0.116, 'elasticity': 0.116, 'well': 0.116, 'pure': 0.116, 'flow': 0.116, 'used': 0.116, 'obtain': 0.136, 'deflection': 0.136, 'initial': 0.116, 'sinusoidal': 0.116, 'deviation': 0.116, 'straightness': 0.116, 'expect': 0.116, 'ratio': 0.116, 'correspond': 0.116, 'purely': 0.116, 'elastic': 0.116, 'structure': 0.116, 'identical': 0.116, 'strain': 0.116, 'bar': 0.116, 'simple': 0.116, 'tension': 0.116, 'compression': 0.116, 'result': 0.116, 'analysis': 0.116, 'show': 0.116, 'increase': 0.116, 'continuously': 0.116, 'time': 0.116, 'become': 0.116, 'infinitely': 0.116, 'large': 0.116, 'correspondingly': 0.116, 'however': 0.116, 'reasonably': 0.116, 'short': 0.116, 'period': 0.116, 'apply': 0.116, 'near': 0.116, 'euler': 0.116, 'curve': 0.116, 'numerical': 0.116, 'example': 0.116, 'type': 0.116, 'determine': 0.116, 'experiment': 0.116, 'aluminum': 0.116}
+
+
+
+Document Vector for Query9 weight2:
+For Document281 vector representation
+{'high': 0.217, 'order': 0.217, 'approximation': 0.217, 'relaxation': 0.217, 'oscillation': 0.217, 'problem': 0.217, 'solve': 0.246, 'asymptotic': 0.217, 'development': 0.217, 'quantity': 0.217, 'involve': 0.217, 'haag': 0.217, 'paper': 0.217, 'indicate': 0.217, 'one': 0.217, 'carry': 0.217, 'case': 0.217, 'simple': 0.217, 'enough': 0.217, 'treat': 0.217, 'explicitly': 0.217}
+For Document282 vector representation
+{'jet': 0.116, 'effect': 0.136, 'base': 0.116, 'pressure': 0.116, 'conical': 0.116, 'afterbodies': 0.116, 'mach': 0.116, 'baughman': 0.116, 'l': 0.116, 'e': 0.116, 'kochendorfer': 0.116, 'f': 0.116, 'naca': 0.116, 'rm': 0.116, 'data': 0.116, 'present': 0.116, 'show': 0.116, 'series': 0.116, 'afterbody': 0.116, 'nozzle': 0.136, 'combination': 0.116, 'boattail': 0.116, 'angle': 0.136, 'vary': 0.116, 'diameter': 0.116, 'ratio': 0.136, 'exit': 0.116, 'design': 0.116, 'number': 0.136, 'test': 0.116, 'cold': 0.116, 'air': 0.116, 'hot': 0.116, 'general': 0.116, 'increase': 0.136, 'value': 0.116, 'temperature': 0.116, 'total': 0.116, 'decrease': 0.116, 'free': 0.116, 'stream': 0.116, 'addition': 0.116, 'tail': 0.116, 'surface': 0.116, 'produce': 0.116, 'small': 0.116, 'change': 0.116, 'variables': 0.116, 'govern': 0.116, 'maximum': 0.116, 'rise': 0.116, 'support': 0.116, 'wake': 0.116, 'fluid': 0.116, 'region': 0.116, 'trail': 0.116, 'shock': 0.116, 'turn': 0.116, 'adjacent': 0.116, 'state': 0.116, 'boundary': 0.116, 'layer': 0.116, 'compute': 0.116, 'use': 0.116, 'theory': 0.116, 'korst': 0.116, 'page': 0.116, 'child': 0.116, 'good': 0.116, 'agreement': 0.116, 'experimental': 0.116, 'convergent': 0.116}
+For Document875 vector representation
+{'model': 0.188, 'aeroelastic': 0.188, 'investigation': 0.188, 'templeton': 0.188, 'h': 0.188, 'arc': 0.188, 'cp': 0.188, 'addendum': 0.188, 'provide': 0.188, 'short': 0.188, 'note': 0.188, 'two': 0.188, 'aspect': 0.188, 'omit': 0.188, 'original': 0.188, 'paper': 0.215, 'viz': 0.188, 'gravitational': 0.188, 'effect': 0.188, 'structural': 0.188, 'damp': 0.188, 'list': 0.188, 'reference': 0.188, 'early': 0.188, 'deal': 0.188, 'subject': 0.188, 'also': 0.188, 'add': 0.188}
+For Document876 vector representation
+{'flutter': 0.126, 'test': 0.126, 'high': 0.126, 'speed': 0.147, 'wind': 0.126, 'tunnel': 0.147, 'lambourne': 0.126, 'n': 0.126, 'c': 0.126, 'scruton': 0.126, 'arc': 0.126, 'r': 0.126, 'requirement': 0.126, 'simulate': 0.159, 'condition': 0.126, 'appropriate': 0.126, 'flight': 0.126, 'discuss': 0.126, 'assessment': 0.126, 'make': 0.126, 'desirable': 0.126, 'feature': 0.126, 'suitable': 0.126, 'transonic': 0.126, 'supersonic': 0.126, 'conclude': 0.126, 'either': 0.126, 'mach': 0.126, 'number': 0.126, 'stagnation': 0.126, 'pressure': 0.147, 'variable': 0.126, 'run': 0.126, 'considerable': 0.126, 'advantage': 0.126, 'purpose': 0.126, 'essential': 0.126, 'available': 0.126, 'require': 0.126, 'allow': 0.147, 'model': 0.126, 'consider': 0.126, 'range': 0.126, 'least': 0.126, 'atmosphere': 0.126, 'attempt': 0.126, 'kinetic': 0.126, 'heating': 0.126, 'envisage': 0.126, 'although': 0.126, 'effect': 0.126, 'stiffness': 0.126, 'design': 0.126, 'minimise': 0.126, 'uncertainty': 0.126, 'due': 0.126, 'variation': 0.126, 'temperature': 0.126, 'mean': 0.126, 'control': 0.126, 'incorporate': 0.126}
+For Document877 vector representation
+{'influence': 0.183, 'aerodynamic': 0.183, 'heating': 0.183, 'flexural': 0.183, 'rigidity': 0.183, 'thin': 0.183, 'wing': 0.183, 'mansfield': 0.183, 'e': 0.183, 'h': 0.183, 'arc': 0.183, 'r': 0.183, 'report': 0.183, 'considers': 0.183, 'loss': 0.183, 'due': 0.183, 'presence': 0.183, 'middle': 0.183, 'surface': 0.183, 'stress': 0.183, 'result': 0.183, 'spanwise': 0.183, 'property': 0.183, 'assume': 0.183, 'constant': 0.183, 'section': 0.183, 'arbitrary': 0.183, 'comparable': 0.183, 'corresponding': 0.183, 'torsional': 0.183}
+
+
+
+Document Vector for Query10 weight2:
+For Document1103 vector representation
+{'pressure': 0.168, 'density': 0.168, 'temperature': 0.168, 'upper': 0.145, 'atmosphere': 0.145, 'rocket': 0.168, 'panel': 0.145, 'phys': 0.145, 'rev': 0.145, 'vol': 0.145, 'december': 0.145, 'pp': 0.145, 'average': 0.145, 'internally': 0.145, 'consistent': 0.145, 'value': 0.145, 'atmospheric': 0.145, 'ground': 0.145, 'altitude': 0.145, 'km': 0.145, 'determine': 0.145, 'compile': 0.145, 'united': 0.145, 'state': 0.145, 'group': 0.145, 'active': 0.145, 'research': 0.145, 'additional': 0.145, 'relevant': 0.145, 'data': 0.145, 'similar': 0.145, 'engage': 0.145, 'meteor': 0.145, 'anomalous': 0.145, 'propagation': 0.145, 'sound': 0.145, 'also': 0.145, 'include': 0.145, 'particularly': 0.145, 'brief': 0.145, 'discussion': 0.145, 'variation': 0.145, 'time': 0.145, 'place': 0.145, 'three': 0.145, 'parameter': 0.145}
+For Document503 vector representation
+{'theoretical': 0.135, 'prediction': 0.135, 'transonic': 0.135, 'characteristic': 0.135, 'airfoils': 0.135, 'sinnott': 0.135, 'c': 0.135, 'j': 0.135, 'ae': 0.135, 'scs': 0.135, 'show': 0.135, 'author': 0.135, 'flow': 0.135, 'airfoil': 0.135, 'theory': 0.135, 'use': 0.135, 'estimate': 0.135, 'drag': 0.135, 'rise': 0.135, 'onset': 0.135, 'separation': 0.135, 'effect': 0.135, 'mach': 0.135, 'number': 0.135, 'without': 0.135, 'reference': 0.135, 'experimental': 0.135, 'result': 0.135, 'simple': 0.135, 'comparative': 0.135, 'method': 0.135, 'apply': 0.135, 'series': 0.135, 'analyzed': 0.135, 'determine': 0.135, 'design': 0.135, 'feature': 0.135, 'importance': 0.135, 'improvement': 0.135, 'scheme': 0.135, 'give': 0.135, 'good': 0.135, 'agreement': 0.135, 'experiment': 0.135, 'first': 0.135, 'appearance': 0.135, 'shock': 0.135, 'wave': 0.135, 'application': 0.135, 'finite': 0.135, 'swept': 0.135, 'wing': 0.135, 'briefly': 0.135, 'consider': 0.135, 'illustrate': 0.135}
+For Document504 vector representation
+{'stability': 0.115, 'compressible': 0.115, 'boundary': 0.115, 'layer': 0.135, 'induce': 0.115, 'move': 0.115, 'wave': 0.115, 'ostrach': 0.115, 'j': 0.115, 'ae': 0.115, 'sc': 0.115, 'problem': 0.115, 'determine': 0.135, 'viscous': 0.115, 'flow': 0.135, 'nonzero': 0.115, 'surface': 0.115, 'velocity': 0.135, 'formulate': 0.115, 'show': 0.115, 'identical': 0.115, 'conventional': 0.115, 'redefinition': 0.115, 'mach': 0.115, 'reynolds': 0.115, 'number': 0.135, 'require': 0.115, 'specific': 0.115, 'consideration': 0.115, 'give': 0.115, 'wall': 0.115, 'behind': 0.115, 'shock': 0.115, 'minimum': 0.115, 'critical': 0.115, 'obtain': 0.115, 'various': 0.115, 'entire': 0.115, 'map': 0.115, 'limit': 0.115, 'case': 0.115, 'weak': 0.115, 'analogous': 0.115, 'rayleigh': 0.115, 'find': 0.115, 'increase': 0.135, 'monotonically': 0.115, 'e': 0.115, 'cool': 0.115, 'stream': 0.115, 'combine': 0.115, 'ratio': 0.115, 'infinitely': 0.115, 'stable': 0.115, 'two': 0.115, 'dimensional': 0.115, 'disturbance': 0.115, 'experimental': 0.115, 'transition': 0.115, 'data': 0.115, 'follow': 0.115, 'trend': 0.115, 'predict': 0.115, 'theory': 0.115, 'fact': 0.115, 'order': 0.115, 'magnitude': 0.115, 'compute': 0.115, 'lack': 0.115, 'correlation': 0.115, 'experiment': 0.115, 'attribute': 0.115, 'external': 0.115}
+For Document484 vector representation
+{'influence': 0.103, 'two': 0.103, 'dimensional': 0.103, 'stream': 0.103, 'shear': 0.103, 'airfoil': 0.103, 'maximum': 0.103, 'lift': 0.103, 'vidal': 0.103, 'r': 0.103, 'j': 0.103, 'ae': 0.103, 'sc': 0.103, 'effect': 0.12, 'velocity': 0.103, 'gradient': 0.103, 'define': 0.103, 'experimental': 0.103, 'data': 0.103, 'obtain': 0.103, 'simulate': 0.103, 'slipstream': 0.103, 'result': 0.103, 'show': 0.103, 'position': 0.103, 'near': 0.103, 'plane': 0.103, 'symmetry': 0.103, 'varies': 0.103, 'markedly': 0.103, 'location': 0.103, 'move': 0.103, 'total': 0.103, 'distance': 0.103, 'correspond': 0.103, 'thickness': 0.103, 'force': 0.103, 'boundary': 0.103, 'layer': 0.103, 'observation': 0.103, 'separation': 0.103, 'delay': 0.103, 'high': 0.103, 'angle': 0.103, 'attack': 0.103, 'double': 0.103, 'conclude': 0.103, 'destalling': 0.103, 'observe': 0.103, 'nonuniform': 0.103, 'associate': 0.103, 'interference': 0.103, 'stem': 0.103, 'large': 0.103, 'local': 0.103, 'characteristic': 0.103, 'uniform': 0.103, 'pressure': 0.103, 'distribution': 0.103, 'discuss': 0.103, 'within': 0.103, 'framework': 0.103, 'exist': 0.103, 'first': 0.103, 'order': 0.103, 'smallshear': 0.103, 'theory': 0.12, 'tend': 0.103, 'promote': 0.103, 'stall': 0.103, 'pohlhausen': 0.103, 'calculation': 0.103, 'laminar': 0.103, 'use': 0.103, 'identify': 0.103, 'assess': 0.103, 'criterion': 0.12, 'demonstrate': 0.103, 'negligibly': 0.103, 'small': 0.103, 'flow': 0.103, 'applies': 0.103, 'basis': 0.103, 'phenomenon': 0.103, 'treat': 0.103, 'inviscid': 0.103, 'hypothesize': 0.103, 'second': 0.103, 'fix': 0.103, 'product': 0.103, 'derivative': 0.103, 'present': 0.103, 'experiment': 0.103}
+For Document485 vector representation
+{'linear': 0.198, 'heat': 0.198, 'flow': 0.198, 'composite': 0.198, 'slab': 0.198, 'reid': 0.198, 'w': 0.198, 'p': 0.198, 'j': 0.198, 'ae': 0.198, 'scs': 0.198, 'temperature': 0.225, 'determine': 0.198, 'function': 0.225, 'position': 0.198, 'time': 0.198, 'case': 0.198, 'conduction': 0.198, 'ture': 0.198, 'throughout': 0.198, 'two': 0.198, 'external': 0.198, 'surface': 0.198, 'consider': 0.198, 'prescribed': 0.198}
+
+
+
+Document Vector for Query11 weight2:
+For Document483 vector representation
+{'stagnation': 0.203, 'point': 0.203, 'shock': 0.203, 'detachment': 0.203, 'distance': 0.203, 'flow': 0.203, 'around': 0.203, 'spheres': 0.203, 'cylinder': 0.231, 'ambrosio': 0.203, 'wortman': 0.203, 'ars': 0.203, 'j': 0.203, 'development': 0.203, 'analytical': 0.203, 'relation': 0.203, 'free': 0.203, 'stream': 0.203, 'mach': 0.203, 'number': 0.203, 'result': 0.203, 'present': 0.203, 'graphically': 0.203, 'air': 0.203}
+For Document484 vector representation
+{'influence': 0.103, 'two': 0.103, 'dimensional': 0.103, 'stream': 0.103, 'shear': 0.103, 'airfoil': 0.103, 'maximum': 0.103, 'lift': 0.103, 'vidal': 0.103, 'r': 0.103, 'j': 0.103, 'ae': 0.103, 'sc': 0.103, 'effect': 0.12, 'velocity': 0.103, 'gradient': 0.103, 'define': 0.103, 'experimental': 0.103, 'data': 0.103, 'obtain': 0.103, 'simulate': 0.103, 'slipstream': 0.103, 'result': 0.103, 'show': 0.103, 'position': 0.103, 'near': 0.103, 'plane': 0.103, 'symmetry': 0.103, 'varies': 0.103, 'markedly': 0.103, 'location': 0.103, 'move': 0.103, 'total': 0.103, 'distance': 0.103, 'correspond': 0.103, 'thickness': 0.103, 'force': 0.103, 'boundary': 0.103, 'layer': 0.103, 'observation': 0.103, 'separation': 0.103, 'delay': 0.103, 'high': 0.103, 'angle': 0.103, 'attack': 0.103, 'double': 0.103, 'conclude': 0.103, 'destalling': 0.103, 'observe': 0.103, 'nonuniform': 0.103, 'associate': 0.103, 'interference': 0.103, 'stem': 0.103, 'large': 0.103, 'local': 0.103, 'characteristic': 0.103, 'uniform': 0.103, 'pressure': 0.103, 'distribution': 0.103, 'discuss': 0.103, 'within': 0.103, 'framework': 0.103, 'exist': 0.103, 'first': 0.103, 'order': 0.103, 'smallshear': 0.103, 'theory': 0.12, 'tend': 0.103, 'promote': 0.103, 'stall': 0.103, 'pohlhausen': 0.103, 'calculation': 0.103, 'laminar': 0.103, 'use': 0.103, 'identify': 0.103, 'assess': 0.103, 'criterion': 0.12, 'demonstrate': 0.103, 'negligibly': 0.103, 'small': 0.103, 'flow': 0.103, 'applies': 0.103, 'basis': 0.103, 'phenomenon': 0.103, 'treat': 0.103, 'inviscid': 0.103, 'hypothesize': 0.103, 'second': 0.103, 'fix': 0.103, 'product': 0.103, 'derivative': 0.103, 'present': 0.103, 'experiment': 0.103}
+For Document485 vector representation
+{'linear': 0.198, 'heat': 0.198, 'flow': 0.198, 'composite': 0.198, 'slab': 0.198, 'reid': 0.198, 'w': 0.198, 'p': 0.198, 'j': 0.198, 'ae': 0.198, 'scs': 0.198, 'temperature': 0.225, 'determine': 0.198, 'function': 0.225, 'position': 0.198, 'time': 0.198, 'case': 0.198, 'conduction': 0.198, 'ture': 0.198, 'throughout': 0.198, 'two': 0.198, 'external': 0.198, 'surface': 0.198, 'consider': 0.198, 'prescribed': 0.198}
+For Document282 vector representation
+{'jet': 0.116, 'effect': 0.136, 'base': 0.116, 'pressure': 0.116, 'conical': 0.116, 'afterbodies': 0.116, 'mach': 0.116, 'baughman': 0.116, 'l': 0.116, 'e': 0.116, 'kochendorfer': 0.116, 'f': 0.116, 'naca': 0.116, 'rm': 0.116, 'data': 0.116, 'present': 0.116, 'show': 0.116, 'series': 0.116, 'afterbody': 0.116, 'nozzle': 0.136, 'combination': 0.116, 'boattail': 0.116, 'angle': 0.136, 'vary': 0.116, 'diameter': 0.116, 'ratio': 0.136, 'exit': 0.116, 'design': 0.116, 'number': 0.136, 'test': 0.116, 'cold': 0.116, 'air': 0.116, 'hot': 0.116, 'general': 0.116, 'increase': 0.136, 'value': 0.116, 'temperature': 0.116, 'total': 0.116, 'decrease': 0.116, 'free': 0.116, 'stream': 0.116, 'addition': 0.116, 'tail': 0.116, 'surface': 0.116, 'produce': 0.116, 'small': 0.116, 'change': 0.116, 'variables': 0.116, 'govern': 0.116, 'maximum': 0.116, 'rise': 0.116, 'support': 0.116, 'wake': 0.116, 'fluid': 0.116, 'region': 0.116, 'trail': 0.116, 'shock': 0.116, 'turn': 0.116, 'adjacent': 0.116, 'state': 0.116, 'boundary': 0.116, 'layer': 0.116, 'compute': 0.116, 'use': 0.116, 'theory': 0.116, 'korst': 0.116, 'page': 0.116, 'child': 0.116, 'good': 0.116, 'agreement': 0.116, 'experimental': 0.116, 'convergent': 0.116}
+For Document283 vector representation
+{'laminar': 0.103, 'heat': 0.103, 'transfer': 0.103, 'around': 0.103, 'blunt': 0.103, 'body': 0.103, 'dissociate': 0.103, 'air': 0.103, 'kemp': 0.103, 'n': 0.103, 'h': 0.103, 'rise': 0.103, 'p': 0.103, 'detra': 0.103, 'r': 0.103, 'w': 0.103, 'j': 0.103, 'ae': 0.103, 'sc': 0.103, 'method': 0.103, 'predict': 0.103, 'rate': 0.121, 'highly': 0.103, 'cooled': 0.103, 'constant': 0.103, 'wall': 0.103, 'temperature': 0.103, 'flow': 0.103, 'develop': 0.103, 'attention': 0.103, 'restrict': 0.103, 'case': 0.103, 'axisymmetric': 0.103, 'zero': 0.103, 'incidence': 0.103, 'although': 0.103, 'two': 0.103, 'dimensional': 0.103, 'could': 0.103, 'treat': 0.103, 'way': 0.103, 'base': 0.103, 'use': 0.121, 'local': 0.103, 'similarity': 0.103, 'concept': 0.103, 'extension': 0.103, 'idea': 0.103, 'fay': 0.103, 'riddell': 0.103, 'simple': 0.103, 'formula': 0.103, 'give': 0.103, 'ratio': 0.103, 'stagnation': 0.103, 'point': 0.103, 'depend': 0.103, 'condition': 0.103, 'pressure': 0.103, 'distribution': 0.103, 'thermodynamic': 0.103, 'transport': 0.103, 'property': 0.103, 'hot': 0.103, 'external': 0.103, 'except': 0.103, 'experimental': 0.103, 'obtain': 0.103, 'correct': 0.103, 'simulation': 0.103, 'high': 0.103, 'cool': 0.103, 'shock': 0.103, 'tube': 0.103, 'also': 0.103, 'present': 0.103, 'compare': 0.103, 'theoretical': 0.103, 'prediction': 0.103, 'whole': 0.103, 'agreement': 0.103, 'good': 0.103, 'region': 0.103, 'rapidly': 0.103, 'vary': 0.103, 'evidence': 0.103, 'assumption': 0.103, 'break': 0.103, 'theory': 0.103, 'underestimate': 0.103, 'actual': 0.103, 'per': 0.103, 'cent': 0.103}
+
+
+
+Document Vector for Query12 weight2:
+For Document1388 vector representation
+{'process': 0.146, 'step': 0.146, 'integration': 0.146, 'differential': 0.146, 'equation': 0.146, 'automatic': 0.146, 'digital': 0.146, 'compute': 0.146, 'machine': 0.146, 'gill': 0.146, 'proc': 0.146, 'cam': 0.146, 'phil': 0.146, 'soc': 0.146, 'advantageous': 0.146, 'computer': 0.146, 'employ': 0.146, 'method': 0.146, 'require': 0.169, 'precede': 0.146, 'function': 0.146, 'value': 0.146, 'know': 0.146, 'general': 0.146, 'theory': 0.146, 'give': 0.181, 'kutta': 0.146, 'one': 0.146, 'chosen': 0.146, 'fourthorder': 0.146, 'accuracy': 0.146, 'minimum': 0.146, 'number': 0.146, 'storage': 0.146, 'register': 0.146, 'develop': 0.146, 'form': 0.146, 'high': 0.146, 'attainable': 0.146, 'carry': 0.146, 'comparatively': 0.146, 'instruction': 0.146, 'error': 0.146, 'study': 0.146, 'simple': 0.146, 'example': 0.146}
+For Document137 vector representation
+{'generation': 0.196, 'sound': 0.196, 'aerodynamic': 0.196, 'mean': 0.196, 'curle': 0.196, 'n': 0.196, 'j': 0.196, 'roy': 0.196, 'ae': 0.196, 'summary': 0.196, 'give': 0.196, 'important': 0.196, 'experimental': 0.196, 'result': 0.196, 'relate': 0.196, 'noise': 0.196, 'radiate': 0.196, 'cold': 0.196, 'subsonic': 0.196, 'turbulent': 0.196, 'jet': 0.196, 'related': 0.196, 'prediction': 0.196, 'lighthill': 0.196, 'general': 0.196, 'theory': 0.196}
+For Document251 vector representation
+{'collection': 0.152, 'longitudinal': 0.152, 'stability': 0.152, 'derivative': 0.152, 'wing': 0.152, 'supersonic': 0.152, 'speed': 0.152, 'naysmith': 0.152, 'rae': 0.152, 'tn': 0.152, 'aero': 0.152, 'make': 0.152, 'theoretical': 0.152, 'data': 0.152, 'alone': 0.152, 'govern': 0.152, 'short': 0.152, 'period': 0.152, 'oscillation': 0.152, 'aircraft': 0.152, 'travel': 0.152, 'available': 0.152, 'obtain': 0.152, 'mean': 0.152, 'linear': 0.152, 'theory': 0.152, 'information': 0.152, 'give': 0.152, 'subject': 0.152, 'usual': 0.152, 'limitation': 0.152, 'present': 0.152, 'hop': 0.152, 'convenient': 0.152, 'form': 0.152, 'show': 0.152, 'extent': 0.152, 'expose': 0.152, 'part': 0.152, 'field': 0.152, 'experimental': 0.152, 'investigation': 0.152, 'need': 0.152}
+For Document631 vector representation
+{'low': 0.157, 'speed': 0.157, 'wind': 0.157, 'tunnel': 0.157, 'test': 0.157, 'two': 0.157, 'dimensional': 0.157, 'aerofoil': 0.157, 'split': 0.157, 'flap': 0.182, 'near': 0.157, 'ground': 0.157, 'bagley': 0.157, 'j': 0.157, 'arc': 0.157, 'cp': 0.157, 'pressure': 0.157, 'distribution': 0.157, 'measure': 0.157, 'thick': 0.157, 'r': 0.157, 'e': 0.157, 'section': 0.157, 'fit': 0.157, 'deflect': 0.157, 'measurement': 0.157, 'make': 0.157, 'distance': 0.157, 'plate': 0.157, 'also': 0.157, 'without': 0.157, 'result': 0.157, 'integrate': 0.157, 'give': 0.157, 'sectional': 0.157, 'lift': 0.157, 'drag': 0.157, 'pitch': 0.157, 'moment': 0.157, 'coefficient': 0.157}
+For Document742 vector representation
+{'post': 0.14, 'buckle': 0.14, 'behaviour': 0.14, 'axially': 0.14, 'compress': 0.14, 'circular': 0.14, 'cylinder': 0.14, 'shell': 0.162, 'kempner': 0.14, 'j': 0.14, 'ae': 0.14, 'sc': 0.14, 'postbuckling': 0.14, 'characteristic': 0.14, 'thin': 0.14, 'wall': 0.14, 'cylindrical': 0.14, 'load': 0.162, 'either': 0.14, 'dead': 0.14, 'weight': 0.162, 'rigid': 0.14, 'test': 0.14, 'machine': 0.14, 'determine': 0.14, 'show': 0.14, 'condition': 0.14, 'minimum': 0.14, 'applied': 0.14, 'stress': 0.14, 'region': 0.14, 'er': 0.14, 'stable': 0.14, 'equilibrium': 0.14, 'correspond': 0.14, 'include': 0.14, 'extend': 0.14, 'beyond': 0.14, 'obtain': 0.14, 'work': 0.14, 'describe': 0.14, 'continuation': 0.14, 'do': 0.14, 'earlier': 0.14, 'von': 0.14, 'karman': 0.14, 'tsien': 0.14, 'michielsen': 0.14, 'leggett': 0.14, 'jones': 0.14}
+
+
+
+Document Vector for Query13 weight2:
+For Document853 vector representation
+{'accuracy': 0.186, 'donnell': 0.186, 'equation': 0.186, 'hoff': 0.186, 'n': 0.186, 'j': 0.186, 'app': 0.186, 'mech': 0.186, 'solution': 0.186, 'small': 0.186, 'deformation': 0.186, 'perfectly': 0.186, 'elastic': 0.186, 'thin': 0.186, 'wall': 0.186, 'circular': 0.186, 'cylindrical': 0.186, 'shell': 0.186, 'compare': 0.186, 'obtainable': 0.186, 'flugge': 0.186, 'range': 0.186, 'basic': 0.186, 'parameter': 0.186, 'find': 0.186, 'within': 0.186, 'two': 0.186, 'approximately': 0.186, 'equal': 0.186}
+For Document854 vector representation
+{'boundary': 0.183, 'value': 0.183, 'problem': 0.183, 'thin': 0.183, 'wall': 0.183, 'circular': 0.183, 'cylinder': 0.183, 'hoff': 0.183, 'n': 0.183, 'j': 0.183, 'app': 0.183, 'mech': 0.183, 'homogeneous': 0.183, 'differential': 0.183, 'equation': 0.183, 'donnell': 0.183, 'theory': 0.183, 'cylindrical': 0.183, 'shell': 0.183, 'integrated': 0.183, 'expression': 0.183, 'obtain': 0.183, 'closed': 0.183, 'form': 0.183, 'displacement': 0.183, 'membrane': 0.183, 'stress': 0.183, 'moment': 0.183, 'shear': 0.183, 'force': 0.183}
+For Document855 vector representation
+{'simplified': 0.166, 'formula': 0.166, 'boundary': 0.166, 'value': 0.166, 'problem': 0.166, 'thin': 0.166, 'wall': 0.166, 'circular': 0.166, 'cylinder': 0.191, 'pohle': 0.166, 'f': 0.166, 'v': 0.166, 'nardo': 0.166, 'w': 0.166, 'j': 0.166, 'app': 0.166, 'mech': 0.166, 'n': 0.166, 'hoff': 0.166, 'present': 0.166, 'use': 0.166, 'solution': 0.166, 'purpose': 0.166, 'note': 0.166, 'express': 0.166, 'result': 0.166, 'exact': 0.166, 'form': 0.166, 'detail': 0.166, 'investigation': 0.166, 'appear': 0.166, 'elsewhere': 0.166, 'notation': 0.166, 'unless': 0.166, 'otherwise': 0.166, 'state': 0.166}
+For Document856 vector representation
+{'experimental': 0.104, 'study': 0.121, 'panel': 0.121, 'flutter': 0.104, 'mach': 0.104, 'sylvester': 0.104, 'baker': 0.104, 'j': 0.104, 'e': 0.104, 'naca': 0.104, 'tn': 0.104, 'conduct': 0.104, 'number': 0.104, 'verify': 0.104, 'existence': 0.104, 'phenomenon': 0.104, 'effect': 0.121, 'structural': 0.104, 'parameter': 0.104, 'characteristic': 0.104, 'thin': 0.104, 'rectangular': 0.104, 'metal': 0.104, 'plate': 0.104, 'use': 0.121, 'mount': 0.104, 'section': 0.104, 'tunnel': 0.104, 'wall': 0.104, 'data': 0.104, 'obtain': 0.104, 'aluminum': 0.104, 'alloy': 0.104, 'although': 0.104, 'steel': 0.104, 'magnesium': 0.104, 'brass': 0.104, 'also': 0.104, 'different': 0.104, 'material': 0.104, 'various': 0.104, 'thickness': 0.104, 'length': 0.104, 'determine': 0.104, 'program': 0.104, 'consist': 0.104, 'three': 0.104, 'phase': 0.104, 'clamp': 0.104, 'front': 0.104, 'rear': 0.104, 'buckle': 0.121, 'four': 0.104, 'edge': 0.104, 'control': 0.104, 'laboratory': 0.104, 'condition': 0.104, 'find': 0.104, 'flow': 0.104, 'test': 0.104, 'increase': 0.104, 'tensile': 0.104, 'force': 0.104, 'effective': 0.104, 'eliminate': 0.104, 'shorten': 0.104, 'bend': 0.104, 'stiffness': 0.104, 'apparent': 0.104, 'systematic': 0.104, 'trend': 0.104, 'mode': 0.104, 'frequency': 0.104, 'could': 0.104, 'observe': 0.104, 'significant': 0.104, 'sometimes': 0.104, 'involve': 0.104, 'high': 0.104, 'presence': 0.104, 'pressure': 0.104, 'differential': 0.104, 'two': 0.104, 'surface': 0.104, 'stabilize': 0.104, 'initially': 0.104, 'susceptible': 0.104, 'without': 0.104, 'much': 0.104, 'less': 0.104, 'prone': 0.104}
+For Document857 vector representation
+{'experimental': 0.12, 'study': 0.12, 'flutter': 0.12, 'buckle': 0.12, 'rectangular': 0.12, 'panel': 0.14, 'mach': 0.12, 'number': 0.12, 'include': 0.12, 'effect': 0.14, 'pressure': 0.12, 'differential': 0.12, 'width': 0.12, 'length': 0.12, 'ratio': 0.14, 'sylvester': 0.12, 'nasa': 0.12, 'tn': 0.12, 'data': 0.12, 'obtain': 0.12, 'determine': 0.12, 'increase': 0.12, 'effective': 0.12, 'eliminate': 0.12, 'test': 0.14, 'variable': 0.12, 'parameter': 0.12, 'sure': 0.12, 'e': 0.12, 'young': 0.12, 'modulus': 0.12, 'l': 0.12, 'thickness': 0.12, 'respectively': 0.12, 'investigate': 0.12, 'clamp': 0.12, 'front': 0.12, 'rear': 0.12, 'edge': 0.12, 'critical': 0.12, 'value': 0.12, 'indicate': 0.12, 'zero': 0.12, 'estimate': 0.12, 'boundary': 0.12, 'present': 0.12, 'four': 0.12, 'show': 0.12, 'significant': 0.12, 'less': 0.12, 'approximately': 0.12, 'two': 0.12, 'half': 0.12, 'wave': 0.12, 'direction': 0.12, 'flow': 0.12, 'find': 0.12, 'particularly': 0.12, 'susceptible': 0.12, 'result': 0.12, 'limited': 0.12, 'apply': 0.12, 'damp': 0.12, 'curvature': 0.12, 'lengthwise': 0.12, 'stiffener': 0.12, 'also': 0.12, 'discussed': 0.12}
+
+
+
+Document Vector for Query14 weight2:
+For Document1102 vector representation
+{'five': 0.2, 'stage': 0.2, 'solid': 0.2, 'fuel': 0.2, 'sound': 0.2, 'rocket': 0.2, 'system': 0.2, 'swanson': 0.2, 'g': 0.2, 'nasa': 0.2, 'memo': 0.2, 'l': 0.2, 'boost': 0.2, 'payload': 0.2, 'pound': 0.2, 'altitude': 0.2, 'nautical': 0.2, 'mile': 0.2, 'describe': 0.2, 'data': 0.2, 'obtain': 0.2, 'typical': 0.2, 'flight': 0.2, 'test': 0.2, 'discuss': 0.2}
+For Document137 vector representation
+{'generation': 0.196, 'sound': 0.196, 'aerodynamic': 0.196, 'mean': 0.196, 'curle': 0.196, 'n': 0.196, 'j': 0.196, 'roy': 0.196, 'ae': 0.196, 'summary': 0.196, 'give': 0.196, 'important': 0.196, 'experimental': 0.196, 'result': 0.196, 'relate': 0.196, 'noise': 0.196, 'radiate': 0.196, 'cold': 0.196, 'subsonic': 0.196, 'turbulent': 0.196, 'jet': 0.196, 'related': 0.196, 'prediction': 0.196, 'lighthill': 0.196, 'general': 0.196, 'theory': 0.196}
+For Document1011 vector representation
+{'free': 0.18, 'flight': 0.18, 'measurement': 0.18, 'static': 0.18, 'dynamic': 0.18, 'chart': 0.18, 'prepare': 0.18, 'relate': 0.18, 'thermodynamic': 0.18, 'property': 0.18, 'air': 0.18, 'chemical': 0.18, 'equilibrium': 0.18, 'temperatures': 0.18, 'k': 0.18, 'pressure': 0.18, 'atmospheres': 0.18, 'also': 0.18, 'include': 0.18, 'show': 0.18, 'composition': 0.18, 'isentropic': 0.18, 'exponent': 0.18, 'speed': 0.18, 'sound': 0.18, 'base': 0.18, 'data': 0.18, 'calculate': 0.18, 'national': 0.18, 'bureau': 0.18, 'standard': 0.18}
+For Document138 vector representation
+{'wake': 0.106, 'axial': 0.106, 'compressor': 0.123, 'pearson': 0.106, 'h': 0.106, 'mckenzie': 0.106, 'b': 0.106, 'j': 0.106, 'roy': 0.106, 'ae': 0.106, 'tendency': 0.106, 'past': 0.106, 'assume': 0.123, 'non': 0.106, 'uniform': 0.106, 'total': 0.106, 'head': 0.106, 'profile': 0.106, 'feed': 0.106, 'substantially': 0.106, 'constant': 0.106, 'static': 0.106, 'pressure': 0.106, 'prevail': 0.106, 'entry': 0.106, 'variation': 0.123, 'appear': 0.123, 'velocity': 0.106, 'cause': 0.106, 'incidence': 0.106, 'early': 0.106, 'stage': 0.106, 'blade': 0.106, 'row': 0.106, 'thus': 0.106, 'give': 0.123, 'rise': 0.106, 'excitation': 0.106, 'vibration': 0.106, 'assumption': 0.106, 'implicit': 0.106, 'instance': 0.106, 'reference': 0.106, 'think': 0.106, 'common': 0.106, 'people': 0.106, 'work': 0.106, 'field': 0.106, 'duct': 0.123, 'parallel': 0.106, 'wall': 0.106, 'reasonable': 0.106, 'length': 0.106, 'ahead': 0.106, 'justifiable': 0.106, 'air': 0.106, 'flow': 0.106, 'test': 0.106, 'outlet': 0.106, 'discharge': 0.106, 'atmosphere': 0.106, 'instead': 0.106, 'distribution': 0.123, 'would': 0.106, 'normally': 0.106, 'obtain': 0.106, 'fact': 0.106, 'many': 0.106, 'survey': 0.106, 'represent': 0.106, 'fashion': 0.106, 'object': 0.106, 'note': 0.106, 'show': 0.106, 'occur': 0.106, 'present': 0.106, 'may': 0.106, 'expect': 0.106, 'much': 0.106, 'nearly': 0.106, 'attendant': 0.106, 'match': 0.106, 'intake': 0.106, 'course': 0.106, 'curve': 0.106, 'support': 0.106, 'gradient': 0.106}
+For Document139 vector representation
+{'viscous': 0.134, 'effect': 0.134, 'pitot': 0.134, 'tube': 0.156, 'low': 0.134, 'speed': 0.134, 'mcmillan': 0.134, 'f': 0.134, 'j': 0.134, 'roy': 0.134, 'ae': 0.134, 'measurement': 0.134, 'make': 0.134, 'pressure': 0.134, 'blunt': 0.134, 'nose': 0.134, 'air': 0.134, 'stream': 0.134, 'reynolds': 0.134, 'number': 0.156, 'result': 0.134, 'express': 0.134, 'term': 0.134, 'coefficient': 0.134, 'density': 0.134, 'fluid': 0.134, 'p': 0.134, 'v': 0.134, 'static': 0.134, 'velocity': 0.134, 'undisturbed': 0.134, 'find': 0.134, 'previous': 0.134, 'investigation': 0.134, 'becomes': 0.134, 'great': 0.134, 'increase': 0.134, 'base': 0.134, 'external': 0.134, 'radius': 0.134, 'disagreement': 0.134, 'work': 0.134, 'hurd': 0.134, 'chesky': 0.134, 'shapiro': 0.134, 'decrease': 0.134, 'value': 0.134, 'various': 0.134, 'experiment': 0.134, 'plot': 0.134, 'internal': 0.134, 'curve': 0.134, 'closer': 0.134, 'agreement': 0.134, 'use': 0.134}
+
+
+
+Document Vector for Query15 weight2:
+For Document761 vector representation
+{'buckling': 0.156, 'sandwich': 0.156, 'normal': 0.156, 'pressure': 0.181, 'yao': 0.156, 'j': 0.156, 'c': 0.156, 'ae': 0.156, 'scs': 0.156, 'theoretical': 0.156, 'study': 0.156, 'make': 0.156, 'sphere': 0.156, 'comprise': 0.156, 'core': 0.156, 'layer': 0.181, 'low': 0.156, 'modulus': 0.156, 'material': 0.181, 'two': 0.156, 'thin': 0.156, 'face': 0.156, 'higher': 0.156, 'solution': 0.156, 'resistance': 0.156, 'external': 0.156, 'obtain': 0.156, 'linearized': 0.156, 'theory': 0.156, 'reducible': 0.156, 'classical': 0.156, 'monocoque': 0.156, 'spherical': 0.156, 'shell': 0.156, 'critical': 0.156, 'calculate': 0.156, 'various': 0.156, 'radius': 0.156, 'thickness': 0.156, 'ratio': 0.156}
+For Document863 vector representation
+{'load': 0.135, 'deformation': 0.135, 'buckle': 0.157, 'rectangular': 0.135, 'plate': 0.135, 'stein': 0.135, 'nasa': 0.135, 'tr': 0.135, 'r': 0.135, 'nonlinear': 0.135, 'large': 0.135, 'deflection': 0.157, 'equation': 0.135, 'von': 0.135, 'karman': 0.135, 'convert': 0.135, 'set': 0.135, 'linear': 0.135, 'expand': 0.135, 'displacement': 0.135, 'power': 0.135, 'series': 0.135, 'term': 0.135, 'arbitrary': 0.135, 'parameter': 0.135, 'post': 0.135, 'behavior': 0.135, 'simply': 0.135, 'support': 0.135, 'subject': 0.135, 'longitudinal': 0.135, 'compression': 0.135, 'uniform': 0.135, 'temperature': 0.135, 'rise': 0.135, 'investigate': 0.135, 'detail': 0.135, 'solve': 0.135, 'first': 0.135, 'experimental': 0.135, 'data': 0.135, 'present': 0.135, 'problem': 0.135, 'comparison': 0.135, 'make': 0.135, 'total': 0.135, 'shortening': 0.135, 'local': 0.135, 'strain': 0.135, 'indicate': 0.135, 'good': 0.135, 'agreement': 0.135, 'theoretical': 0.135, 'result': 0.135}
+For Document864 vector representation
+{'status': 0.191, 'flutter': 0.191, 'flat': 0.191, 'curve': 0.191, 'panel': 0.219, 'national': 0.191, 'advisory': 0.191, 'committee': 0.191, 'aeronautics': 0.191, 'representative': 0.191, 'result': 0.191, 'present': 0.191, 'show': 0.191, 'current': 0.191, 'problem': 0.191, 'discussion': 0.191, 'include': 0.191, 'without': 0.191, 'midplane': 0.191, 'stress': 0.191, 'buckle': 0.191, 'unstiffened': 0.191, 'stiffen': 0.191, 'infinitely': 0.191, 'long': 0.191, 'circular': 0.191, 'cylinder': 0.191}
+For Document865 vector representation
+{'study': 0.134, 'thermal': 0.134, 'fatigue': 0.134, 'behaviour': 0.134, 'metal': 0.134, 'effect': 0.134, 'test': 0.134, 'condition': 0.134, 'nickel': 0.134, 'base': 0.134, 'high': 0.134, 'temperature': 0.134, 'alloy': 0.134, 'glenny': 0.134, 'e': 0.134, 'taylor': 0.134, 'j': 0.134, 'inst': 0.134, 'attempt': 0.134, 'make': 0.134, 'identify': 0.134, 'significant': 0.134, 'factor': 0.134, 'govern': 0.134, 'mainly': 0.134, 'use': 0.134, 'laboratory': 0.134, 'technique': 0.134, 'hot': 0.134, 'cold': 0.134, 'fluidized': 0.134, 'bed': 0.134, 'heat': 0.134, 'cool': 0.134, 'medium': 0.134, 'succession': 0.134, 'shock': 0.157, 'generally': 0.134, 'damage': 0.134, 'limit': 0.134, 'duration': 0.134, 'upper': 0.134, 'cycle': 0.134, 'dominant': 0.134, 'thermalfatigue': 0.134, 'crack': 0.134, 'initiate': 0.134, 'surface': 0.134, 'intercrystalline': 0.134, 'origin': 0.134, 'propagation': 0.134, 'oxidation': 0.134, 'intergranular': 0.134, 'nature': 0.134, 'life': 0.134}
+For Document878 vector representation
+{'experimental': 0.15, 'model': 0.173, 'technique': 0.15, 'equipment': 0.15, 'flutter': 0.15, 'investigation': 0.15, 'molyneux': 0.15, 'w': 0.15, 'g': 0.15, 'air': 0.15, 'eng': 0.15, 'outline': 0.15, 'give': 0.15, 'us': 0.15, 'aid': 0.15, 'designer': 0.15, 'avoidance': 0.15, 'detail': 0.15, 'different': 0.15, 'type': 0.15, 'method': 0.15, 'construction': 0.15, 'use': 0.15, 'various': 0.15, 'test': 0.173, 'facility': 0.15, 'available': 0.15, 'high': 0.15, 'speed': 0.15, 'low': 0.15, 'procedure': 0.15, 'follow': 0.15, 'u': 0.15, 'k': 0.15, 'clearance': 0.15, 'full': 0.15, 'scale': 0.15, 'aircraft': 0.15, 'describe': 0.15, 'value': 0.15, 'electronic': 0.15, 'simulator': 0.15, 'field': 0.15, 'discuss': 0.15}
+
+
+
+Document Vector for Query16 weight2:
+For Document1063 vector representation
+{'obtain': 0.19, 'solution': 0.165, 'navier': 0.165, 'stokes': 0.165, 'equation': 0.165, 'high': 0.165, 'speed': 0.165, 'digital': 0.165, 'computer': 0.19, 'russell': 0.165, 'b': 0.165, 'arc': 0.165, 'purpose': 0.165, 'paper': 0.165, 'show': 0.165, 'steady': 0.165, 'state': 0.165, 'first': 0.165, 'relative': 0.165, 'merit': 0.165, 'various': 0.165, 'finite': 0.165, 'difference': 0.165, 'formula': 0.165, 'discuss': 0.165, 'thereafter': 0.165, 'main': 0.165, 'part': 0.165, 'concern': 0.165, 'method': 0.165, 'use': 0.165, 'solve': 0.165, 'investigation': 0.165, 'make': 0.165, 'simpler': 0.165, 'iterative': 0.165}
+For Document745 vector representation
+{'automatic': 0.191, 'method': 0.191, 'find': 0.219, 'great': 0.191, 'least': 0.191, 'value': 0.191, 'function': 0.191, 'rosenbrock': 0.191, 'h': 0.191, 'computer': 0.191, 'jnl': 0.191, 'several': 0.191, 'variable': 0.191, 'restrict': 0.191, 'give': 0.191, 'region': 0.191, 'develop': 0.191, 'deal': 0.191, 'problem': 0.191, 'compare': 0.191, 'possible': 0.191, 'alternative': 0.191, 'use': 0.191, 'digital': 0.191, 'incorporate': 0.191, 'program': 0.191, 'mercury': 0.191}
+For Document878 vector representation
+{'experimental': 0.15, 'model': 0.173, 'technique': 0.15, 'equipment': 0.15, 'flutter': 0.15, 'investigation': 0.15, 'molyneux': 0.15, 'w': 0.15, 'g': 0.15, 'air': 0.15, 'eng': 0.15, 'outline': 0.15, 'give': 0.15, 'us': 0.15, 'aid': 0.15, 'designer': 0.15, 'avoidance': 0.15, 'detail': 0.15, 'different': 0.15, 'type': 0.15, 'method': 0.15, 'construction': 0.15, 'use': 0.15, 'various': 0.15, 'test': 0.173, 'facility': 0.15, 'available': 0.15, 'high': 0.15, 'speed': 0.15, 'low': 0.15, 'procedure': 0.15, 'follow': 0.15, 'u': 0.15, 'k': 0.15, 'clearance': 0.15, 'full': 0.15, 'scale': 0.15, 'aircraft': 0.15, 'describe': 0.15, 'value': 0.15, 'electronic': 0.15, 'simulator': 0.15, 'field': 0.15, 'discuss': 0.15}
+For Document746 vector representation
+{'aeroelastic': 0.119, 'problem': 0.119, 'connection': 0.119, 'high': 0.138, 'speed': 0.119, 'flight': 0.119, 'broadbent': 0.119, 'e': 0.119, 'g': 0.119, 'j': 0.119, 'roy': 0.119, 'aero': 0.119, 'soc': 0.119, 'review': 0.119, 'give': 0.119, 'development': 0.119, 'field': 0.119, 'aeroelasticity': 0.119, 'past': 0.119, 'ten': 0.119, 'year': 0.119, 'effect': 0.138, 'steadily': 0.119, 'increase': 0.119, 'mach': 0.119, 'number': 0.138, 'two': 0.119, 'fold': 0.119, 'one': 0.119, 'hand': 0.119, 'aerodynamic': 0.119, 'derivative': 0.119, 'change': 0.119, 'case': 0.119, 'bring': 0.119, 'new': 0.119, 'design': 0.119, 'lead': 0.119, 'thinner': 0.119, 'aerofoil': 0.119, 'slender': 0.119, 'fuselage': 0.119, 'require': 0.119, 'stiffness': 0.119, 'difficult': 0.119, 'provide': 0.119, 'aspect': 0.119, 'discuss': 0.119, 'various': 0.119, 'method': 0.119, 'attack': 0.119, 'consider': 0.119, 'relative': 0.119, 'merit': 0.119, 'damp': 0.119, 'massbalance': 0.119, 'prevention': 0.119, 'control': 0.119, 'surface': 0.119, 'flutter': 0.119, 'brief': 0.119, 'mention': 0.119, 'make': 0.119, 'recent': 0.119, 'damage': 0.119, 'jet': 0.119, 'efflux': 0.119, 'possible': 0.119, 'kinetic': 0.119, 'heating': 0.119}
+For Document66 vector representation
+{'effect': 0.133, 'joint': 0.133, 'conductivity': 0.133, 'temperature': 0.156, 'thermal': 0.133, 'stress': 0.156, 'aerodynamically': 0.133, 'heat': 0.156, 'skin': 0.133, 'stiffener': 0.133, 'combination': 0.133, 'griffith': 0.133, 'g': 0.133, 'e': 0.133, 'miltonberger': 0.133, 'h': 0.133, 'naca': 0.133, 'tn': 0.133, 'typical': 0.133, 'winglike': 0.133, 'structure': 0.133, 'subject': 0.133, 'aerodynamic': 0.133, 'heating': 0.133, 'obtain': 0.133, 'aid': 0.133, 'electronic': 0.133, 'differential': 0.133, 'analyzer': 0.133, 'variation': 0.133, 'make': 0.133, 'transfer': 0.133, 'parameter': 0.133, 'ratio': 0.156, 'width': 0.133, 'thickness': 0.133, 'result': 0.133, 'present': 0.133, 'nondimensional': 0.133, 'form': 0.133, 'indicate': 0.133, 'decrease': 0.156, 'lower': 0.133, 'interior': 0.133, 'average': 0.133, 'increase': 0.169, 'peak': 0.133, 'may': 0.133, 'considerably': 0.133, 'somewhat': 0.133, 'greatly': 0.133, 'produce': 0.133, 'moderate': 0.133, 'moderately': 0.133}
+
+
+
+Document Vector for Query17 weight2:
+For Document1358 vector representation
+{'compressive': 0.196, 'buckling': 0.196, 'simply': 0.196, 'support': 0.196, 'plate': 0.196, 'transverse': 0.196, 'stiffener': 0.196, 'budiansky': 0.196, 'b': 0.196, 'seide': 0.196, 'p': 0.196, 'naca': 0.196, 'tn': 0.196, 'chart': 0.196, 'present': 0.196, 'analysis': 0.196, 'stability': 0.196, 'longitudinal': 0.196, 'compression': 0.196, 'rectangular': 0.196, 'several': 0.196, 'equally': 0.196, 'spaced': 0.196, 'torsional': 0.196, 'flexural': 0.196, 'rigidity': 0.196}
+For Document1359 vector representation
+{'compression': 0.158, 'test': 0.158, 'circular': 0.158, 'cylinder': 0.158, 'stiffen': 0.158, 'longitudinally': 0.158, 'closely': 0.158, 'spaced': 0.158, 'z': 0.158, 'section': 0.158, 'stringer': 0.158, 'peterson': 0.158, 'j': 0.158, 'p': 0.158, 'dow': 0.158, 'b': 0.158, 'nasa': 0.158, 'memo': 0.158, 'l': 0.158, 'six': 0.158, 'load': 0.158, 'failure': 0.158, 'result': 0.158, 'obtain': 0.158, 'presented': 0.158, 'compare': 0.158, 'available': 0.158, 'theoretical': 0.158, 'buckle': 0.158, 'orthotropic': 0.158, 'indicate': 0.158, 'large': 0.158, 'disparity': 0.158, 'exist': 0.158, 'theory': 0.158, 'experiment': 0.158, 'unstiffened': 0.158, 'may': 0.158, 'significantly': 0.158, 'small': 0.158}
+For Document1360 vector representation
+{'simplify': 0.137, 'analysis': 0.137, 'general': 0.137, 'instability': 0.137, 'stiffen': 0.137, 'shell': 0.159, 'pure': 0.137, 'bend': 0.137, 'shanley': 0.137, 'f': 0.137, 'r': 0.137, 'j': 0.137, 'ae': 0.137, 'scs': 0.137, 'although': 0.137, 'much': 0.137, 'work': 0.137, 'do': 0.137, 'develop': 0.137, 'theory': 0.137, 'failure': 0.137, 'present': 0.159, 'simple': 0.137, 'method': 0.137, 'size': 0.137, 'frame': 0.159, 'may': 0.137, 'determine': 0.159, 'give': 0.137, 'diameter': 0.137, 'moment': 0.137, 'space': 0.137, 'need': 0.137, 'optimum': 0.137, 'design': 0.137, 'use': 0.137, 'basis': 0.137, 'weight': 0.137, 'fuselage': 0.137, 'structure': 0.137, 'extension': 0.137, 'rand': 0.137, 'corporation': 0.137, 'coefficient': 0.137, 'purpose': 0.137, 'since': 0.137, 'appear': 0.137, 'also': 0.137, 'useful': 0.137, 'calculation': 0.137, 'brief': 0.137, 'description': 0.137}
+For Document1048 vector representation
+{'small': 0.18, 'deflection': 0.18, 'theory': 0.18, 'curve': 0.18, 'sandwich': 0.18, 'plat': 0.18, 'stein': 0.18, 'mayer': 0.18, 'j': 0.18, 'naca': 0.18, 'r': 0.18, 'take': 0.18, 'account': 0.18, 'deformation': 0.18, 'due': 0.18, 'transverse': 0.18, 'shear': 0.18, 'present': 0.18, 'elastic': 0.18, 'behavior': 0.18, 'analysis': 0.18, 'orthotropic': 0.18, 'constant': 0.18, 'cylindrical': 0.18, 'curvature': 0.18, 'consideration': 0.18, 'buckle': 0.18, 'include': 0.18, 'applicable': 0.18, 'primarily': 0.18, 'construction': 0.18}
+For Document320 vector representation
+{'comment': 0.218, 'improve': 0.218, 'numerical': 0.218, 'solution': 0.218, 'blasius': 0.218, 'problem': 0.218, 'three': 0.218, 'point': 0.218, 'boundary': 0.218, 'condition': 0.218, 'leigh': 0.218, 'c': 0.218, 'j': 0.218, 'aero': 0.218, 'sc': 0.218, 'v': 0.218, 'may': 0.218, 'attention': 0.218, 'draw': 0.218, 'previous': 0.218, 'accurate': 0.218}
+
+
+
+Document Vector for Query18 weight2:
+For Document254 vector representation
+{'boundary': 0.185, 'layer': 0.212, 'suction': 0.185, 'injection': 0.185, 'review': 0.185, 'publish': 0.185, 'work': 0.185, 'skin': 0.185, 'friction': 0.185, 'craven': 0.185, 'h': 0.185, 'coa': 0.185, 'r': 0.185, 'available': 0.185, 'data': 0.185, 'effect': 0.185, 'summarise': 0.185, 'compare': 0.185, 'show': 0.185, 'turbulent': 0.185, 'produce': 0.185, 'coefficient': 0.185, 'low': 0.185, 'laminar': 0.185, 'value': 0.185, 'reynolds': 0.185, 'number': 0.185, 'impermeable': 0.185, 'plate': 0.185}
+For Document906 vector representation
+{'review': 0.17, 'pitot': 0.17, 'tube': 0.195, 'folson': 0.17, 'r': 0.17, 'g': 0.17, 'asme': 0.17, 'trans': 0.17, 'paper': 0.17, 'attempt': 0.17, 'bring': 0.17, 'together': 0.17, 'important': 0.17, 'information': 0.17, 'regard': 0.17, 'use': 0.17, 'summarize': 0.17, 'available': 0.17, 'data': 0.17, 'application': 0.195, 'various': 0.17, 'type': 0.17, 'impact': 0.17, 'velocity': 0.17, 'probe': 0.17, 'guidance': 0.17, 'engineer': 0.17, 'research': 0.17, 'worker': 0.17, 'aid': 0.17, 'design': 0.17, 'flow': 0.17, 'instrument': 0.17, 'specific': 0.17}
+For Document1045 vector representation
+{'bend': 0.229, 'strength': 0.229, 'pressurized': 0.229, 'cylinder': 0.229, 'zender': 0.229, 'g': 0.229, 'w': 0.229, 'j': 0.229, 'ae': 0.229, 'scs': 0.229, 'discussion': 0.229, 'previously': 0.229, 'present': 0.229, 'experimental': 0.229, 'data': 0.229, 'load': 0.229, 'term': 0.229, 'membrane': 0.229, 'theory': 0.229}
+For Document1174 vector representation
+{'general': 0.16, 'theory': 0.16, 'buckle': 0.16, 'langhaar': 0.16, 'h': 0.16, 'l': 0.16, 'app': 0.16, 'mech': 0.16, 'rev': 0.16, 'various': 0.16, 'aspect': 0.16, 'expound': 0.16, 'many': 0.16, 'treatise': 0.16, 'book': 0.16, 'bleich': 0.16, 'salmon': 0.16, 'contain': 0.16, 'large': 0.16, 'bibliography': 0.16, 'goodier': 0.16, 'development': 0.16, 'numerous': 0.16, 'reference': 0.16, 'append': 0.16, 'hoff': 0.16, 'article': 0.16, 'nearly': 0.16, 'publication': 0.16, 'shell': 0.16, 'available': 0.16, 'u': 0.16, 'list': 0.16, 'nash': 0.16, 'section': 0.16, 'ready': 0.16, 'guide': 0.16, 'recent': 0.16, 'literature': 0.16}
+For Document1359 vector representation
+{'compression': 0.158, 'test': 0.158, 'circular': 0.158, 'cylinder': 0.158, 'stiffen': 0.158, 'longitudinally': 0.158, 'closely': 0.158, 'spaced': 0.158, 'z': 0.158, 'section': 0.158, 'stringer': 0.158, 'peterson': 0.158, 'j': 0.158, 'p': 0.158, 'dow': 0.158, 'b': 0.158, 'nasa': 0.158, 'memo': 0.158, 'l': 0.158, 'six': 0.158, 'load': 0.158, 'failure': 0.158, 'result': 0.158, 'obtain': 0.158, 'presented': 0.158, 'compare': 0.158, 'available': 0.158, 'theoretical': 0.158, 'buckle': 0.158, 'orthotropic': 0.158, 'indicate': 0.158, 'large': 0.158, 'disparity': 0.158, 'exist': 0.158, 'theory': 0.158, 'experiment': 0.158, 'unstiffened': 0.158, 'may': 0.158, 'significantly': 0.158, 'small': 0.158}
+
+
+
+Document Vector for Query19 weight2:
+For Document842 vector representation
+{'improvement': 0.169, 'donnell': 0.169, 'approximation': 0.169, 'thin': 0.169, 'wall': 0.169, 'circular': 0.169, 'cylinder': 0.169, 'morley': 0.169, 'l': 0.169, 'q': 0.169, 'j': 0.169, 'mech': 0.169, 'app': 0.169, 'math': 0.169, 'equation': 0.169, 'replace': 0.169, 'w': 0.169, 'non': 0.169, 'dimensional': 0.169, 'form': 0.169, 'radial': 0.169, 'displacement': 0.169, 'distribute': 0.169, 'loading': 0.169, 'retain': 0.169, 'essential': 0.169, 'simplicity': 0.169, 'original': 0.169, 'unlike': 0.169, 'accuracy': 0.169, 'decrease': 0.169, 'wavelength': 0.169, 'circumferential': 0.169, 'distortion': 0.169, 'increase': 0.169}
+For Document853 vector representation
+{'accuracy': 0.186, 'donnell': 0.186, 'equation': 0.186, 'hoff': 0.186, 'n': 0.186, 'j': 0.186, 'app': 0.186, 'mech': 0.186, 'solution': 0.186, 'small': 0.186, 'deformation': 0.186, 'perfectly': 0.186, 'elastic': 0.186, 'thin': 0.186, 'wall': 0.186, 'circular': 0.186, 'cylindrical': 0.186, 'shell': 0.186, 'compare': 0.186, 'obtainable': 0.186, 'flugge': 0.186, 'range': 0.186, 'basic': 0.186, 'parameter': 0.186, 'find': 0.186, 'within': 0.186, 'two': 0.186, 'approximately': 0.186, 'equal': 0.186}
+For Document854 vector representation
+{'boundary': 0.183, 'value': 0.183, 'problem': 0.183, 'thin': 0.183, 'wall': 0.183, 'circular': 0.183, 'cylinder': 0.183, 'hoff': 0.183, 'n': 0.183, 'j': 0.183, 'app': 0.183, 'mech': 0.183, 'homogeneous': 0.183, 'differential': 0.183, 'equation': 0.183, 'donnell': 0.183, 'theory': 0.183, 'cylindrical': 0.183, 'shell': 0.183, 'integrated': 0.183, 'expression': 0.183, 'obtain': 0.183, 'closed': 0.183, 'form': 0.183, 'displacement': 0.183, 'membrane': 0.183, 'stress': 0.183, 'moment': 0.183, 'shear': 0.183, 'force': 0.183}
+For Document523 vector representation
+{'approximate': 0.144, 'determination': 0.144, 'position': 0.144, 'sonic': 0.144, 'line': 0.144, 'blunt': 0.144, 'body': 0.144, 'hypersonic': 0.144, 'flow': 0.144, 'rahman': 0.144, 'j': 0.144, 'ae': 0.144, 'sc': 0.144, 'detach': 0.144, 'shock': 0.144, 'front': 0.144, 'tend': 0.144, 'acquire': 0.144, 'shape': 0.144, 'frontal': 0.144, 'curvature': 0.144, 'thus': 0.144, 'assume': 0.144, 'least': 0.144, 'point': 0.144, 'fig': 0.144, 'equation': 0.144, 'know': 0.144, 'also': 0.144, 'paper': 0.144, 'assumption': 0.144, 'method': 0.144, 'describe': 0.144, 'determine': 0.144, 'ao': 0.144, 'b': 0.144, 'shockdetachment': 0.144, 'distance': 0.144, 'course': 0.144, 'general': 0.144, 'apply': 0.144, 'provide': 0.144, 'correspond': 0.144, 'simplicity': 0.144, 'circular': 0.144, 'procedure': 0.144, 'outline': 0.144, 'parabolic': 0.144}
+For Document223 vector representation
+{'note': 0.199, 'theory': 0.227, 'stanton': 0.199, 'tube': 0.199, 'gadd': 0.199, 'g': 0.199, 'e': 0.199, 'arc': 0.199, 'r': 0.199, 'exist': 0.199, 'critically': 0.199, 'review': 0.199, 'paper': 0.199, 'outline': 0.199, 'simple': 0.199, 'method': 0.199, 'predicts': 0.199, 'calibration': 0.199, 'function': 0.199, 'high': 0.199, 'reynolds': 0.199, 'number': 0.199, 'right': 0.199, 'order': 0.199, 'magnitude': 0.199}
+
+
+
+Document Vector for Query20 weight2:
+For Document864 vector representation
+{'status': 0.191, 'flutter': 0.191, 'flat': 0.191, 'curve': 0.191, 'panel': 0.219, 'national': 0.191, 'advisory': 0.191, 'committee': 0.191, 'aeronautics': 0.191, 'representative': 0.191, 'result': 0.191, 'present': 0.191, 'show': 0.191, 'current': 0.191, 'problem': 0.191, 'discussion': 0.191, 'include': 0.191, 'without': 0.191, 'midplane': 0.191, 'stress': 0.191, 'buckle': 0.191, 'unstiffened': 0.191, 'stiffen': 0.191, 'infinitely': 0.191, 'long': 0.191, 'circular': 0.191, 'cylinder': 0.191}
+For Document409 vector representation
+{'base': 0.148, 'pressure': 0.148, 'result': 0.172, 'interaction': 0.148, 'supersonic': 0.148, 'external': 0.148, 'stream': 0.172, 'sonic': 0.148, 'subsonic': 0.148, 'jet': 0.148, 'chow': 0.148, 'w': 0.148, 'l': 0.148, 'j': 0.148, 'aero': 0.148, 'sc': 0.148, 'march': 0.148, 'p': 0.148, 'show': 0.148, 'two': 0.148, 'dimensional': 0.148, 'problem': 0.148, 'relate': 0.148, 'bleed': 0.148, 'wake': 0.148, 'blunt': 0.148, 'trail': 0.148, 'edge': 0.148, 'airfoil': 0.148, 'slipstream': 0.148, 'engine': 0.148, 'calculate': 0.148, 'theoretical': 0.148, 'consideration': 0.148, 'constant': 0.148, 'isoenergetic': 0.148, 'turbulent': 0.148, 'mix': 0.148, 'stagnant': 0.148, 'fluid': 0.148, 'assume': 0.148, 'calculation': 0.148, 'good': 0.148, 'agreement': 0.148, 'experimental': 0.148}
+For Document339 vector representation
+{'experimental': 0.171, 'evaluation': 0.171, 'heat': 0.171, 'transfer': 0.171, 'transpiration': 0.171, 'cool': 0.171, 'turbulent': 0.171, 'boundary': 0.171, 'layer': 0.171, 'bartle': 0.171, 'e': 0.171, 'r': 0.171, 'leadon': 0.171, 'b': 0.171, 'h': 0.171, 'j': 0.171, 'ae': 0.171, 'sc': 0.171, 'find': 0.171, 'prescribed': 0.171, 'velocity': 0.171, 'field': 0.171, 'electrical': 0.171, 'conductivity': 0.171, 'current': 0.171, 'calculated': 0.171, 'integration': 0.171, 'work': 0.171, 'relate': 0.171, 'analytic': 0.171, 'investigation': 0.171, 'physically': 0.171, 'reasonable': 0.171, 'accelerator': 0.171}
+For Document408 vector representation
+{'convective': 0.189, 'motion': 0.189, 'conduct': 0.189, 'fluid': 0.189, 'parallel': 0.189, 'vertical': 0.189, 'plate': 0.189, 'magnetic': 0.189, 'field': 0.189, 'regirer': 0.189, 'soviet': 0.189, 'physic': 0.189, 'stationary': 0.189, 'consider': 0.189, 'exact': 0.189, 'solution': 0.189, 'magnetohydrodynamic': 0.189, 'equation': 0.189, 'obtain': 0.189, 'case': 0.189, 'constant': 0.189, 'temperature': 0.189, 'gradient': 0.189, 'critical': 0.189, 'value': 0.189, 'grasshof': 0.189, 'number': 0.189, 'determine': 0.189}
+For Document878 vector representation
+{'experimental': 0.15, 'model': 0.173, 'technique': 0.15, 'equipment': 0.15, 'flutter': 0.15, 'investigation': 0.15, 'molyneux': 0.15, 'w': 0.15, 'g': 0.15, 'air': 0.15, 'eng': 0.15, 'outline': 0.15, 'give': 0.15, 'us': 0.15, 'aid': 0.15, 'designer': 0.15, 'avoidance': 0.15, 'detail': 0.15, 'different': 0.15, 'type': 0.15, 'method': 0.15, 'construction': 0.15, 'use': 0.15, 'various': 0.15, 'test': 0.173, 'facility': 0.15, 'available': 0.15, 'high': 0.15, 'speed': 0.15, 'low': 0.15, 'procedure': 0.15, 'follow': 0.15, 'u': 0.15, 'k': 0.15, 'clearance': 0.15, 'full': 0.15, 'scale': 0.15, 'aircraft': 0.15, 'describe': 0.15, 'value': 0.15, 'electronic': 0.15, 'simulator': 0.15, 'field': 0.15, 'discuss': 0.15}

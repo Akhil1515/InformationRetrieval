@@ -1,0 +1,133 @@
+The program was written in Python3.6
+
+First import the required packages.
+--> From datetime package import datetime which helps to know the execution time of the program
+--> From nltk.tokenize import word_tokenize which helps to tokenize the words
+--> Import re inorder to use regular expressions
+--> Counter from collections is used to count hashable objects
+--> PorterStemmer from nltk.stem is used for stemming
+
+The path to the cranfield location is entered as a command line argument along with the python file "testing.py"
+
+----------------------------TOKENIZATION--------------------------------
+
+Iterate through the 1400 files and compute:
+i) rem = re.compile('<(.*?)>') and k = re.sub(rem,'',f1) will remove all the tags.
+     Ex: Removes tags like <DOC>, <AUTHOR>, <TITLE>, <BIBLIO>
+
+ii) k = re.sub('[\d]+'," ",k) 
+  --> 'd' indicates all digits and the above sentence will remove all digits.
+     Ex: Converts number is between 1500 and 1600 to number is between and
+
+iii) k = re.sub('[\W]+'," ",k)
+  --> The above statement will remove all special characters which includes hyphens and all punctuations.
+     Ex: Converts hello,everyone to hello everyone
+     Ex: Converts "Good morning, guys" to Good morning guys
+
+iv) k = [item.lower() for item in k]
+  --> The above statement converts upper case to lower case
+     Ex: Converts University to university
+     Ex: Converts UNIVERSITY to university
+     Ex: Converts uNivesIty to university
+
+v) k = word_tokenize(k) 
+  --> tokenizes the file into words
+  -->nltk.tokenize.word_tokenize returns a tokenized copy of text, using NLTK’s recommended word tokenizer
+     Ex: Converts university of texas at dallas to ['university', 'of', 'texas', 'at', 'dallas']
+
+--->Time taken by the program to acquire text characteristics: 2.801 seconds
+
+--> most_common method present in collections.Counter retrieves n most frequently occuring words
+
+Data structures used:
+List: List is a collection which is ordered and changeable. Allows duplicate members.
+      Methods: extend, append, insert, remove, index, reverse, sort
+Set: Set is a collection which is unordered and unindexed. No duplicate members.
+     Methods: add, remove, copy, issubset, isdisjoint
+
+OUTPUT:
+1. The number of tokens in cranfield text collection: 233234
+2. The number of unique words in the cranfield text collection : 8387
+3. The number of words that appeared only once in the cranfield text collection : 3166
+4. The 30 most frequent words in the cranfield text collection:
+	the	19455
+	of	12717
+	and	6678
+	a	6273
+	in 	4651
+	to	4563
+	is 	4114
+	for 	3493
+	are 	2429
+	with 	2265
+	on 	1944
+	flow 	1849
+	at 	1835
+	by 	1756
+	that 	1570
+	an 	1389
+	be 	1271
+	pressure 1207
+	boundary 1156
+	from 	1116
+	as 	1113
+	this 	1081
+	layer 	1002
+	which 	975
+	number 	973
+	j 	894
+	results 885
+	it 	856
+	mach 	824
+	theory 	789
+5. Average number of word tokens per document: 166
+
+
+----------------------------STEMMING-----------------------------------
+
+Out of the different stemming techniques, we are using PorterStemmer
+
+-->PorterStemmer() will define the stemmer 
+
+--> stem() method will convert the tokens into stems
+
+OUTPUT:
+1.The number of distinct stems in the Cranfield text collection: 5657
+2.The number of stems that occur only once in the Cranfield text collection: 2086
+3.The 30 most frequent stems in the Cranfield text collection-
+	the	 19455
+	of 	12717
+	and 	6678
+	a 	6273
+	in 	4651
+	to 	4563
+	is 	4114
+	for 	3493
+	are 	2429
+	with 	2265
+	flow 	2080
+	on 	1944
+	at 	1835
+	by 	1756
+	that 	1570
+	an 	1389
+	pressur 1382
+	be 	1368
+	number 	1347
+	boundari 1185
+	layer 	1134
+	from 	1116
+	as 	1113
+	result 	1087
+	thi 	1081
+	it 	1044
+	effect 	998
+	which 	975
+	j 	894
+	method 	887
+4.The average number of word stems per document: 166
+  The average number of distinct word stems per document: 4
+ 
+
+
+
